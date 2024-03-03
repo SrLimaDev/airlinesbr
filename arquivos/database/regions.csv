@@ -1,0 +1,4090 @@
+id;code;local_code;name;continent;iso_country
+1;AD-02;2;Canillo;EU;AD
+2;AD-03;3;Encamp;EU;AD
+3;AD-04;4;La Massana;EU;AD
+4;AD-05;5;Ordino;EU;AD
+5;AD-06;6;Sant Julià de Lòria;EU;AD
+6;AD-07;7;Andorra la Vella;EU;AD
+7;AD-08;8;Escaldes-Engordany;EU;AD
+8;AD-U-A;U-A;(unassigned);EU;AD
+9;AE-AJ;AJ;Ajman Emirate;AS;AE
+10;AE-AZ;AZ;Abu Dhabi Emirate;AS;AE
+11;AE-DU;DU;Dubai Emirate;AS;AE
+12;AE-FU;FU;Fujairah Emirate;AS;AE
+13;AE-RK;RK;Ras al-Khaimah Emirate;AS;AE
+14;AE-SH;SH;Sharjah Emirate;AS;AE
+15;AE-U-A;U-A;(unassigned);AS;AE
+16;AE-UQ;UQ;Umm al-Quwain Emirate;AS;AE
+17;AF-BAL;BAL;Balkh Province;AS;AF
+18;AF-BAM;BAM;Bamiyan Province;AS;AF
+19;AF-BDG;BDG;Badghis Province;AS;AF
+20;AF-BDS;BDS;Badakhshan Province;AS;AF
+21;AF-BGL;BGL;Baghlan Province;AS;AF
+4898;AF-DAY;DAY;Daykundi Province;AS;AF
+22;AF-FRA;FRA;Farah Province;AS;AF
+23;AF-FYB;FYB;Faryab Province;AS;AF
+24;AF-GHA;GHA;Ghazni Province;AS;AF
+25;AF-GHO;GHO;Gh?r Province;AS;AF
+26;AF-HEL;HEL;Helmand Province;AS;AF
+27;AF-HER;HER;Herat Province;AS;AF
+28;AF-JOW;JOW;Jowzjan Province;AS;AF
+29;AF-KAB;KAB;Kabul Province;AS;AF
+30;AF-KAN;KAN;Kandahar Province;AS;AF
+31;AF-KAP;KAP;Kapisa Province;AS;AF
+32;AF-KDZ;KDZ;Kunduz Province;AS;AF
+33;AF-KHO;KHO;Khost Province;AS;AF
+34;AF-KNR;KNR;Kunar Province;AS;AF
+35;AF-LAG;LAG;Laghman Province;AS;AF
+36;AF-LOW;LOW;Logar Province;AS;AF
+37;AF-NAN;NAN;Nangarhar Province;AS;AF
+38;AF-NIM;NIM;Nimruz Province;AS;AF
+39;AF-NUR;NUR;Nurestan Province;AS;AF
+40;AF-ORU;ORU;Or?zg?n Province;AS;AF
+4899;AF-PAN;PAN;Panjshir Province;AS;AF
+41;AF-PAR;PAR;Parwan Province;AS;AF
+42;AF-PIA;PIA;Paktia Province;AS;AF
+43;AF-PKA;PKA;Paktika Province;AS;AF
+44;AF-SAM;SAM;Samangan Province;AS;AF
+45;AF-SAR;SAR;Sar-e Pol Province;AS;AF
+46;AF-TAK;TAK;Takhar Province;AS;AF
+47;AF-U-A;U-A;(unassigned);AS;AF
+48;AF-WAR;WAR;Wardak Province;AS;AF
+49;AF-ZAB;ZAB;Zabul Province;AS;AF
+4769;AG-03;3;Saint George;NA;AG
+4770;AG-04;4;Saint John;NA;AG
+4771;AG-05;5;Saint Mary;NA;AG
+4772;AG-06;6;Saint Paul;NA;AG
+4773;AG-07;7;Saint Peter;NA;AG
+4774;AG-08;8;Saint Philip;NA;AG
+4775;AG-10;9;Barbuda;NA;AG
+50;AG-U-A;U-A;(unassigned);NA;AG
+51;AI-U-A;U-A;(unassigned);NA;AI
+52;AL-BR;BR;Berat;EU;AL
+53;AL-BU;BU;Bulqizë;EU;AL
+54;AL-DI;DI;Dibër;EU;AL
+55;AL-DL;DL;Delvinë;EU;AL
+56;AL-DR;DR;Durrës;EU;AL
+57;AL-DV;DV;Devoll;EU;AL
+58;AL-EL;EL;Elbasan;EU;AL
+59;AL-ER;ER;Kolonjë;EU;AL
+60;AL-FR;FR;Fier;EU;AL
+61;AL-GJ;GJ;Gjirokastër;EU;AL
+62;AL-GR;GR;Gramsh;EU;AL
+63;AL-HA;HA;Has;EU;AL
+64;AL-KA;KA;Kavajë;EU;AL
+65;AL-KB;KB;Kurbin;EU;AL
+66;AL-KC;KC;Kuçovë;EU;AL
+67;AL-KO;KO;Korçë;EU;AL
+68;AL-KR;KR;Krujë;EU;AL
+69;AL-KU;KU;Kukës;EU;AL
+70;AL-LB;LB;Librazhd;EU;AL
+71;AL-LE;LE;Lezhë;EU;AL
+72;AL-LU;LU;Lushnjë;EU;AL
+73;AL-MK;MK;Mallakastër;EU;AL
+74;AL-MM;MM;Malësi e Madhe;EU;AL
+75;AL-MR;MR;Mirditë;EU;AL
+76;AL-MT;MT;Mat;EU;AL
+77;AL-PG;PG;Pogradec;EU;AL
+78;AL-PQ;PQ;Peqin;EU;AL
+79;AL-PR;PR;Përmet;EU;AL
+80;AL-PU;PU;Pukë;EU;AL
+81;AL-SH;SH;Shkodër;EU;AL
+82;AL-SK;SK;Skrapar;EU;AL
+83;AL-SR;SR;Sarandë;EU;AL
+84;AL-TE;TE;Tepelenë;EU;AL
+85;AL-TP;TP;Tropojë;EU;AL
+86;AL-TR;TR;Tiranë;EU;AL
+87;AL-U-A;U-A;(unassigned);EU;AL
+88;AL-VL;VL;Vlorë;EU;AL
+89;AM-AG;AG;Aragatsotn Province;AS;AM
+90;AM-AR;AR;Ararat Province;AS;AM
+91;AM-AV;AV;Armavir Province;AS;AM
+92;AM-ER;ER;Yerevan (capital district);AS;AM
+93;AM-GR;GR;Gegharkunik Province;AS;AM
+94;AM-KT;KT;Kotayk Province;AS;AM
+95;AM-LO;LO;Lori Province;AS;AM
+96;AM-SH;SH;Shirak Province;AS;AM
+97;AM-SU;SU;Syunik Province;AS;AM
+98;AM-TV;TV;Tavush Province;AS;AM
+99;AM-U-A;U-A;(unassigned);AS;AM
+100;AM-VD;VD;Vayots Dzor Province;AS;AM
+101;AN-U-A;U-A;(unassigned);NA;AN
+102;AO-BGO;BGO;Bengo Province;AF;AO
+103;AO-BGU;BGU;Benguela Province;AF;AO
+104;AO-BIE;BIE;Bié Province;AF;AO
+105;AO-CAB;CAB;Cabinda Province;AF;AO
+106;AO-CCU;CCU;Cuando Cubango Province;AF;AO
+107;AO-CNN;CNN;Cunene Province;AF;AO
+108;AO-CNO;CNO;Cuanza Norte Province;AF;AO
+109;AO-CUS;CUS;Cuanza Sul Province;AF;AO
+110;AO-HUA;HUA;Huambo Province;AF;AO
+111;AO-HUI;HUI;Huíla Province;AF;AO
+112;AO-LNO;LNO;Lunda Norte Province;AF;AO
+113;AO-LSU;LSU;Lunda Sul Province;AF;AO
+114;AO-LUA;LUA;Luanda Province;AF;AO
+115;AO-MAL;MAL;Malanje Province;AF;AO
+116;AO-MOX;MOX;Moxico Province;AF;AO
+117;AO-NAM;NAM;Namibe Province;AF;AO
+118;AO-U-A;U-A;(unassigned);AF;AO
+119;AO-UIG;UIG;Uíge Province;AF;AO
+120;AO-ZAI;ZAI;Zaire Province;AF;AO
+121;AQ-U-A;U-A;(unassigned);AN;AQ
+122;AR-A;A;Salta Province;SA;AR
+123;AR-B;B;Buenos Aires Province;SA;AR
+124;AR-C;C;Capital federal;SA;AR
+125;AR-D;D;San Luis Province;SA;AR
+126;AR-E;E;Entre Ríos Province;SA;AR
+4125;AR-F;F;La Rioja Province;SA;AR
+127;AR-G;G;Santiago del Estero Province;SA;AR
+128;AR-H;H;Chaco Province;SA;AR
+129;AR-J;J;San Juan Province;SA;AR
+130;AR-K;K;Catamarca Province;SA;AR
+131;AR-L;L;La Pampa Province;SA;AR
+132;AR-M;M;Mendoza Province;SA;AR
+133;AR-N;N;Misiones Province;SA;AR
+134;AR-P;P;Formosa Province;SA;AR
+135;AR-Q;Q;Neuquén Province;SA;AR
+136;AR-R;R;Río Negro Province;SA;AR
+137;AR-S;S;Santa Fe Province;SA;AR
+138;AR-T;T;Tucumán Province;SA;AR
+139;AR-U;U;Chubut Province;SA;AR
+140;AR-U-A;U-A;(unassigned);SA;AR
+141;AR-V;V;Tierra del Fuego Province;SA;AR
+142;AR-W;W;Corrientes Province;SA;AR
+143;AR-X;X;Córdoba Province;SA;AR
+144;AR-Y;Y;Jujuy Province;SA;AR
+145;AR-Z;Z;Santa Cruz Province;SA;AR
+146;AS-U-A;U-A;(unassigned);OC;AS
+147;AT-1;1;Burgenland;EU;AT
+148;AT-2;2;Carinthia;EU;AT
+149;AT-3;3;Lower Austria;EU;AT
+150;AT-4;4;Upper Austria;EU;AT
+151;AT-5;5;Salzburg;EU;AT
+152;AT-6;6;Styria;EU;AT
+153;AT-7;7;Tyrol;EU;AT
+154;AT-8;8;Vorarlberg;EU;AT
+155;AT-9;9;Vienna;EU;AT
+156;AT-U-A;U-A;(unassigned);EU;AT
+157;AU-AAT;AAT;Australian Antarctic Territory;OC;AU
+158;AU-ACT;ACT;Australian Capital Territory;OC;AU
+159;AU-NSW;NSW;New South Wales;OC;AU
+160;AU-NT;NT;Northern Territory;OC;AU
+161;AU-QLD;QLD;Queensland;OC;AU
+162;AU-SA;SA;South Australia;OC;AU
+163;AU-TAS;TAS;Tasmania;OC;AU
+164;AU-U-A;U-A;(unassigned);OC;AU
+165;AU-VIC;VIC;Victoria;OC;AU
+166;AU-WA;WA;Western Australia;OC;AU
+167;AW-U-A;U-A;(unassigned);NA;AW
+168;AZ-AB;AB;Ali Bayramli;AS;AZ
+169;AZ-ABS;ABS;Abseron;AS;AZ
+170;AZ-AGA;AGA;Agstafa;AS;AZ
+171;AZ-AGC;AGC;Agcabadi;AS;AZ
+172;AZ-AGM;AGM;Agdam;AS;AZ
+173;AZ-AGS;AGS;Agdas;AS;AZ
+174;AZ-AGU;AGU;Agsu;AS;AZ
+175;AZ-AST;AST;Astara;AS;AZ
+176;AZ-BA;BA;Baki;AS;AZ
+177;AZ-BAB;BAB;Babak;AS;AZ
+178;AZ-BAL;BAL;Balakan;AS;AZ
+179;AZ-BAR;BAR;Barda;AS;AZ
+180;AZ-BEY;BEY;Beylagan;AS;AZ
+181;AZ-BIL;BIL;Bilasuvar;AS;AZ
+182;AZ-CAB;CAB;Cabrayll;AS;AZ
+183;AZ-CAL;CAL;Calilabad;AS;AZ
+184;AZ-CUL;CUL;Culfa;AS;AZ
+185;AZ-DAS;DAS;Daskasan;AS;AZ
+186;AZ-DAV;DAV;Davaci;AS;AZ
+187;AZ-FUZ;FUZ;Fuzuli;AS;AZ
+188;AZ-GA;GA;Ganca;AS;AZ
+189;AZ-GAD;GAD;Gadabay;AS;AZ
+190;AZ-GOR;GOR;Goranboy;AS;AZ
+191;AZ-GOY;GOY;Goycay;AS;AZ
+192;AZ-HAC;HAC;Haciqabul;AS;AZ
+193;AZ-IMI;IMI;Imisli;AS;AZ
+194;AZ-ISM;ISM;Ismayilli;AS;AZ
+195;AZ-KAL;KAL;Kalbacar;AS;AZ
+196;AZ-KUR;KUR;Kurdamir;AS;AZ
+197;AZ-LA;LA;Lankaran;AS;AZ
+198;AZ-LAC;LAC;Lacin;AS;AZ
+199;AZ-LER;LER;Lerik;AS;AZ
+200;AZ-MAS;MAS;Masalli;AS;AZ
+201;AZ-MI;MI;Mingacevir;AS;AZ
+202;AZ-NA;NA;Naftalan;AS;AZ
+203;AZ-NEF;NEF;Neftcala;AS;AZ
+204;AZ-NX;NX;Naxcivan;AS;AZ
+205;AZ-OGU;OGU;Oguz;AS;AZ
+206;AZ-ORD;ORD;Ordubad;AS;AZ
+207;AZ-QAB;QAB;Qabala;AS;AZ
+208;AZ-QAX;QAX;Qax;AS;AZ
+209;AZ-QAZ;QAZ;Qazax;AS;AZ
+210;AZ-QBA;QBA;Quba;AS;AZ
+211;AZ-QBI;QBI;Qubadli;AS;AZ
+212;AZ-QOB;QOB;Qobustan;AS;AZ
+213;AZ-QUS;QUS;Qusar;AS;AZ
+214;AZ-SA;SA;Saki;AS;AZ
+215;AZ-SAB;SAB;Sabirabad;AS;AZ
+216;AZ-SAD;SAD;Sadarak;AS;AZ
+217;AZ-SAH;SAH;Sahbuz;AS;AZ
+218;AZ-SAL;SAL;Salyan;AS;AZ
+219;AZ-SAR;SAR;Sarur;AS;AZ
+220;AZ-SAT;SAT;Saatli;AS;AZ
+221;AZ-SIY;SIY;Siyazan;AS;AZ
+222;AZ-SKR;SKR;Samkir;AS;AZ
+223;AZ-SM;SM;Sumqayit;AS;AZ
+224;AZ-SMI;SMI;Samaxi;AS;AZ
+225;AZ-SMX;SMX;Samux;AS;AZ
+226;AZ-SS;SS;Susa;AS;AZ
+227;AZ-TAR;TAR;Tartar;AS;AZ
+228;AZ-TOV;TOV;Tovuz;AS;AZ
+229;AZ-U-A;U-A;(unassigned);AS;AZ
+230;AZ-UCA;UCA;Ucar;AS;AZ
+231;AZ-XA;XA;Xankandi;AS;AZ
+232;AZ-XAC;XAC;Xacmaz;AS;AZ
+233;AZ-XAN;XAN;Xanlar;AS;AZ
+234;AZ-XCI;XCI;Xocali;AS;AZ
+235;AZ-XIZ;XIZ;Xizi;AS;AZ
+236;AZ-XVD;XVD;Xocavand;AS;AZ
+237;AZ-YAR;YAR;Yardimli;AS;AZ
+238;AZ-YE;YE;Yevlax;AS;AZ
+239;AZ-ZAN;ZAN;Zangilan;AS;AZ
+240;AZ-ZAQ;ZAQ;Zaqatala;AS;AZ
+241;AZ-ZAR;ZAR;Zardab;AS;AZ
+242;BA-BIH;BIH;Federacija Bosna i Hercegovina;EU;BA
+243;BA-SRP;SRP;Republika Srpska;EU;BA
+244;BA-U-A;U-A;(unassigned);EU;BA
+245;BB-01;1;Christ Church;NA;BB
+246;BB-02;2;Saint Andrew;NA;BB
+247;BB-03;3;Saint George;NA;BB
+248;BB-04;4;Saint James;NA;BB
+249;BB-05;5;Saint John;NA;BB
+250;BB-06;6;Saint Joseph;NA;BB
+251;BB-07;7;Saint Lucy;NA;BB
+252;BB-08;8;Saint Michael;NA;BB
+253;BB-09;9;Saint Peter;NA;BB
+254;BB-10;10;Saint Philip;NA;BB
+255;BB-11;11;Saint Thomas;NA;BB
+256;BB-U-A;U-A;(unassigned);NA;BB
+4743;BD-1;1;Barisal Division;AS;BD
+4744;BD-2;2;Chittagong Division;AS;BD
+4742;BD-3;3;Dhaka Division;AS;BD
+4741;BD-4;4;Khulna Division;AS;BD
+4740;BD-5;5;Rajshahi Division;AS;BD
+4739;BD-6;6;Sylhet Division;AS;BD
+321;BD-U-A;U-A;(unassigned);AS;BD
+322;BE-BRU;BRU;Brussels-Capital Region;EU;BE
+323;BE-U-A;U-A;(unassigned);EU;BE
+324;BE-VAN;VAN;Antwerp;EU;BE
+325;BE-VBR;VBR;Flemish Brabant;EU;BE
+326;BE-VLI;VLI;Limburg;EU;BE
+327;BE-VOV;VOV;East Flanders;EU;BE
+328;BE-VWV;VWV;West Flanders;EU;BE
+329;BE-WBR;WBR;Walloon Brabant;EU;BE
+330;BE-WHT;WHT;Hainaut;EU;BE
+331;BE-WLG;WLG;Liège;EU;BE
+332;BE-WLX;WLX;Luxembourg;EU;BE
+333;BE-WNA;WNA;Namur;EU;BE
+334;BF-BAL;BAL;Bale;AF;BF
+335;BF-BAM;BAM;Bam;AF;BF
+336;BF-BAN;BAN;Banwa;AF;BF
+337;BF-BAZ;BAZ;Bazega;AF;BF
+338;BF-BGR;BGR;Bougouriba;AF;BF
+339;BF-BLG;BLG;Boulgou;AF;BF
+340;BF-BLK;BLK;Boulkiemde;AF;BF
+341;BF-COM;COM;Comoe;AF;BF
+342;BF-GAN;GAN;Ganzourgou;AF;BF
+343;BF-GNA;GNA;Gnagna;AF;BF
+344;BF-GOU;GOU;Gourma;AF;BF
+345;BF-HOU;HOU;Houet;AF;BF
+346;BF-IOB;IOB;Ioba;AF;BF
+347;BF-KAD;KAD;Kadiogo;AF;BF
+348;BF-KEN;KEN;Kenedougou;AF;BF
+349;BF-KMD;KMD;Komondjari;AF;BF
+350;BF-KMP;KMP;Kompienga;AF;BF
+351;BF-KOP;KOP;Koulpulogo;AF;BF
+352;BF-KOS;KOS;Kossi;AF;BF
+353;BF-KOT;KOT;Kouritenga;AF;BF
+354;BF-KOW;KOW;Kourweogo;AF;BF
+355;BF-LER;LER;Leraba;AF;BF
+356;BF-LOR;LOR;Loroum;AF;BF
+357;BF-MOU;MOU;Mouhoun;AF;BF
+358;BF-NAM;NAM;Namentenga;AF;BF
+359;BF-NAO;NAO;Nahouri;AF;BF
+360;BF-NAY;NAY;Nayala;AF;BF
+361;BF-NOU;NOU;Noumbiel;AF;BF
+362;BF-OUB;OUB;Oubritenga;AF;BF
+363;BF-OUD;OUD;Oudalan;AF;BF
+364;BF-PAS;PAS;Passore;AF;BF
+365;BF-PON;PON;Poni;AF;BF
+366;BF-SEN;SEN;Seno;AF;BF
+367;BF-SIS;SIS;Siasili;AF;BF
+368;BF-SMT;SMT;Sanmatenga;AF;BF
+369;BF-SNG;SNG;Sanguie;AF;BF
+370;BF-SOM;SOM;Soum;AF;BF
+371;BF-SOR;SOR;Sourou;AF;BF
+372;BF-TAP;TAP;Tapoa;AF;BF
+373;BF-TUI;TUI;Tui;AF;BF
+374;BF-U-A;U-A;(unassigned);AF;BF
+375;BF-YAG;YAG;Yagha;AF;BF
+376;BF-YAT;YAT;Yatenga;AF;BF
+377;BF-ZIR;ZIR;Ziro;AF;BF
+378;BF-ZON;ZON;Zondoma;AF;BF
+379;BF-ZOU;ZOU;Zoundweogo;AF;BF
+380;BG-01;1;Blagoevgrad;EU;BG
+381;BG-02;2;Burgas;EU;BG
+382;BG-03;3;Varna;EU;BG
+383;BG-04;4;Veliko Tarnovo;EU;BG
+384;BG-05;5;Vidin;EU;BG
+385;BG-06;6;Vraca;EU;BG
+386;BG-07;7;Gabrovo;EU;BG
+387;BG-08;8;Dobric;EU;BG
+388;BG-09;9;Kardzali;EU;BG
+389;BG-10;10;Kyustendil;EU;BG
+390;BG-11;11;Lovec;EU;BG
+391;BG-12;12;Montana;EU;BG
+392;BG-13;13;Pazardzik;EU;BG
+393;BG-14;14;Pernik;EU;BG
+394;BG-15;15;Pleven;EU;BG
+395;BG-16;16;Plovdiv;EU;BG
+396;BG-17;17;Razgrad;EU;BG
+397;BG-18;18;Ruse;EU;BG
+398;BG-19;19;Silistra;EU;BG
+399;BG-20;20;Sliven;EU;BG
+400;BG-21;21;Smoljan;EU;BG
+401;BG-23;23;Sofia;EU;BG
+402;BG-24;24;Stara Zagora;EU;BG
+403;BG-25;25;Targovishte;EU;BG
+404;BG-26;26;Haskovo;EU;BG
+405;BG-27;27;Sumen;EU;BG
+406;BG-28;28;Jambol;EU;BG
+407;BG-U-A;U-A;(unassigned);EU;BG
+4734;BH-13;13;Capital Governorate;AS;BH
+4733;BH-14;14;Southern Governorate;AS;BH
+4732;BH-15;15;Muharraq Governorate;AS;BH
+4731;BH-16;16;Central Governorate;AS;BH
+4730;BH-17;17;Northern Governorate;AS;BH
+420;BH-U-A;U-A;(unassigned);AS;BH
+421;BI-BB;BB;Bubanza;AF;BI
+422;BI-BJ;BJ;Bujumbura;AF;BI
+423;BI-BR;BR;Bururi;AF;BI
+424;BI-CA;CA;Cankuzo;AF;BI
+425;BI-CI;CI;Cibitoke;AF;BI
+426;BI-GI;GI;Gitega;AF;BI
+427;BI-KR;KR;Karuzi;AF;BI
+428;BI-KY;KY;Kayanza;AF;BI
+429;BI-MA;MA;Makamba;AF;BI
+430;BI-MU;MU;Muramvya;AF;BI
+431;BI-MW;MW;Mwaro;AF;BI
+432;BI-NG;NG;Ngozi;AF;BI
+433;BI-RT;RT;Rutana;AF;BI
+434;BI-RY;RY;Ruyigi;AF;BI
+435;BI-U-A;U-A;(unassigned);AF;BI
+436;BJ-AK;AK;Atakora;AF;BJ
+437;BJ-AL;AL;Alibori;AF;BJ
+438;BJ-AQ;AQ;Atlantique;AF;BJ
+439;BJ-BO;BO;Borgou;AF;BJ
+440;BJ-CO;CO;Collines;AF;BJ
+441;BJ-DO;DO;Donga;AF;BJ
+442;BJ-KO;KO;Kouffo;AF;BJ
+443;BJ-LI;LI;Littoral;AF;BJ
+444;BJ-MO;MO;Mono;AF;BJ
+445;BJ-OU;OU;Oueme;AF;BJ
+446;BJ-PL;PL;Plateau;AF;BJ
+447;BJ-U-A;U-A;(unassigned);AF;BJ
+448;BJ-ZO;ZO;Zou;AF;BJ
+4727;BL-U-A;U-A;(unassigned);NA;BL
+449;BM-U-A;U-A;(unassigned);NA;BM
+450;BN-BE;BE;Belait;AS;BN
+451;BN-BM;BM;Brunei-Muara;AS;BN
+452;BN-TE;TE;Temburong;AS;BN
+453;BN-TU;TU;Tutong;AS;BN
+454;BN-U-A;U-A;(unassigned);AS;BN
+455;BO-B;B;El Beni;SA;BO
+456;BO-C;C;Cochabamba;SA;BO
+457;BO-H;H;Chuquisaca;SA;BO
+458;BO-L;L;La Paz;SA;BO
+459;BO-N;N;Pando;SA;BO
+460;BO-O;O;Oruro;SA;BO
+461;BO-P;P;Potosí;SA;BO
+462;BO-S;S;Santa Cruz;SA;BO
+463;BO-T;T;Tarija;SA;BO
+464;BO-U-A;U-A;(unassigned);SA;BO
+465;BR-AC;AC;Acre;SA;BR
+466;BR-AL;AL;Alagoas;SA;BR
+467;BR-AM;AM;Amazonas;SA;BR
+468;BR-AP;AP;Amapá;SA;BR
+469;BR-BA;BA;Bahia;SA;BR
+470;BR-CE;CE;Ceará;SA;BR
+471;BR-DF;DF;Distrito Federal;SA;BR
+472;BR-ES;ES;Espírito Santo;SA;BR
+474;BR-GO;GO;Goiás;SA;BR
+475;BR-MA;MA;Maranhão;SA;BR
+476;BR-MG;MG;Minas Gerais;SA;BR
+477;BR-MS;MS;Mato Grosso do Sul;SA;BR
+478;BR-MT;MT;Mato Grosso;SA;BR
+479;BR-PA;PA;Pará;SA;BR
+480;BR-PB;PB;Paraíba;SA;BR
+481;BR-PE;PE;Pernambuco;SA;BR
+482;BR-PI;PI;Piauí;SA;BR
+483;BR-PR;PR;Paraná;SA;BR
+484;BR-RJ;RJ;Rio de Janeiro;SA;BR
+485;BR-RN;RN;Rio Grande do Norte;SA;BR
+486;BR-RO;RO;Rondônia;SA;BR
+487;BR-RR;RR;Roraima;SA;BR
+488;BR-RS;RS;Rio Grande do Sul;SA;BR
+489;BR-SC;SC;Santa Catarina;SA;BR
+490;BR-SE;SE;Sergipe;SA;BR
+491;BR-SP;SP;São Paulo;SA;BR
+492;BR-TO;TO;Tocatins;SA;BR
+493;BR-U-A;U-A;(unassigned);SA;BR
+494;BS-AC;AC;Acklins and Crooked Islands;NA;BS
+495;BS-BI;BI;Bimini;NA;BS
+496;BS-CI;CI;Cat Island;NA;BS
+497;BS-EX;EX;Exuma;NA;BS
+498;BS-FC;FC;Fresh Creek;NA;BS
+499;BS-FP;FP;Freeport;NA;BS
+500;BS-GH;GH;Governor's Harbour;NA;BS
+501;BS-GT;GT;Green Turtle Cay;NA;BS
+502;BS-HI;HI;Harbour Island;NA;BS
+503;BS-HR;HR;High Rock;NA;BS
+504;BS-IN;IN;Inagua;NA;BS
+505;BS-KB;KB;Kemps Bay;NA;BS
+506;BS-LI;LI;Long Island;NA;BS
+507;BS-MG;MG;Mayaguana;NA;BS
+508;BS-MH;MH;Marsh Harbour;NA;BS
+509;BS-NB;NB;Nicholls Town and Berry Islands;NA;BS
+510;BS-NP;NP;New Providence;NA;BS
+511;BS-RI;RI;Ragged Island;NA;BS
+512;BS-RS;RS;Rock Sound;NA;BS
+513;BS-SP;SP;Sandy Point;NA;BS
+514;BS-SR;SR;San Salvador and Rum Cay;NA;BS
+515;BS-U-A;U-A;(unassigned);NA;BS
+516;BT-11;11;Paro;AS;BT
+517;BT-12;12;Chhukha;AS;BT
+518;BT-13;13;Ha;AS;BT
+519;BT-14;14;Samtee;AS;BT
+520;BT-15;15;Thimphu;AS;BT
+521;BT-21;21;Tsirang;AS;BT
+522;BT-22;22;Dagana;AS;BT
+523;BT-23;23;Punakha;AS;BT
+524;BT-24;24;Wangdue Phodrang;AS;BT
+525;BT-31;31;Sarpang;AS;BT
+526;BT-32;32;Trongsa;AS;BT
+527;BT-33;33;Bumthang;AS;BT
+528;BT-34;34;Zhemgang;AS;BT
+529;BT-41;41;Trashigang;AS;BT
+530;BT-42;42;Monggar;AS;BT
+531;BT-43;43;Pemagatshel;AS;BT
+532;BT-44;44;Lhuentse;AS;BT
+533;BT-45;45;Samdrup Jongkha;AS;BT
+534;BT-GA;GA;Gasa;AS;BT
+535;BT-TY;TY;Trashi Yangtse;AS;BT
+536;BT-U-A;U-A;(unassigned);AS;BT
+537;BW-CE;CE;Central District;AF;BW
+538;BW-GH;GH;Ghanzi District;AF;BW
+539;BW-KG;KG;Kgalagadi District;AF;BW
+540;BW-KL;KL;Kgatleng District;AF;BW
+541;BW-KW;KW;Kweneng District;AF;BW
+542;BW-NE;NE;North-East District;AF;BW
+544;BW-NW;NW;North-West District;AF;BW
+545;BW-SE;SE;South-East District;AF;BW
+546;BW-SO;SO;Southern District;AF;BW
+547;BW-U-A;U-A;(unassigned);AF;BW
+548;BY-BR;BR;Brest Voblast;EU;BY
+549;BY-HO;HO;Homiel Voblast;EU;BY
+550;BY-HR;HR;Hrodna Voblast;EU;BY
+551;BY-MA;MA;Mahilyow Voblast;EU;BY
+552;BY-MI;MI;Minsk Voblast;EU;BY
+553;BY-U-A;U-A;(unassigned);EU;BY
+554;BY-VI;VI;Vitsebsk Voblast;EU;BY
+555;BZ-BZ;BZ;Belize District;NA;BZ
+556;BZ-CY;CY;Cayo District;NA;BZ
+557;BZ-CZL;CZL;Corozal District;NA;BZ
+558;BZ-OW;OW;Orange Walk District;NA;BZ
+559;BZ-SC;SC;Stann Creek District;NA;BZ
+560;BZ-TOL;TOL;Toledo District;NA;BZ
+561;BZ-U-A;U-A;(unassigned);NA;BZ
+562;CA-AB;AB;Alberta;NA;CA
+563;CA-BC;BC;British Columbia;NA;CA
+564;CA-MB;MB;Manitoba;NA;CA
+565;CA-NB;NB;New Brunswick;NA;CA
+566;CA-NL;NL;Newfoundland and Labrador;NA;CA
+567;CA-NS;NS;Nova Scotia;NA;CA
+568;CA-NT;NT;Northwest Territories;NA;CA
+569;CA-NU;NU;Nunavut;NA;CA
+570;CA-ON;ON;Ontario;NA;CA
+571;CA-PE;PE;Prince Edward Island;NA;CA
+572;CA-QC;QC;Quebec;NA;CA
+573;CA-SK;SK;Saskatchewan;NA;CA
+574;CA-U-A;U-A;(unassigned);NA;CA
+575;CA-YT;YT;Yukon Territory;NA;CA
+576;CC-U-A;U-A;(unassigned);AS;CC
+577;CD-BC;BC;Bas-Congo;AF;CD
+578;CD-BN;BN;Bandundu;AF;CD
+579;CD-EQ;EQ;Equateur;AF;CD
+580;CD-HC;HC;Haut-Congo;AF;CD
+581;CD-KA;KA;Katanga;AF;CD
+582;CD-KE;KE;Kasai-Oriental;AF;CD
+583;CD-KN;KN;Kinshasa;AF;CD
+584;CD-KW;KW;Kasai-Occidental;AF;CD
+585;CD-MA;MA;Maniema;AF;CD
+586;CD-NK;NK;Nord-Kivu;AF;CD
+587;CD-OR;OR;Orientale;AF;CD
+588;CD-SK;SK;Sud-Kivu;AF;CD
+589;CD-U-A;U-A;(unassigned);AF;CD
+590;CF-AC;AC;Ouham;AF;CF
+591;CF-BB;BB;Bamingui-Bangoran;AF;CF
+592;CF-BGF;BGF;Bangui;AF;CF
+593;CF-BK;BK;Basse-Kotto;AF;CF
+594;CF-HK;HK;Haute-Kotto;AF;CF
+595;CF-HM;HM;Haut-Mbomou;AF;CF
+596;CF-HS;HS;Mambéré-Kadéï;AF;CF
+597;CF-KB;KB;Nana-Grébizi;AF;CF
+598;CF-KG;KG;Kémo;AF;CF
+599;CF-LB;LB;Lobaye;AF;CF
+600;CF-MB;MB;Mbomou;AF;CF
+601;CF-MP;MP;Ombella-M'Poko;AF;CF
+602;CF-NM;NM;Nana-Mambéré;AF;CF
+603;CF-OP;OP;Ouham-Pendé;AF;CF
+604;CF-SE;SE;Sangha-Mbaéré;AF;CF
+605;CF-U-A;U-A;(unassigned);AF;CF
+606;CF-UK;UK;Ouaka;AF;CF
+607;CF-VR;VR;Vakaga;AF;CF
+608;CG-11;11;Bouenza;AF;CG
+609;CG-12;12;Pool;AF;CG
+610;CG-13;13;Sangha;AF;CG
+611;CG-14;14;Plateaux;AF;CG
+612;CG-15;15;Cuvette-Ouest;AF;CG
+613;CG-2;2;Lekoumou;AF;CG
+614;CG-5;5;Kouilou;AF;CG
+615;CG-7;7;Likouala;AF;CG
+616;CG-8;8;Cuvette;AF;CG
+617;CG-9;9;Niari;AF;CG
+618;CG-BZV;BZV;Brazzaville;AF;CG
+619;CG-U-A;U-A;(unassigned);AF;CG
+620;CH-AG;AG;Aargau;EU;CH
+621;CH-AI;AI;Appenzell Innerrhoden;EU;CH
+622;CH-AR;AR;Appenzell Ausserrhoden;EU;CH
+623;CH-BE;BE;Berne;EU;CH
+624;CH-BL;BL;Basel-Country;EU;CH
+625;CH-BS;BS;Basel-City;EU;CH
+626;CH-FR;FR;Fribourg;EU;CH
+627;CH-GE;GE;Geneva;EU;CH
+628;CH-GL;GL;Glarus;EU;CH
+629;CH-GR;GR;Grisons;EU;CH
+630;CH-JU;JU;Jura;EU;CH
+631;CH-LU;LU;Lucerne;EU;CH
+632;CH-NE;NE;Neuchâtel;EU;CH
+633;CH-NW;NW;Nidwalden;EU;CH
+634;CH-OW;OW;Obwalden;EU;CH
+635;CH-SG;SG;St. Gallen;EU;CH
+636;CH-SH;SH;Schaffhausen;EU;CH
+637;CH-SO;SO;Solothurn;EU;CH
+638;CH-SZ;SZ;Schwyz;EU;CH
+639;CH-TG;TG;Thurgau;EU;CH
+640;CH-TI;TI;Ticino;EU;CH
+641;CH-U-A;U-A;(unassigned);EU;CH
+642;CH-UR;UR;Uri;EU;CH
+643;CH-VD;VD;Vaud;EU;CH
+644;CH-VS;VS;Valais;EU;CH
+645;CH-ZG;ZG;Zug;EU;CH
+646;CH-ZH;ZH;Zurich;EU;CH
+647;CI-01;1;Lagunes;AF;CI
+648;CI-02;2;Haut-Sassandra;AF;CI
+649;CI-03;3;Savanes;AF;CI
+650;CI-04;4;Vallée du Bandama;AF;CI
+651;CI-05;5;Moyen-Comoé;AF;CI
+652;CI-06;6;Dix-Huit Montagnes;AF;CI
+653;CI-07;7;Lacs;AF;CI
+654;CI-08;8;Zanzan;AF;CI
+655;CI-09;9;Bas-Sassandra;AF;CI
+656;CI-10;10;Denguélé;AF;CI
+657;CI-11;11;N'zi-Comoé;AF;CI
+658;CI-12;12;Marahoué;AF;CI
+659;CI-13;13;Sud-Comoé;AF;CI
+660;CI-14;14;Worodouqou;AF;CI
+661;CI-15;15;Sud-Bandama;AF;CI
+662;CI-16;16;Agnéby;AF;CI
+4192;CI-17;17;Bafing;AF;CI
+4191;CI-18;18;Fromager;AF;CI
+4190;CI-19;19;Moyen-Cavally;AF;CI
+663;CI-U-A;U-A;(unassigned);AF;CI
+664;CK-U-A;U-A;(unassigned);OC;CK
+665;CL-AI;AI;Aisén del General Carlos Ibañez;SA;CL
+666;CL-AN;AN;Antofagasta;SA;CL
+4188;CL-AP;AP;Arica and Parinacota;SA;CL
+667;CL-AR;AR;Araucanía;SA;CL
+668;CL-AT;AT;Atacama;SA;CL
+669;CL-BI;BI;Bío-Bío;SA;CL
+670;CL-CO;CO;Coquimbo;SA;CL
+671;CL-LI;LI;O'Higgins;SA;CL
+672;CL-LL;LL;Los Lagos;SA;CL
+4189;CL-LR;LR;Los Ríos;SA;CL
+673;CL-MA;MA;Magallanes;SA;CL
+674;CL-ML;ML;Maule;SA;CL
+675;CL-RM;RM;Santiago Metropolitan Region;SA;CL
+676;CL-TA;TA;Tarapacá;SA;CL
+677;CL-U-A;U-A;(unassigned);SA;CL
+678;CL-VS;VS;Valparaíso;SA;CL
+679;CM-AD;AD;Adamaoua Region;AF;CM
+680;CM-CE;CE;Centre Region;AF;CM
+681;CM-EN;EN;Far North Region;AF;CM
+682;CM-ES;ES;East Region;AF;CM
+683;CM-LT;LT;Littoral Region;AF;CM
+684;CM-NO;NO;North Region;AF;CM
+685;CM-NW;NW;North-West Region;AF;CM
+686;CM-OU;OU;West Region;AF;CM
+687;CM-SU;SU;South Region;AF;CM
+688;CM-SW;SW;South-West Region;AF;CM
+689;CM-U-A;U-A;(unassigned);AF;CM
+690;CN-11;11;Beijing Municipality;AS;CN
+691;CN-12;12;Tianjin Municipality;AS;CN
+692;CN-13;13;Hebei Province;AS;CN
+693;CN-14;14;Shanxi Province;AS;CN
+694;CN-15;15;Inner Mongolia Autonomous Region;AS;CN
+695;CN-21;21;Liaoning Province;AS;CN
+696;CN-22;22;Jilin Province;AS;CN
+697;CN-23;23;Heilongjiang Province;AS;CN
+698;CN-31;31;Shanghai Municipality;AS;CN
+699;CN-32;32;Jiangsu Province;AS;CN
+700;CN-33;33;Zhejiang Province;AS;CN
+701;CN-34;34;Anhui Province;AS;CN
+702;CN-35;35;Fujian Province;AS;CN
+703;CN-36;36;Jiangxi Province;AS;CN
+704;CN-37;37;Shandong Province;AS;CN
+705;CN-41;41;Henan Province;AS;CN
+706;CN-42;42;Hubei Province;AS;CN
+707;CN-43;43;Hunan Province;AS;CN
+708;CN-44;44;Guangdong Province;AS;CN
+709;CN-45;45;Guangxi Autonomous Region;AS;CN
+710;CN-46;46;Hainan Province;AS;CN
+711;CN-50;50;Chongqing Municipality;AS;CN
+712;CN-51;51;Sichuan Province;AS;CN
+713;CN-52;52;Guizhou Province;AS;CN
+714;CN-53;53;Yunnan Province;AS;CN
+715;CN-54;54;Tibet Autonomous Region;AS;CN
+716;CN-61;61;Shaanxi Province;AS;CN
+717;CN-62;62;Gansu Province;AS;CN
+718;CN-63;63;Qinghai Province;AS;CN
+719;CN-64;64;Ningxia Autonomous Region;AS;CN
+720;CN-65;65;Xinjiang Autonomous Region;AS;CN
+721;CN-71;71;Taiwan (disputed);AS;CN
+722;CN-91;91;Hong Kong Special Administrative Region;AS;CN
+723;CN-92;92;Macau Special Administrative Region;AS;CN
+724;CN-U-A;U-A;(unassigned);AS;CN
+725;CO-AMA;AMA;Amazonas;SA;CO
+726;CO-ANT;ANT;Antioquía;SA;CO
+727;CO-ARA;ARA;Arauca;SA;CO
+728;CO-ATL;ATL;Atlántico;SA;CO
+729;CO-BOL;BOL;Bolívar;SA;CO
+730;CO-BOY;BOY;Boyacá;SA;CO
+731;CO-CAL;CAL;Caldas;SA;CO
+732;CO-CAQ;CAQ;Caquetá;SA;CO
+733;CO-CAS;CAS;Casanare;SA;CO
+734;CO-CAU;CAU;Cauca;SA;CO
+735;CO-CES;CES;César;SA;CO
+736;CO-CHO;CHO;Chocó;SA;CO
+737;CO-COR;COR;Córdoba;SA;CO
+738;CO-CUN;CUN;Cundinamarca;SA;CO
+739;CO-DC;DC;Distrito Capital de Bogotá;SA;CO
+740;CO-GUA;GUA;Guainía;SA;CO
+741;CO-GUV;GUV;Guaviare;SA;CO
+742;CO-HUI;HUI;Huila;SA;CO
+743;CO-LAG;LAG;La Guajira;SA;CO
+744;CO-MAG;MAG;Magdalena;SA;CO
+745;CO-MET;MET;Meta;SA;CO
+746;CO-NAR;NAR;Nariño;SA;CO
+747;CO-NSA;NSA;Norte de Santander;SA;CO
+748;CO-PUT;PUT;Putumayo;SA;CO
+749;CO-QUI;QUI;Quindio;SA;CO
+750;CO-RIS;RIS;Risaralda;SA;CO
+751;CO-SAN;SAN;Santander;SA;CO
+752;CO-SAP;SAP;San Andrés, Providencia y Santa Catalina;SA;CO
+753;CO-SUC;SUC;Sucre;SA;CO
+754;CO-TOL;TOL;Tolima;SA;CO
+755;CO-U-A;U-A;(unassigned);SA;CO
+756;CO-VAC;VAC;Valle del Cauca;SA;CO
+757;CO-VAU;VAU;Vaupés;SA;CO
+758;CO-VID;VID;Vichada;SA;CO
+759;CR-A;A;Alajuela;NA;CR
+760;CR-C;C;Cartago;NA;CR
+761;CR-G;G;Guanacaste;NA;CR
+762;CR-H;H;Heredia;NA;CR
+763;CR-L;L;Limon;NA;CR
+764;CR-P;P;Puntarenas;NA;CR
+765;CR-SJ;SJ;San Jose;NA;CR
+766;CR-U-A;U-A;(unassigned);NA;CR
+772;CU-01;1;Pinar del Río;NA;CU
+773;CU-02;2;La Habana;NA;CU
+774;CU-03;3;Ciudad de la Habana;NA;CU
+775;CU-04;4;Matanzas;NA;CU
+776;CU-05;5;Villa Clara;NA;CU
+777;CU-06;6;Cienfuegos;NA;CU
+778;CU-07;7;Sancti Spíritus;NA;CU
+779;CU-08;8;Ciego de Ávila;NA;CU
+780;CU-09;9;Camagüey;NA;CU
+781;CU-10;10;Las Tunas;NA;CU
+782;CU-11;11;Holguín;NA;CU
+783;CU-12;12;Granma;NA;CU
+784;CU-13;13;Santiago de Cuba;NA;CU
+785;CU-14;14;Guantánamo;NA;CU
+786;CU-99;99;Isla de la Juventud;NA;CU
+787;CU-CA;CA;Ciego de Avila;NA;CU
+788;CU-CG;CG;Camagoey;NA;CU
+789;CU-HO;HO;Holgun;NA;CU
+790;CU-IJ;IJ;Municipio Especial Isla de la Juventud;NA;CU
+791;CU-PR;PR;Pinar del Roo;NA;CU
+792;CU-SS;SS;Sancti Spritus;NA;CU
+793;CU-U-A;U-A;(unassigned);NA;CU
+795;CV-B;B;Barlavento Islands;AF;CV
+794;CV-S;S;Sotavento Islands;AF;CV
+811;CV-U-A;U-A;(unassigned);AF;CV
+812;CX-U-A;U-A;(unassigned);AS;CX
+813;CY-01;1;Kyrenia District;AS;CY
+814;CY-02;2;Nicosia District;AS;CY
+815;CY-03;3;Famagusta District;AS;CY
+816;CY-04;4;Larnarca District;AS;CY
+817;CY-05;5;Limassol District;AS;CY
+818;CY-06;6;Paphos District;AS;CY
+819;CY-U-A;U-A;(unassigned);AS;CY
+820;CZ-JC;JC;South Bohemian Region;EU;CZ
+821;CZ-JM;JM;South Moravian Region;EU;CZ
+822;CZ-KA;KA;Carlsbad Region;EU;CZ
+823;CZ-KR;KR;Hradec Králové Region;EU;CZ
+824;CZ-LI;LI;Liberec Region;EU;CZ
+825;CZ-MO;MO;Moravian-Silesian Region;EU;CZ
+826;CZ-OL;OL;Olomouc Region;EU;CZ
+827;CZ-PA;PA;Pardubice Region;EU;CZ
+828;CZ-PL;PL;Plze? Region;EU;CZ
+829;CZ-PR;PR;Prague (capital city);EU;CZ
+830;CZ-ST;ST;Central Bohemian Region;EU;CZ
+831;CZ-U-A;U-A;(unassigned);EU;CZ
+832;CZ-US;US;Ústí nad Labem Region;EU;CZ
+833;CZ-VY;VY;Vyso?ina Region;EU;CZ
+834;CZ-ZL;ZL;Zlin Region;EU;CZ
+836;DE-BE;BE;Berlin;EU;DE
+835;DE-BR;BR;Brandenburg;EU;DE
+837;DE-BW;BW;Baden-Württemberg;EU;DE
+838;DE-BY;BY;Bavaria;EU;DE
+839;DE-HB;HB;Bremen;EU;DE
+840;DE-HE;HE;Hesse;EU;DE
+841;DE-HH;HH;Hamburg;EU;DE
+842;DE-MV;MV;Mecklenburg-Vorpommern;EU;DE
+843;DE-NI;NI;Lower Saxony;EU;DE
+844;DE-NW;NW;North Rhine-Westphalia;EU;DE
+845;DE-RP;RP;Rhineland-Palatinate;EU;DE
+846;DE-SH;SH;Schleswig-Holstein;EU;DE
+847;DE-SL;SL;Saarland;EU;DE
+848;DE-SN;SN;Saxony;EU;DE
+849;DE-ST;ST;Saxony-Anhalt;EU;DE
+850;DE-TH;TH;Thuringia;EU;DE
+851;DE-U-A;U-A;(unassigned);EU;DE
+4132;DJ-AR;AR;Arta;AF;DJ
+852;DJ-AS;AS;Ali Sabiah;AF;DJ
+853;DJ-DI;DI;Dikhil;AF;DJ
+854;DJ-DJ;DJ;Djibouti;AF;DJ
+855;DJ-OB;OB;Obock;AF;DJ
+856;DJ-TA;TA;Tadjoura;AF;DJ
+857;DJ-U-A;U-A;(unassigned);AF;DJ
+4130;DK-81;81;North Jutland;EU;DK
+4129;DK-82;82;Central Jutland;EU;DK
+4128;DK-83;83;South Denmark;EU;DK
+4127;DK-84;84;Capital Region;EU;DK
+4126;DK-85;85;Zealand;EU;DK
+874;DK-U-A;U-A;(unassigned);EU;DK
+4202;DM-02;2;Saint Andrew;NA;DM
+4201;DM-03;3;Saint David;NA;DM
+4200;DM-04;4;Saint George;NA;DM
+4199;DM-05;5;Saint John;NA;DM
+4198;DM-06;6;Saint Joseph;NA;DM
+4197;DM-07;7;Saint Luke;NA;DM
+4196;DM-08;8;Saint Mark;NA;DM
+4195;DM-09;9;Saint Patrick;NA;DM
+4194;DM-10;10;Saint Paul;NA;DM
+4193;DM-11;11;Saint Peter;NA;DM
+875;DM-U-A;U-A;(unassigned);NA;DM
+876;DO-01;1;Distrito Nacional;NA;DO
+877;DO-02;2;Azua Province;NA;DO
+878;DO-03;3;Baoruco Province;NA;DO
+879;DO-04;4;Barahona Province;NA;DO
+880;DO-05;5;Dajabón Province;NA;DO
+881;DO-06;6;Duarte Province;NA;DO
+882;DO-07;7;Elías Piña Province;NA;DO
+883;DO-08;8;El Seybo Province;NA;DO
+884;DO-09;9;Espaillat Province;NA;DO
+885;DO-10;10;Independencia Province;NA;DO
+886;DO-11;11;La Altagracia Province;NA;DO
+887;DO-12;12;La Romana Province;NA;DO
+888;DO-13;13;La Vega Province;NA;DO
+889;DO-14;14;María Trinidad Sánchez Province;NA;DO
+890;DO-15;15;Monte Cristi Province;NA;DO
+891;DO-16;16;Pedernales Province;NA;DO
+892;DO-17;17;Peravia Province;NA;DO
+893;DO-18;18;Puerto Plata Province;NA;DO
+894;DO-19;19;Hermanas Mirabal Province;NA;DO
+895;DO-20;20;Samaná Province;NA;DO
+896;DO-21;21;San Cristóbal Province;NA;DO
+897;DO-22;22;San Juan Province;NA;DO
+898;DO-23;23;San Pedro de Macorís Province;NA;DO
+899;DO-24;24;Sánchez Ramírez Province;NA;DO
+900;DO-25;25;Santiago de los Caballeros Province;NA;DO
+901;DO-26;26;Santiago Rodríguez Province;NA;DO
+902;DO-27;27;Valverde Province;NA;DO
+903;DO-28;28;Monseñor Nouel Province;NA;DO
+904;DO-29;29;Monte Plata Province;NA;DO
+905;DO-30;30;Hato Mayor Province;NA;DO
+906;DO-U-A;U-A;(unassigned);NA;DO
+907;DZ-01;1;Adrar Province;AF;DZ
+908;DZ-02;2;Chlef Province;AF;DZ
+909;DZ-03;3;Laghouat Province;AF;DZ
+910;DZ-04;4;Oum el Bouaghi Province;AF;DZ
+911;DZ-05;5;Batna Province;AF;DZ
+912;DZ-06;6;Béjaïa Province;AF;DZ
+913;DZ-07;7;Biskra Province;AF;DZ
+914;DZ-08;8;Béchar Province;AF;DZ
+915;DZ-09;9;Blida Province;AF;DZ
+916;DZ-10;10;Bouira Province;AF;DZ
+917;DZ-11;11;Tamanghasset Province;AF;DZ
+918;DZ-12;12;Tébessa Province;AF;DZ
+919;DZ-13;13;Tlemcen Province;AF;DZ
+920;DZ-14;14;Tiaret Province;AF;DZ
+921;DZ-15;15;Tizi Ouzou Province;AF;DZ
+922;DZ-16;16;Algiers Province;AF;DZ
+923;DZ-17;17;Djelfa Province;AF;DZ
+924;DZ-18;18;Jijel Province;AF;DZ
+925;DZ-19;19;Sétif Province;AF;DZ
+926;DZ-20;20;Saïda Province;AF;DZ
+927;DZ-21;21;Skikda Province;AF;DZ
+928;DZ-22;22;Sidi Bel Abbes Province;AF;DZ
+929;DZ-23;23;Annaba Province;AF;DZ
+930;DZ-24;24;Guelma Province;AF;DZ
+931;DZ-25;25;Constantine Province;AF;DZ
+932;DZ-26;26;Médéa Province;AF;DZ
+933;DZ-27;27;Mostaganem Province;AF;DZ
+934;DZ-28;28;M'Sila Province;AF;DZ
+935;DZ-29;29;Mascara Province;AF;DZ
+936;DZ-30;30;Ouargla Province;AF;DZ
+937;DZ-31;31;Oran Province;AF;DZ
+938;DZ-32;32;El Bayadh Province;AF;DZ
+939;DZ-33;33;Illizi Province;AF;DZ
+940;DZ-34;34;Bordj Bou Arréridj Province;AF;DZ
+941;DZ-35;35;Boumerdès Province;AF;DZ
+942;DZ-36;36;El Tarf Province;AF;DZ
+943;DZ-37;37;Tindouf Province;AF;DZ
+944;DZ-38;38;Tissemsilt Province;AF;DZ
+945;DZ-39;39;El Oued Province;AF;DZ
+946;DZ-40;40;Khenchela Province;AF;DZ
+947;DZ-41;41;Souk Ahras Province;AF;DZ
+948;DZ-42;42;Tipaza Province;AF;DZ
+949;DZ-43;43;Mila Province;AF;DZ
+950;DZ-44;44;Aïn Defla Province;AF;DZ
+951;DZ-45;45;Naama Province;AF;DZ
+952;DZ-46;46;Aïn Témouchent Province;AF;DZ
+953;DZ-47;47;Ghardaïa Province;AF;DZ
+954;DZ-48;48;Relizane Province;AF;DZ
+955;DZ-U-A;U-A;(unassigned);AF;DZ
+956;EC-A;A;Azuay;SA;EC
+957;EC-B;B;Bolivar;SA;EC
+958;EC-C;C;Carchi;SA;EC
+959;EC-D;D;Orellana;SA;EC
+960;EC-E;E;Esmeraldas;SA;EC
+961;EC-F;F;Canar;SA;EC
+962;EC-G;G;Guayas;SA;EC
+963;EC-H;H;Chimborazo;SA;EC
+964;EC-I;I;Imbabura;SA;EC
+965;EC-L;L;Loja;SA;EC
+966;EC-M;M;Manabi;SA;EC
+967;EC-N;N;Napo;SA;EC
+968;EC-O;O;El Oro;SA;EC
+969;EC-P;P;Pichincha;SA;EC
+970;EC-R;R;Los Rios;SA;EC
+971;EC-S;S;Morona-Santiago;SA;EC
+972;EC-T;T;Tungurahua;SA;EC
+973;EC-U;U;Sucumbios;SA;EC
+974;EC-U-A;U-A;(unassigned);SA;EC
+975;EC-W;W;Galapagos;SA;EC
+976;EC-X;X;Cotopaxi;SA;EC
+977;EC-Y;Y;Pastaza;SA;EC
+978;EC-Z;Z;Zamora-Chinchipe;SA;EC
+979;EE-37;37;Harju County;EU;EE
+980;EE-39;39;Hiiu County;EU;EE
+981;EE-44;44;Ida-Viru County;EU;EE
+982;EE-49;49;Jõgeva County;EU;EE
+983;EE-51;51;Järva County;EU;EE
+984;EE-57;57;Lääne County;EU;EE
+985;EE-59;59;Lääne-Viru County;EU;EE
+986;EE-65;65;Põlva County;EU;EE
+987;EE-67;67;Pärnu County;EU;EE
+988;EE-70;70;Rapla County;EU;EE
+989;EE-74;74;Saare County;EU;EE
+990;EE-7B;7B;Tartu County;EU;EE
+991;EE-82;82;Valga County;EU;EE
+992;EE-84;84;Viljandi County;EU;EE
+993;EE-86;86;Võru County;EU;EE
+994;EE-U-A;U-A;(unassigned);EU;EE
+995;EG-ALX;ALX;Alexandria Governorate;AF;EG
+996;EG-ASN;ASN;Aswan Governorate;AF;EG
+997;EG-AST;AST;Asyut Governorate;AF;EG
+998;EG-BA;BA;Red Sea Governorate;AF;EG
+999;EG-BH;BH;Beheira Governorate;AF;EG
+1000;EG-BNS;BNS;Beni Suef Governorate;AF;EG
+1001;EG-C;C;Cairo Governorate;AF;EG
+1002;EG-DK;DK;Dakahlia Governorate;AF;EG
+1003;EG-DT;DT;Damietta Governorate;AF;EG
+1004;EG-FYM;FYM;Faiyum Governorate;AF;EG
+1005;EG-GH;GH;Gharbia Governorate;AF;EG
+1006;EG-GZ;GZ;Giza Governorate;AF;EG
+1007;EG-IS;IS;Ismailia Governorate;AF;EG
+1008;EG-JS;JS;South Sinai Governorate;AF;EG
+1009;EG-KB;KB;Qalyubia Governorate;AF;EG
+1010;EG-KFS;KFS;Kafr el-Sheikh Governorate;AF;EG
+1011;EG-KN;KN;Qena Governorate;AF;EG
+1012;EG-MN;MN;Minya Governorate;AF;EG
+1013;EG-MNF;MNF;Monufia Governorate;AF;EG
+1014;EG-MT;MT;Matruh Governorate;AF;EG
+1015;EG-PTS;PTS;Port Said Governorate;AF;EG
+1016;EG-SHG;SHG;Sohag Governorate;AF;EG
+1017;EG-SHR;SHR;Sharqia Governorate;AF;EG
+1018;EG-SIN;SIN;North Sinai Governorate;AF;EG
+1019;EG-SUZ;SUZ;Suez Governorate;AF;EG
+1020;EG-U-A;U-A;(unassigned);AF;EG
+1021;EG-WAD;WAD;New Valley Governorate;AF;EG
+1022;EH-U-A;U-A;(unassigned);AF;EH
+1023;ER-AN;AN;Anseba;AF;ER
+1024;ER-DK;DK;Debubawi Keyih Bahri;AF;ER
+1025;ER-DU;DU;Debub;AF;ER
+1026;ER-GB;GB;Gash-Barka;AF;ER
+1027;ER-MA;MA;Maakel;AF;ER
+1028;ER-SK;SK;Semenawi Keyih Bahri;AF;ER
+1029;ER-U-A;U-A;(unassigned);AF;ER
+1030;ES-A;A;Alicante;EU;ES
+1031;ES-AB;AB;Albacete;EU;ES
+1032;ES-AL;AL;Almería;EU;ES
+1033;ES-AN;AN;Andalucía;EU;ES
+1034;ES-AR;AR;Aragón;EU;ES
+1035;ES-AV;AV;Ávila;EU;ES
+1036;ES-B;B;Barcelona;EU;ES
+1037;ES-BA;BA;Badajoz;EU;ES
+1038;ES-BI;BI;Vizcaya;EU;ES
+1039;ES-BU;BU;Burgos;EU;ES
+1040;ES-C;C;La Coruña;EU;ES
+1041;ES-CA;CA;Cádiz;EU;ES
+1042;ES-CC;CC;Cáceres;EU;ES
+1043;ES-CE;CE;Ceuta;EU;ES
+1044;ES-CL;CL;Castilla y León;EU;ES
+1045;ES-CM;CM;Castilla-La Mancha;EU;ES
+1046;ES-CN;CN;Canary Islands;EU;ES
+1047;ES-CR;CR;Ciudad Real;EU;ES
+1048;ES-CS;CS;Castellón;EU;ES
+1049;ES-CT;CT;Catalonia;EU;ES
+1050;ES-CU;CU;Cuenca;EU;ES
+1051;ES-EX;EX;Extremadura;EU;ES
+1052;ES-GA;GA;Galicia;EU;ES
+1053;ES-GC;GC;Las Palmas;EU;ES
+1054;ES-GE;GE;Girona;EU;ES
+1055;ES-GR;GR;Granada;EU;ES
+1056;ES-GU;GU;Guadalajara;EU;ES
+1057;ES-H;H;Huelva;EU;ES
+1058;ES-HU;HU;Huesca;EU;ES
+1059;ES-IB;IB;Baleares;EU;ES
+1060;ES-J;J;Jaén;EU;ES
+1061;ES-L;L;Lleida;EU;ES
+1062;ES-LE;LE;León;EU;ES
+1063;ES-LO;LO;La Rioja;EU;ES
+1064;ES-LU;LU;Lugo;EU;ES
+1065;ES-M;M;Madrid;EU;ES
+1066;ES-MA;MA;Málaga;EU;ES
+1067;ES-ML;ML;Melilla;EU;ES
+1068;ES-MU;MU;Murcia;EU;ES
+1069;ES-NA;NA;Navarra;EU;ES
+1070;ES-O;O;Asturias;EU;ES
+1071;ES-OR;OR;Ourense;EU;ES
+1072;ES-P;P;Palencia;EU;ES
+1073;ES-PM;PM;Baleares;EU;ES
+1074;ES-PO;PO;Pontevedra;EU;ES
+1075;ES-PV;PV;Basque Country;EU;ES
+1076;ES-S;S;Cantabria;EU;ES
+1077;ES-SA;SA;Salamanca;EU;ES
+1078;ES-SE;SE;Sevilla;EU;ES
+1079;ES-SG;SG;Segovia;EU;ES
+1080;ES-SO;SO;Soria;EU;ES
+1081;ES-SS;SS;Guipúzcoa;EU;ES
+1082;ES-T;T;Tarragona;EU;ES
+1083;ES-TE;TE;Teruel;EU;ES
+1084;ES-TF;TF;Santa Cruz de Tenerife;EU;ES
+1085;ES-U-A;U-A;(unassigned);EU;ES
+1086;ES-V;V;Valencia;EU;ES
+1087;ES-VA;VA;Valladolid;EU;ES
+1088;ES-VI;VI;Álava;EU;ES
+1089;ES-Z;Z;Zaragoza;EU;ES
+1090;ES-ZA;ZA;Zamora;EU;ES
+1091;ET-AA;AA;Addis Ababa;AF;ET
+1092;ET-AF;AF;Afar;AF;ET
+1093;ET-AM;AM;Amara;AF;ET
+1094;ET-BE;BE;Benshangul-Gumaz;AF;ET
+1095;ET-DD;DD;Dire Dawa;AF;ET
+1096;ET-GA;GA;Gambela Peoples;AF;ET
+1097;ET-HA;HA;Harari People;AF;ET
+1098;ET-OR;OR;Oromia;AF;ET
+1099;ET-SN;SN;Southern Nations, Nationalities and Peoples;AF;ET
+1100;ET-SO;SO;Somali;AF;ET
+1101;ET-TI;TI;Tigrai;AF;ET
+1102;ET-U-A;U-A;(unassigned);AF;ET
+1103;FI-AL;AL;Åland Islands;EU;FI
+1104;FI-ES;ES;Southern Finland;EU;FI
+1105;FI-IS;IS;Eastern Finland;EU;FI
+1106;FI-LL;LL;Lapland;EU;FI
+1107;FI-LS;LS;Western Finland;EU;FI
+1108;FI-OL;OL;Oulu;EU;FI
+1109;FI-U-A;U-A;(unassigned);EU;FI
+1110;FJ-C;C;Central;OC;FJ
+1111;FJ-E;E;Eastern;OC;FJ
+1112;FJ-N;N;Northern;OC;FJ
+1113;FJ-R;R;Rotuma;OC;FJ
+1114;FJ-U-A;U-A;(unassigned);OC;FJ
+1115;FJ-W;W;Western;OC;FJ
+1116;FK-U-A;U-A;(unassigned);SA;FK
+1117;FM-KSA;KSA;Kosrae;OC;FM
+1118;FM-PNI;PNI;Pohnpei;OC;FM
+1119;FM-TRK;TRK;Chuuk;OC;FM
+1120;FM-U-A;U-A;(unassigned);OC;FM
+1121;FM-YAP;YAP;Yap;OC;FM
+1122;FO-U-A;U-A;(unassigned);EU;FO
+4154;FR-A;A;Alsace;EU;FR
+4153;FR-B;B;Aquitaine;EU;FR
+4152;FR-C;C;Auvergne;EU;FR
+4151;FR-D;D;Burgundy;EU;FR
+4149;FR-E;E;Brittany;EU;FR
+4148;FR-F;F;Centre;EU;FR
+4147;FR-G;G;Champagne-Ardenne;EU;FR
+4146;FR-H;H;Corsica;EU;FR
+4145;FR-I;I;Franche-Comté;EU;FR
+4143;FR-J;J;Île-de-France;EU;FR
+4142;FR-K;K;Languedoc-Roussillon;EU;FR
+4141;FR-L;L;Limousin;EU;FR
+4140;FR-M;M;Lorraine;EU;FR
+4139;FR-N;N;Midi-Pyrénées;EU;FR
+4138;FR-O;O;Nord-Pas-de-Calais;EU;FR
+4150;FR-P;P;Lower Normandy;EU;FR
+4144;FR-Q;Q;Upper Normandy;EU;FR
+4137;FR-R;R;Pays-de-la-Loire;EU;FR
+4136;FR-S;S;Picardie;EU;FR
+4135;FR-T;T;Poitou-Charentes;EU;FR
+4134;FR-U;U;Provence-Alpes-Côte-d'Azur;EU;FR
+1219;FR-U-A;U-A;(unassigned);EU;FR
+4133;FR-V;V;Rhône Alpes;EU;FR
+1220;GA-1;1;Estuaire Province;AF;GA
+1221;GA-2;2;Haut-Ogooué Province;AF;GA
+1222;GA-3;3;Moyen-Ogooué Province;AF;GA
+1223;GA-4;4;Ngounié Province;AF;GA
+1224;GA-5;5;Nyanga Province;AF;GA
+1225;GA-6;6;Ogooué-Ivindo Province;AF;GA
+1226;GA-7;7;Ogooué-Lolo Province;AF;GA
+1227;GA-8;8;Ogooué-Maritime Province;AF;GA
+1228;GA-9;9;Woleu-Ntem Province;AF;GA
+1229;GA-U-A;U-A;(unassigned);AF;GA
+4175;GB-ENG;ENG;England;EU;GB
+4176;GB-NIR;NIR;Northern Ireland;EU;GB
+4178;GB-SCT;SCT;Scotland;EU;GB
+1442;GB-U-A;U-A;(unassigned);EU;GB
+4177;GB-WLS;WLS;Wales;EU;GB
+1465;GD-AN;AN;Saint Andrew;NA;GD
+1466;GD-DA;DA;Saint David;NA;GD
+1467;GD-GE;GE;Saint George;NA;GD
+1468;GD-JO;JO;Saint John;NA;GD
+1469;GD-MA;MA;Saint Mark;NA;GD
+1470;GD-PA;PA;Saint Patrick;NA;GD
+1471;GD-U-A;U-A;(unassigned);NA;GD
+4213;GE-AB;AB;Abkhazia;AS;GE
+4212;GE-AJ;AJ;Adjara;AS;GE
+4211;GE-GU;GU;Guria;AS;GE
+4210;GE-IM;IM;Imereti;AS;GE
+4209;GE-KA;KA;Kakheti;AS;GE
+4208;GE-KK;KK;Kvemo Kartli;AS;GE
+4207;GE-MM;MM;Mtskheta-Mtianeti;AS;GE
+4206;GE-RL;RL;Racha-Lechkhumi and Kvemo Svaneti;AS;GE
+4205;GE-SJ;SJ;Samtskhe-Javakheti;AS;GE
+4204;GE-SK;SK;Shida Kartli;AS;GE
+4756;GE-SZ;SZ;Samegrelo-Zemo Svaneti;AS;GE
+4203;GE-TB;TB;Tbilisi;AS;GE
+1472;GE-U-A;U-A;(unassigned);AS;GE
+4182;GF-CY;CY;Cayenne;SA;GF
+4181;GF-SL;SL;Saint-Laurent-du-Maroni;SA;GF
+1473;GF-U-A;U-A;(unassigned);SA;GF
+1474;GG-U-A;U-A;(unassigned);EU;GG
+1475;GH-AA;AA;Greater Accra Region;AF;GH
+1476;GH-AH;AH;Ashanti Region;AF;GH
+1477;GH-BA;BA;Brong-Ahafo Region;AF;GH
+1478;GH-CP;CP;Central Region;AF;GH
+1479;GH-EP;EP;Eastern Region;AF;GH
+1480;GH-NP;NP;Northern Region;AF;GH
+1481;GH-TV;TV;Volta Region;AF;GH
+1482;GH-U-A;U-A;(unassigned);AF;GH
+1483;GH-UE;UE;Upper East Region;AF;GH
+1484;GH-UW;UW;Upper West Region;AF;GH
+1485;GH-WP;WP;Western Region;AF;GH
+1486;GI-U-A;U-A;(unassigned);EU;GI
+1487;GL-U-A;U-A;(unassigned);NA;GL
+1488;GM-B;B;Banjul;AF;GM
+1489;GM-C;C;Central River;AF;GM
+1490;GM-L;L;Lower River;AF;GM
+1491;GM-M;M;MacCarthy Island;AF;GM
+1492;GM-N;N;North Bank;AF;GM
+1493;GM-U;U;Upper River;AF;GM
+1494;GM-U-A;U-A;(unassigned);AF;GM
+1495;GM-W;W;Western;AF;GM
+1496;GN-BE;BE;Beyla;AF;GN
+1497;GN-BF;BF;Boffa;AF;GN
+1498;GN-BK;BK;Boke;AF;GN
+4776;GN-C;C;Conakry;AF;GN
+1499;GN-CO;CO;Coyah;AF;GN
+1500;GN-DB;DB;Dabola;AF;GN
+1501;GN-DI;DI;Dinguiraye;AF;GN
+1502;GN-DL;DL;Dalaba;AF;GN
+1503;GN-DU;DU;Dubreka;AF;GN
+1504;GN-FA;FA;Faranah;AF;GN
+1505;GN-FO;FO;Forecariah;AF;GN
+1506;GN-FR;FR;Fria;AF;GN
+1507;GN-GA;GA;Gaoual;AF;GN
+1508;GN-GU;GU;Guekedou;AF;GN
+1509;GN-KA;KA;Kankan;AF;GN
+1510;GN-KB;KB;Koubia;AF;GN
+1511;GN-KD;KD;Kindia;AF;GN
+1512;GN-KE;KE;Kerouane;AF;GN
+1513;GN-KN;KN;Koundara;AF;GN
+1514;GN-KO;KO;Kouroussa;AF;GN
+1515;GN-KS;KS;Kissidougou;AF;GN
+1516;GN-LA;LA;Labe;AF;GN
+1517;GN-LE;LE;Lelouma;AF;GN
+1518;GN-LO;LO;Lola;AF;GN
+1519;GN-MC;MC;Macenta;AF;GN
+1520;GN-MD;MD;Mandiana;AF;GN
+1521;GN-ML;ML;Mali;AF;GN
+1522;GN-MM;MM;Mamou;AF;GN
+1523;GN-NZ;NZ;Nzerekore;AF;GN
+1524;GN-PI;PI;Pita;AF;GN
+1525;GN-SI;SI;Siguiri;AF;GN
+1526;GN-TE;TE;Telimele;AF;GN
+1527;GN-TO;TO;Tougue;AF;GN
+1528;GN-U-A;U-A;(unassigned);AF;GN
+1529;GN-YO;YO;Yomou;AF;GN
+1530;GP-U-A;U-A;(unassigned);NA;GP
+1531;GQ-AN;AN;Annobon;AF;GQ
+1532;GQ-BN;BN;Bioko Norte;AF;GQ
+1533;GQ-BS;BS;Bioko Sur;AF;GQ
+1534;GQ-C;C;Region Continental;AF;GQ
+1535;GQ-CS;CS;Centro Sur;AF;GQ
+1536;GQ-I;I;Region Insular;AF;GQ
+1537;GQ-KN;KN;Kie-Ntem;AF;GQ
+1538;GQ-LI;LI;Litoral;AF;GQ
+1539;GQ-U-A;U-A;(unassigned);AF;GQ
+1540;GQ-WN;WN;Wele-Nzas;AF;GQ
+1541;GR-01;1;Aetolia-Acarnania;EU;GR
+1542;GR-03;3;Boeotia;EU;GR
+1543;GR-04;4;Euboea;EU;GR
+1544;GR-05;5;Evrytania;EU;GR
+1545;GR-06;6;Phthiotis;EU;GR
+1546;GR-07;7;Phocis;EU;GR
+1547;GR-11;11;Argolis;EU;GR
+1548;GR-12;12;Arcadia;EU;GR
+1549;GR-13;13;Achaea;EU;GR
+1550;GR-14;14;Ilia;EU;GR
+1551;GR-15;15;Corinthia;EU;GR
+1552;GR-16;16;Laconia;EU;GR
+1553;GR-17;17;Messinia;EU;GR
+1554;GR-21;21;Zakynthos;EU;GR
+1555;GR-22;22;Corfu;EU;GR
+1556;GR-23;23;Kefallinia;EU;GR
+1557;GR-24;24;Lefkada;EU;GR
+1558;GR-31;31;Arta;EU;GR
+1559;GR-32;32;Thesprotia;EU;GR
+1560;GR-33;33;Ioannina;EU;GR
+1561;GR-34;34;Preveza;EU;GR
+1562;GR-41;41;Karditsa;EU;GR
+1563;GR-42;42;Larissa;EU;GR
+1564;GR-43;43;Magnesia;EU;GR
+1565;GR-44;44;Trikala;EU;GR
+1566;GR-51;51;Grevena;EU;GR
+1567;GR-52;52;Drama;EU;GR
+1568;GR-53;53;Imathia;EU;GR
+1569;GR-54;54;Thessaloniki;EU;GR
+1570;GR-55;55;Kavala;EU;GR
+1571;GR-56;56;Kastoria;EU;GR
+1572;GR-57;57;Kilkis;EU;GR
+1573;GR-58;58;Kozani;EU;GR
+1574;GR-59;59;Pella;EU;GR
+1575;GR-62;62;Serres;EU;GR
+1576;GR-63;63;Florina;EU;GR
+1577;GR-64;64;Chalcidice;EU;GR
+1578;GR-69;69;Mount Athos;EU;GR
+1579;GR-71;71;Evros;EU;GR
+1580;GR-72;72;Xanthi;EU;GR
+1581;GR-73;73;Rhodope;EU;GR
+1582;GR-81;81;Dodecanese;EU;GR
+1583;GR-82;82;Cyclades;EU;GR
+1584;GR-83;83;Lesbos;EU;GR
+1585;GR-84;84;Samos;EU;GR
+1586;GR-85;85;Chios;EU;GR
+1587;GR-91;91;Irakleion;EU;GR
+1588;GR-92;92;Lasithion;EU;GR
+1589;GR-93;93;Rethymnon;EU;GR
+1590;GR-94;94;Chania;EU;GR
+1591;GR-A1;A1;Attica;EU;GR
+1592;GR-U-A;U-A;(unassigned);EU;GR
+1593;GS-U-A;U-A;(unassigned);AN;GS
+1594;GT-AV;AV;Alta Verapez;NA;GT
+1595;GT-BV;BV;Baja Verapez;NA;GT
+1596;GT-CM;CM;Chimaltenango;NA;GT
+1597;GT-CQ;CQ;Chiquimula;NA;GT
+1598;GT-ES;ES;Escuintla;NA;GT
+1599;GT-GU;GU;Guatemala;NA;GT
+1600;GT-HU;HU;Huehuetenango;NA;GT
+1601;GT-IZ;IZ;Izabal;NA;GT
+1602;GT-JA;JA;Jalapa;NA;GT
+1603;GT-JU;JU;Jutiapa;NA;GT
+1604;GT-PE;PE;Peten;NA;GT
+1605;GT-PR;PR;El Progreso;NA;GT
+1606;GT-QC;QC;Quiche;NA;GT
+1607;GT-QZ;QZ;Quetzaltenango;NA;GT
+1608;GT-RE;RE;Reta.thuleu;NA;GT
+1609;GT-SA;SA;Sacatepequez;NA;GT
+1610;GT-SM;SM;San Marcos;NA;GT
+1611;GT-SO;SO;Solol6;NA;GT
+1612;GT-SR;SR;Santa Rosa;NA;GT
+1613;GT-SU;SU;Suchitepequez;NA;GT
+1614;GT-TO;TO;Totonicapan;NA;GT
+1615;GT-U-A;U-A;(unassigned);NA;GT
+1616;GT-ZA;ZA;Zacapa;NA;GT
+1617;GU-U-A;U-A;(unassigned);OC;GU
+1618;GW-BA;BA;Bafatá;AF;GW
+1619;GW-BL;BL;Bolama;AF;GW
+1620;GW-BM;BM;Biombo;AF;GW
+1621;GW-BS;BS;Bissau;AF;GW
+1622;GW-CA;CA;Cacheu;AF;GW
+1623;GW-GA;GA;Gabu;AF;GW
+1624;GW-OI;OI;Oio;AF;GW
+1625;GW-QU;QU;Quloara;AF;GW
+1626;GW-TO;TO;Tombali;AF;GW
+1627;GW-U-A;U-A;(unassigned);AF;GW
+1628;GY-BA;BA;Barima-Waini;SA;GY
+1629;GY-CU;CU;Cuyuni-Mazaruni;SA;GY
+1630;GY-DE;DE;Demerara-Mahaica;SA;GY
+1631;GY-EB;EB;East Berbice-Corentyne;SA;GY
+1632;GY-ES;ES;Essequibo Islands-West Demerara;SA;GY
+1633;GY-MA;MA;Mahaica-Berbice;SA;GY
+1634;GY-PM;PM;Pomeroon-Supenaam;SA;GY
+1635;GY-PT;PT;Potaro-Siparuni;SA;GY
+1636;GY-U-A;U-A;(unassigned);SA;GY
+1637;GY-UD;UD;Upper Demerara-Berbice;SA;GY
+1638;GY-UT;UT;Upper Takutu-Upper Essequibo;SA;GY
+1639;HK-U-A;U-A;(unassigned);AS;HK
+1640;HN-AT;AT;Atlantida;NA;HN
+1641;HN-CH;CH;Choluteca;NA;HN
+1642;HN-CL;CL;Colon;NA;HN
+1643;HN-CM;CM;Comayagua;NA;HN
+1644;HN-CP;CP;Copan;NA;HN
+1645;HN-CR;CR;Cortes;NA;HN
+1646;HN-EP;EP;El Paraiso;NA;HN
+1647;HN-FM;FM;Francisco Morazan;NA;HN
+1648;HN-GD;GD;Gracias a Dios;NA;HN
+1649;HN-IB;IB;Islas de la Bahia;NA;HN
+1650;HN-IN;IN;Intibuca;NA;HN
+1651;HN-LE;LE;Lempira;NA;HN
+1652;HN-LP;LP;La Paz;NA;HN
+1653;HN-OC;OC;Ocotepeque;NA;HN
+1654;HN-OL;OL;Olancho;NA;HN
+1655;HN-SB;SB;Santa Barbara;NA;HN
+1656;HN-U-A;U-A;(unassigned);NA;HN
+1657;HN-VA;VA;Valle;NA;HN
+1658;HN-YO;YO;Yoro;NA;HN
+1659;HR-01;1;Zagreb;EU;HR
+1660;HR-02;2;Krapina-Zagorje;EU;HR
+1661;HR-03;3;Sisak-Moslavina;EU;HR
+1662;HR-04;4;Karlovac;EU;HR
+1663;HR-05;5;Varaždin;EU;HR
+1664;HR-06;6;Koprivnica-Križevci;EU;HR
+1665;HR-07;7;Bjelovar-Bilogora;EU;HR
+1666;HR-08;8;Primorje-Gorski Kotar;EU;HR
+1667;HR-09;9;Lika-Senj;EU;HR
+1668;HR-10;10;Virovitica-Podravina;EU;HR
+1669;HR-11;11;Požega-Slavonia;EU;HR
+1670;HR-12;12;Brod-Posavina;EU;HR
+1671;HR-13;13;Zadar;EU;HR
+1672;HR-14;14;Osijek-Baranja;EU;HR
+1673;HR-15;15;Šibenik-Knin;EU;HR
+1674;HR-16;16;Vukovar-Srijem;EU;HR
+1675;HR-17;17;Split-Dalmatia;EU;HR
+1676;HR-18;18;Istria;EU;HR
+1677;HR-19;19;Dubrovnik-Neretva;EU;HR
+1678;HR-20;20;Me?imurje;EU;HR
+4726;HR-21;21;Zagreb (city);EU;HR
+1679;HR-U-A;U-A;(unassigned);EU;HR
+4747;HT-AR;AR;Artibonite Department;NA;HT
+1680;HT-CE;CE;Centre Department;NA;HT
+1681;HT-GA;GA;Grande'Anse Department;NA;HT
+1682;HT-ND;ND;Nord Department;NA;HT
+1683;HT-NE;NE;Nord-Est Department;NA;HT
+4746;HT-NI;NI;Nippes;NA;HT
+1684;HT-NO;NO;Nord-Ouest Department;NA;HT
+1685;HT-OU;OU;Ouest Department;NA;HT
+1686;HT-SD;SD;Sud Department;NA;HT
+1687;HT-SE;SE;Sud-Est Department;NA;HT
+1688;HT-U-A;U-A;(unassigned);NA;HT
+1689;HU-BA;BA;Baranya;EU;HU
+1690;HU-BC;BC;Békéscsaba;EU;HU
+1691;HU-BE;BE;Békés;EU;HU
+1692;HU-BK;BK;Bács-Kiskun;EU;HU
+1693;HU-BU;BU;Budapest;EU;HU
+1694;HU-BZ;BZ;Borsod-Abaúj-Zemplén;EU;HU
+1695;HU-CS;CS;Csongrád;EU;HU
+1696;HU-DE;DE;Debrecen;EU;HU
+1697;HU-DU;DU;Dunaújváros;EU;HU
+1698;HU-EG;EG;Eger;EU;HU
+1699;HU-FE;FE;Fejér;EU;HU
+1700;HU-GS;GS;Gy?r-Moson-Sopron;EU;HU
+1701;HU-GY;GY;Gy?r;EU;HU
+1702;HU-HB;HB;Hajdu-Bihar;EU;HU
+1703;HU-HE;HE;Heves;EU;HU
+1704;HU-HV;HV;Hódmez?vásárhely;EU;HU
+1705;HU-JN;JN;Jász-Nagykun-Szolnok;EU;HU
+1706;HU-KE;KE;Komárom-Esztergom;EU;HU
+1707;HU-KM;KM;Kecskemét;EU;HU
+1708;HU-KV;KV;Kaposvár;EU;HU
+1709;HU-MI;MI;Miskolc;EU;HU
+1710;HU-NK;NK;Nagykanizsa;EU;HU
+1711;HU-NO;NO;Nográd;EU;HU
+1712;HU-NY;NY;Nyiregyháza;EU;HU
+1713;HU-PE;PE;Pest;EU;HU
+1714;HU-PS;PS;Pécs;EU;HU
+1715;HU-SD;SD;Szeged;EU;HU
+1716;HU-SF;SF;Székesfehérvár;EU;HU
+1717;HU-SH;SH;Szombathely;EU;HU
+1718;HU-SK;SK;Szolnok;EU;HU
+1719;HU-SN;SN;Sopron;EU;HU
+1720;HU-SO;SO;Somogy;EU;HU
+1721;HU-SS;SS;Szekszárd;EU;HU
+1722;HU-ST;ST;Salgótarján;EU;HU
+1723;HU-SZ;SZ;Szabolcs-Szatmár-Bereg;EU;HU
+1724;HU-TB;TB;Tatabánya;EU;HU
+1725;HU-TO;TO;Tolna;EU;HU
+1726;HU-U-A;U-A;(unassigned);EU;HU
+1727;HU-VA;VA;Vas;EU;HU
+1728;HU-VE;VE;Veszprém;EU;HU
+1729;HU-ZA;ZA;Zala;EU;HU
+1730;HU-ZE;ZE;Zalaegerszeg;EU;HU
+1731;ID-AC;AC;Aceh;AS;ID
+1732;ID-BA;BA;Bali;AS;ID
+1733;ID-BB;BB;Bangka Belitung;AS;ID
+1734;ID-BE;BE;Bengkulu;AS;ID
+1735;ID-BT;BT;Banten;AS;ID
+1736;ID-GO;GO;Gorontalo;AS;ID
+1737;ID-IJ;IJ;Irian Jaya;AS;ID
+1738;ID-JA;JA;Jambi;AS;ID
+1739;ID-JB;JB;Jawa Barat;AS;ID
+1740;ID-JI;JI;Jawa Timur;AS;ID
+1741;ID-JK;JK;Jakarta Raya;AS;ID
+1742;ID-JT;JT;Jawa Tengah;AS;ID
+1743;ID-KB;KB;Kalimantan Barat;AS;ID
+4180;ID-KI;KI;East Kalimantan;AS;ID
+1744;ID-KR;KR;Kepulauan Riau;AS;ID
+1745;ID-KS;KS;Kalimantan Selatan;AS;ID
+1746;ID-KT;KT;Kalimantan Timur;AS;ID
+1747;ID-LA;LA;Lampung;AS;ID
+1748;ID-MA;MA;Maluku;AS;ID
+1749;ID-MU;MU;Maluku Utara;AS;ID
+1750;ID-NB;NB;Nusa Tenggara Barat;AS;ID
+1751;ID-NT;NT;Nusa Tenggara Timur;AS;ID
+1752;ID-PA;PA;Papua;AS;ID
+1753;ID-RI;RI;Riau;AS;ID
+1754;ID-SA;SA;Sulawesi Utara;AS;ID
+1755;ID-SB;SB;Sumatra Barat;AS;ID
+1756;ID-SG;SG;Sulawesi Tenggara;AS;ID
+1757;ID-SN;SN;Sulawesi Selatan;AS;ID
+1758;ID-SS;SS;Sumatra Selatan;AS;ID
+1759;ID-ST;ST;Sulawesi Tengah;AS;ID
+1760;ID-SU;SU;Sumatera Utara;AS;ID
+1761;ID-U-A;U-A;(unassigned);AS;ID
+1762;ID-YO;YO;Yogyakarta;AS;ID
+1763;IE-C;C;County Cork;EU;IE
+1764;IE-CE;CE;County Clare;EU;IE
+1765;IE-CN;CN;County Cavan;EU;IE
+1766;IE-CW;CW;County Carlow;EU;IE
+1767;IE-D;D;County Dublin;EU;IE
+1768;IE-DL;DL;County Donegal;EU;IE
+1769;IE-G;G;County Galway;EU;IE
+1770;IE-KE;KE;County Kildare;EU;IE
+1771;IE-KK;KK;County Kilkenny;EU;IE
+1772;IE-KY;KY;County Kerry;EU;IE
+1773;IE-LD;LD;County Longford;EU;IE
+1774;IE-LH;LH;County Louth;EU;IE
+1775;IE-LK;LK;County Limerick;EU;IE
+1776;IE-LM;LM;County Leitrim;EU;IE
+1777;IE-LS;LS;County Laois;EU;IE
+1778;IE-MH;MH;County Meath;EU;IE
+1779;IE-MN;MN;County Monaghan;EU;IE
+1780;IE-MO;MO;County Mayo;EU;IE
+1781;IE-OY;OY;County Offaly;EU;IE
+1782;IE-RN;RN;County Roscommon;EU;IE
+1783;IE-SO;SO;County Sligo;EU;IE
+1784;IE-TA;TA;County Tipperary;EU;IE
+1785;IE-U-A;U-A;(unassigned);EU;IE
+1786;IE-WD;WD;County Waterford;EU;IE
+1787;IE-WH;WH;County Westmeath;EU;IE
+1788;IE-WW;WW;County Wicklow;EU;IE
+1789;IE-WX;WX;County Wexford;EU;IE
+1790;IL-D;D;South District;AS;IL
+1791;IL-HA;HA;Haifa District;AS;IL
+1792;IL-JM;JM;Jerusalem District;AS;IL
+1793;IL-M;M;Center District;AS;IL
+1794;IL-TA;TA;Tel Aviv District;AS;IL
+1795;IL-U-A;U-A;(unassigned);AS;IL
+1796;IL-Z;Z;North District;AS;IL
+1797;IM-U-A;U-A;(unassigned);EU;IM
+1798;IN-AN;AN;Andaman and Nicobar Islands;AS;IN
+1799;IN-AP;AP;Andhra Pradesh;AS;IN
+1800;IN-AR;AR;Arunachal Pradesh;AS;IN
+1801;IN-AS;AS;Assam;AS;IN
+1802;IN-BR;BR;Bihar;AS;IN
+4729;IN-CH;CH;Chandigarh;AS;IN
+1803;IN-CT;CT;Chhattisgarh;AS;IN
+1804;IN-DD;DD;Daman and Diu;AS;IN
+1805;IN-DL;DL;Delhi;AS;IN
+1806;IN-DN;DN;Dadra and Nagar Haveli;AS;IN
+1807;IN-GA;GA;Goa;AS;IN
+1808;IN-GJ;GJ;Gujarat;AS;IN
+1809;IN-HP;HP;Himachal Pradesh;AS;IN
+1810;IN-HR;HR;Haryana;AS;IN
+1811;IN-JH;JH;Jharkhand;AS;IN
+1812;IN-JK;JK;Jammu and Kashmir;AS;IN
+1813;IN-KA;KA;Karnataka;AS;IN
+1814;IN-KL;KL;Kerala;AS;IN
+1815;IN-LD;LD;Lakshadweep;AS;IN
+1816;IN-ML;ML;Meghalaya;AS;IN
+1817;IN-MM;MM;Maharashtra;AS;IN
+1818;IN-MN;MN;Manipur;AS;IN
+1819;IN-MP;MP;Madhya Pradesh;AS;IN
+1820;IN-MZ;MZ;Mizoram;AS;IN
+1821;IN-NL;NL;Nagaland;AS;IN
+1822;IN-OR;OR;Orissa;AS;IN
+1823;IN-PB;PB;Punjab;AS;IN
+1824;IN-PY;PY;Pondicherry;AS;IN
+1825;IN-RJ;RJ;Rajasthan;AS;IN
+1826;IN-SK;SK;Sikkim;AS;IN
+1827;IN-TN;TN;Tamil Nadu;AS;IN
+1828;IN-TR;TR;Tripura;AS;IN
+1829;IN-U-A;U-A;(unassigned);AS;IN
+1830;IN-UL;UL;Uttaranchal;AS;IN
+1831;IN-UP;UP;Uttar Pradesh;AS;IN
+1832;IN-WB;WB;West Bengal;AS;IN
+1833;IO-U-A;U-A;(unassigned);AS;IO
+1834;IQ-AN;AN;Al-Anbar Governorate;AS;IQ
+1835;IQ-AR;AR;Arbil Governorate;AS;IQ
+1836;IQ-BA;BA;Basra Governorate;AS;IQ
+1837;IQ-BB;BB;Babil Governorate;AS;IQ
+1838;IQ-BG;BG;Baghdad Governorate;AS;IQ
+1839;IQ-DA;DA;Duhok Governorate;AS;IQ
+1840;IQ-DI;DI;Diyala Governorate;AS;IQ
+1841;IQ-DQ;DQ;Dhi Qar Governorate;AS;IQ
+1842;IQ-KA;KA;Karbala Governorate;AS;IQ
+1843;IQ-MA;MA;Maysan Governorate;AS;IQ
+1844;IQ-MU;MU;Al-Muthanna Governorate;AS;IQ
+1845;IQ-NA;NA;Najaf Governorate;AS;IQ
+1846;IQ-NI;NI;Ninawa Governorate;AS;IQ
+1847;IQ-QA;QA;Al-Qadisiyyah Governorate;AS;IQ
+1848;IQ-SD;SD;Salah ad Din Governorate;AS;IQ
+1849;IQ-SW;SW;As-Sulaymaniyyah Governorate;AS;IQ
+1850;IQ-TS;TS;Kirkuk Governorate;AS;IQ
+1851;IQ-U-A;U-A;(unassigned);AS;IQ
+1852;IQ-WA;WA;Wasit Governorate;AS;IQ
+1853;IR-01;1;East Azarbaijan Province;AS;IR
+1854;IR-02;2;West Azarbaijan Province;AS;IR
+1855;IR-03;3;Ardabil Province;AS;IR
+1856;IR-04;4;Esfahan Province;AS;IR
+1857;IR-05;5;Iiam Province;AS;IR
+1858;IR-06;6;Bushehr Province;AS;IR
+1859;IR-07;7;Tehran Province;AS;IR
+1860;IR-08;8;Chaharmahal and Bakhtiari Province;AS;IR
+1862;IR-10;10;Khuzestan Province;AS;IR
+1863;IR-11;11;Zanjan Province;AS;IR
+1864;IR-12;12;Semnan Province;AS;IR
+1865;IR-13;13;Sistan and Baluchestan Province;AS;IR
+1866;IR-14;14;Fars Province;AS;IR
+1867;IR-15;15;Kerman Province;AS;IR
+1868;IR-16;16;Kordestan Province;AS;IR
+1869;IR-17;17;Kermanshah Province;AS;IR
+1870;IR-18;18;Kohgiluyeh and Boyer-Ahmad Province;AS;IR
+1871;IR-19;19;Gilan Province;AS;IR
+1872;IR-20;20;Lorestan Province;AS;IR
+1873;IR-21;21;Mazandaran Province;AS;IR
+1874;IR-22;22;Markazi Province;AS;IR
+1875;IR-23;23;Hormozgan Province;AS;IR
+1876;IR-24;24;Hamadan Province;AS;IR
+1877;IR-25;25;Yazd Province;AS;IR
+1878;IR-26;26;Qom Province;AS;IR
+1879;IR-27;27;Golestan Province;AS;IR
+1880;IR-28;28;Qazvin Province;AS;IR
+4737;IR-29;29;South Khorasan Province;AS;IR
+4736;IR-30;30;Razavi Khorasan Province;AS;IR
+4735;IR-31;31;North Khorasan Province;AS;IR
+1881;IR-U-A;U-A;(unassigned);AS;IR
+1883;IS-1;1;Capital Region;EU;IS
+1884;IS-2;2;Southern Peninsula;EU;IS
+1885;IS-3;3;West;EU;IS
+1886;IS-4;4;Westfjords;EU;IS
+1887;IS-5;5;Northwest;EU;IS
+1888;IS-6;6;Northeast;EU;IS
+1889;IS-7;7;East;EU;IS
+1890;IS-8;8;South;EU;IS
+1891;IS-U-A;U-A;(unassigned);EU;IS
+4161;IT-21;21;Piedmont;EU;IT
+4156;IT-23;23;Valle d'Aosta;EU;IT
+4164;IT-25;25;Lombardy;EU;IT
+4159;IT-32;32;Trentino-Alto Adige;EU;IT
+4155;IT-34;34;Veneto;EU;IT
+4167;IT-36;36;Friuli-Venezia Giulia;EU;IT
+4165;IT-42;42;Liguria;EU;IT
+4168;IT-45;45;Emilia-Romagna;EU;IT
+4158;IT-52;52;Tuscany;EU;IT
+4157;IT-55;55;Umbria;EU;IT
+4163;IT-57;57;Marche;EU;IT
+4166;IT-62;62;Lazio;EU;IT
+4173;IT-65;65;Abruzzi;EU;IT
+4162;IT-67;67;Molise;EU;IT
+4169;IT-72;72;Campania;EU;IT
+4172;IT-75;75;Apulia;EU;IT
+4171;IT-77;77;Basilicata;EU;IT
+4170;IT-78;78;Calabria;EU;IT
+4174;IT-82;82;Sicily;EU;IT
+4160;IT-88;88;Sardinia;EU;IT
+1986;IT-U-A;U-A;(unassigned);EU;IT
+1996;JE-U-A;U-A;(unassigned);EU;JE
+1997;JM-01;1;Kingston;NA;JM
+1998;JM-02;2;Saint Andrew;NA;JM
+1999;JM-03;3;Saint Thomea;NA;JM
+2000;JM-04;4;Portland;NA;JM
+2001;JM-05;5;Saint Mary;NA;JM
+2002;JM-06;6;Saint Ann;NA;JM
+2003;JM-07;7;Trelawny;NA;JM
+2004;JM-08;8;Saint James;NA;JM
+2005;JM-09;9;Hanover;NA;JM
+2006;JM-10;10;Westmoreland;NA;JM
+2007;JM-11;11;Saint Elizabeth;NA;JM
+2008;JM-12;12;Manchester;NA;JM
+2009;JM-13;13;Clarendon;NA;JM
+2010;JM-14;14;Saint Catherine;NA;JM
+2011;JM-U-A;U-A;(unassigned);NA;JM
+2012;JO-AJ;AJ;Ajln;AS;JO
+2013;JO-AM;AM;Amman;AS;JO
+2014;JO-AQ;AQ;Al 'Aqaba;AS;JO
+2015;JO-AT;AT;At Tafilah;AS;JO
+2016;JO-AZ;AZ;Az Zarga;AS;JO
+2017;JO-BA;BA;Al Balqa';AS;JO
+2018;JO-JA;JA;Jarash;AS;JO
+2019;JO-JR;JR;Irbid;AS;JO
+2020;JO-KA;KA;Al Karak;AS;JO
+2021;JO-MA;MA;Al Mafraq;AS;JO
+2022;JO-MD;MD;Madaba;AS;JO
+2023;JO-MN;MN;Ma'an;AS;JO
+2024;JO-U-A;U-A;(unassigned);AS;JO
+2025;JP-01;1;Hokkaid? Prefecture;AS;JP
+2026;JP-02;2;Aomori Prefecture;AS;JP
+2027;JP-03;3;Iwate Prefecture;AS;JP
+2028;JP-04;4;Miyagi Prefecture;AS;JP
+2029;JP-05;5;Akita Prefecture;AS;JP
+2030;JP-06;6;Yamagata Prefecture;AS;JP
+2031;JP-07;7;Fukusima Prefecture;AS;JP
+2032;JP-08;8;Ibaraki Prefecture;AS;JP
+2033;JP-09;9;Tochigi Prefecture;AS;JP
+2034;JP-10;10;Gunma Prefecture;AS;JP
+2035;JP-11;11;Saitama Prefecture;AS;JP
+2036;JP-12;12;Chiba Prefecture;AS;JP
+2037;JP-13;13;T?ky? Prefecture;AS;JP
+2038;JP-14;14;Kanagawa Prefecture;AS;JP
+2039;JP-15;15;Niigata Prefecture;AS;JP
+2040;JP-16;16;Toyama Prefecture;AS;JP
+2041;JP-17;17;Ishikawa Prefecture;AS;JP
+2042;JP-18;18;Fukui Prefecture;AS;JP
+2043;JP-19;19;Yamanashi Prefecture;AS;JP
+2044;JP-20;20;Nagano Prefecture;AS;JP
+2045;JP-21;21;Gifu Prefecture;AS;JP
+2046;JP-22;22;Shizuoka Prefecture;AS;JP
+2047;JP-23;23;Aichi Prefecture;AS;JP
+2048;JP-24;24;Mie Prefecture;AS;JP
+2049;JP-25;25;Shiga Prefecture;AS;JP
+2050;JP-26;26;Ky?to Prefecture;AS;JP
+2051;JP-27;27;?saka Prefecture;AS;JP
+2052;JP-28;28;Hy?go Prefecture;AS;JP
+2053;JP-29;29;Nara Prefecture;AS;JP
+2054;JP-30;30;Wakayama Prefecture;AS;JP
+2055;JP-31;31;Tottori Prefecture;AS;JP
+2056;JP-32;32;Shimane Prefecture;AS;JP
+2057;JP-33;33;Okayama Prefecture;AS;JP
+2058;JP-34;34;Hiroshima Prefecture;AS;JP
+2059;JP-35;35;Yamaguchi Prefecture;AS;JP
+2060;JP-36;36;Tokushima Prefecture;AS;JP
+2061;JP-37;37;Kagawa Prefecture;AS;JP
+2062;JP-38;38;Ehime Prefecture;AS;JP
+2063;JP-39;39;K?chi Prefecture;AS;JP
+2064;JP-40;40;Fukuoka Prefecture;AS;JP
+2065;JP-41;41;Saga Prefecture;AS;JP
+2066;JP-42;42;Nagasaki Prefecture;AS;JP
+2067;JP-43;43;Kumamoto Prefecture;AS;JP
+2068;JP-44;44;?ita Prefecture;AS;JP
+2069;JP-45;45;Miyazaki Prefecture;AS;JP
+2070;JP-46;46;Kagoshima Prefecture;AS;JP
+2071;JP-47;47;Okinawa Prefecture;AS;JP
+2072;JP-U-A;U-A;(unassigned);AS;JP
+2073;KE-110;110;Nairobi Province;AF;KE
+2074;KE-200;200;Central Province;AF;KE
+2075;KE-300;300;Coast Province;AF;KE
+2076;KE-400;400;Eastern Province;AF;KE
+2077;KE-500;500;North-Eastern Province;AF;KE
+2078;KE-600;600;Nyanza Province;AF;KE
+2079;KE-700;700;Rift Valley Province;AF;KE
+2080;KE-900;900;Western Province;AF;KE
+2081;KE-U-A;U-A;(unassigned);AF;KE
+2082;KG-B;B;Batken;AS;KG
+2083;KG-C;C;Chuy;AS;KG
+2084;KG-GB;GB;Bishkek;AS;KG
+2085;KG-J;J;Jalal-Abad;AS;KG
+2086;KG-N;N;Naryn;AS;KG
+2087;KG-O;O;Osh;AS;KG
+2088;KG-T;T;Talas;AS;KG
+2089;KG-U-A;U-A;(unassigned);AS;KG
+2090;KG-Y;Y;Issyk-Kul;AS;KG
+2091;KH-1;1;Banteay Mean Chey;AS;KH
+2092;KH-10;10;Krachoh;AS;KH
+2093;KH-11;11;Mondol Kiri;AS;KH
+2094;KH-12;12;Phnom Penh;AS;KH
+2095;KH-13;13;Preah Vihear;AS;KH
+2096;KH-14;14;Prey Veaeng;AS;KH
+2097;KH-15;15;Pousaat;AS;KH
+2098;KH-16;16;Rotanak Kiri;AS;KH
+2099;KH-17;17;Siem Reab;AS;KH
+2100;KH-18;18;Xrong Preah Sihanouk;AS;KH
+2101;KH-19;19;Stueng Traeng;AS;KH
+2102;KH-2;2;Baat Dambang;AS;KH
+2103;KH-20;20;Svaay Rieng;AS;KH
+2104;KH-21;21;Taakaev;AS;KH
+2105;KH-22;22;Otdar Mean Chey;AS;KH
+2106;KH-23;23;Krong Kaeb;AS;KH
+2107;KH-24;24;Krong Pailin;AS;KH
+2108;KH-3;3;Kampong Chaam;AS;KH
+2109;KH-4;4;Kampong Chhnang;AS;KH
+2110;KH-5;5;Kampong Spueu;AS;KH
+2111;KH-6;6;Kampong Thum;AS;KH
+2112;KH-7;7;Kampot;AS;KH
+2113;KH-8;8;Kandaal;AS;KH
+2114;KH-9;9;Kach Kong;AS;KH
+2115;KH-U-A;U-A;(unassigned);AS;KH
+2116;KI-G;G;Gilbert Islands;OC;KI
+2117;KI-L;L;Line Islands;OC;KI
+2118;KI-P;P;Phoenix Islands;OC;KI
+2119;KI-U-A;U-A;(unassigned);OC;KI
+2120;KM-A;A;Anjouan Ndzouani;AF;KM
+2121;KM-G;G;Grande Comore Ngazidja;AF;KM
+2122;KM-M;M;Moheli Moili;AF;KM
+2123;KM-U-A;U-A;(unassigned);AF;KM
+2124;KN-U-A;U-A;(unassigned);NA;KN
+2125;KP-CHA;CHA;Chagang-do;AS;KP
+2126;KP-HAB;HAB;Hamgyongbuk-do;AS;KP
+2127;KP-HAN;HAN;Hamgyongnam-do;AS;KP
+2128;KP-HWB;HWB;Hwanghaebuk-do;AS;KP
+2129;KP-HWN;HWN;Hwanghaenam-do;AS;KP
+2130;KP-KAE;KAE;Kaesong-si;AS;KP
+2131;KP-KAN;KAN;Kangwon-do;AS;KP
+2132;KP-NAJ;NAJ;Najin Sonbong-si;AS;KP
+2133;KP-NAM;NAM;Nampo-si;AS;KP
+2134;KP-PYB;PYB;Pyonganbuk-do;AS;KP
+2135;KP-PYN;PYN;Pyongannam-do;AS;KP
+2136;KP-PYO;PYO;Pyongyang-ai;AS;KP
+2137;KP-U-A;U-A;(unassigned);AS;KP
+2138;KP-YAN;YAN;Yanggang-do;AS;KP
+2139;KR-11;11;Seoul Teugbyeolsi;AS;KR
+2140;KR-26;26;Busan Gwang'yeogsi;AS;KR
+2141;KR-27;27;Daegu Gwang'yeogsi;AS;KR
+2142;KR-28;28;Incheon Gwang'yeogsi;AS;KR
+2143;KR-29;29;Gwangju Gwang'yeogsi;AS;KR
+2144;KR-30;30;Daejeon Gwang'yeogsi;AS;KR
+2145;KR-31;31;Ulsan Gwang'yeogsi;AS;KR
+2146;KR-41;41;Gyeonggido;AS;KR
+2147;KR-42;42;Gang'weondo;AS;KR
+2148;KR-43;43;Chungcheongbugdo;AS;KR
+2149;KR-44;44;Chungcheongnamdo;AS;KR
+2150;KR-45;45;Jeonrabugdo;AS;KR
+2151;KR-46;46;Jeonranamdo;AS;KR
+2152;KR-47;47;Gyeongsangbugdo;AS;KR
+2153;KR-48;48;Gyeongsangnamdo;AS;KR
+2154;KR-49;49;Jejudo;AS;KR
+2155;KR-U-A;U-A;(unassigned);AS;KR
+4124;KS-U-A;U-A;(unassigned);EU;KS
+2156;KW-AH;AH;Al Ahmadi Governorate;AS;KW
+2157;KW-FA;FA;Al Farwaniyah Governorate;AS;KW
+2158;KW-HA;HA;Hawalli Governorate;AS;KW
+2159;KW-JA;JA;Al Jahra Governorate;AS;KW
+2160;KW-KU;KU;Al Asimah Governorate;AS;KW
+4757;KW-MU;MU;Mubarak Al-Kabeer Governorate;AS;KW
+2161;KW-U-A;U-A;(unassigned);AS;KW
+2162;KY-U-A;U-A;(unassigned);NA;KY
+2163;KZ-AKM;AKM;Akmola;AS;KZ
+2164;KZ-AKT;AKT;Aktobe;AS;KZ
+2165;KZ-ALA;ALA;Almaty (city);AS;KZ
+2166;KZ-ALM;ALM;Almaty;AS;KZ
+2167;KZ-AST;AST;Astana;AS;KZ
+2168;KZ-ATY;ATY;Atyrau;AS;KZ
+4179;KZ-BAY;BAY;Baikonur;AS;KZ
+2169;KZ-KAR;KAR;Karagandy;AS;KZ
+2170;KZ-KUS;KUS;Kostanay;AS;KZ
+2171;KZ-KZY;KZY;Kyzylorda;AS;KZ
+2172;KZ-MAN;MAN;Mangystau;AS;KZ
+2173;KZ-PAV;PAV;Pavlodar;AS;KZ
+2174;KZ-SEV;SEV;North Kazakhstan;AS;KZ
+2175;KZ-U-A;U-A;(unassigned);AS;KZ
+2176;KZ-VOS;VOS;East Kazakhstan;AS;KZ
+2177;KZ-YUZ;YUZ;South Kazakhstan;AS;KZ
+2178;KZ-ZAP;ZAP;West Kazakhstan;AS;KZ
+2179;KZ-ZHA;ZHA;Zhambyl;AS;KZ
+2180;LA-AT;AT;Attapu;AS;LA
+2181;LA-BK;BK;Bokeo;AS;LA
+2182;LA-BL;BL;Bolikhamxai;AS;LA
+2183;LA-CH;CH;Champasak;AS;LA
+2184;LA-HO;HO;Houaphan;AS;LA
+2185;LA-KH;KH;Khammouan;AS;LA
+2186;LA-LM;LM;Louang Namtha;AS;LA
+2187;LA-LP;LP;Louangphabang;AS;LA
+2188;LA-OU;OU;Oudomxai;AS;LA
+2189;LA-PH;PH;Phongsali;AS;LA
+2190;LA-SL;SL;Salavan;AS;LA
+2191;LA-SV;SV;Savannakhet;AS;LA
+2192;LA-U-A;U-A;(unassigned);AS;LA
+2193;LA-VT;VT;Vientiane;AS;LA
+2194;LA-XA;XA;Xaignabouli;AS;LA
+2195;LA-XE;XE;Xekong;AS;LA
+2196;LA-XI;XI;Xiangkhoang;AS;LA
+2197;LA-XN;XN;Xiasomboun;AS;LA
+4215;LB-AK;AK;Aakkar Governorate;AS;LB
+2198;LB-AS;AS;North Governorate;AS;LB
+2199;LB-BA;BA;Beirut Governorate;AS;LB
+4214;LB-BH;BH;Baalbek-Hermel Governorate;AS;LB
+2200;LB-BI;BI;Beqaa Governorate;AS;LB
+2201;LB-JA;JA;South Governorate;AS;LB
+2202;LB-JL;JL;Mount Lebanon Governorate;AS;LB
+2203;LB-NA;NA;Nabatieh Governorate;AS;LB
+2204;LB-U-A;U-A;(unassigned);AS;LB
+4777;LC-01;1;Anse la Raye;NA;LC
+4778;LC-02;2;Castries;NA;LC
+4779;LC-03;3;Choiseul;NA;LC
+4780;LC-04;4;Dauphin;NA;LC
+4781;LC-05;5;Dennery;NA;LC
+4782;LC-06;6;Gros Islet;NA;LC
+4783;LC-07;7;Laborie;NA;LC
+4784;LC-08;8;Micoud;NA;LC
+4785;LC-09;9;Praslin;NA;LC
+4786;LC-10;10;Soufrière;NA;LC
+4787;LC-11;11;Vieux Fort;NA;LC
+2205;LC-U-A;U-A;(unassigned);NA;LC
+4788;LI-01;1;Balzers;EU;LI
+4789;LI-02;2;Eschen;EU;LI
+4790;LI-03;3;Gamprin;EU;LI
+4791;LI-04;4;Mauren;EU;LI
+4792;LI-05;5;Planken;EU;LI
+4793;LI-06;6;Ruggell;EU;LI
+4794;LI-07;7;Schaan;EU;LI
+4795;LI-08;8;Schellenberg;EU;LI
+4796;LI-09;9;Triesen;EU;LI
+4797;LI-10;10;Triesenberg;EU;LI
+4798;LI-11;11;Vaduz;EU;LI
+2206;LI-U-A;U-A;(unassigned);EU;LI
+4760;LK-1;1;Western Province;AS;LK
+4759;LK-2;2;Central Province;AS;LK
+4758;LK-3;3;Southern Province;AS;LK
+4763;LK-4;4;Northern Province;AS;LK
+4762;LK-5;5;Eastern Province;AS;LK
+4761;LK-6;6;North Western Province;AS;LK
+4766;LK-7;7;North Central Province;AS;LK
+4765;LK-8;8;Uva Province;AS;LK
+4767;LK-9;9;Sabaragamuwa Province;AS;LK
+2232;LK-U-A;U-A;(unassigned);AS;LK
+2233;LR-BG;BG;Bong;AF;LR
+2234;LR-BM;BM;Bomi;AF;LR
+2235;LR-CM;CM;Grand Cape Mount;AF;LR
+2236;LR-GB;GB;Grand Basaa;AF;LR
+2237;LR-GG;GG;Grand Gedeh;AF;LR
+2238;LR-GK;GK;Grand Kru;AF;LR
+2239;LR-LO;LO;Lofa;AF;LR
+2240;LR-MG;MG;Margibi;AF;LR
+2241;LR-MO;MO;Montserrado;AF;LR
+2242;LR-MY;MY;Maryland;AF;LR
+2243;LR-NI;NI;Nimba;AF;LR
+2244;LR-RI;RI;Rivercess;AF;LR
+2245;LR-SI;SI;Sinoe;AF;LR
+2246;LR-U-A;U-A;(unassigned);AF;LR
+2247;LS-A;A;Maseru;AF;LS
+2248;LS-B;B;Butha-Buthe;AF;LS
+2249;LS-C;C;Leribe;AF;LS
+2250;LS-D;D;Berea;AF;LS
+2251;LS-E;E;Mafeteng;AF;LS
+2252;LS-F;F;Mohale's Hoek;AF;LS
+2253;LS-G;G;Quthing;AF;LS
+2254;LS-H;H;Qacha's Nek;AF;LS
+2255;LS-J;J;Mokhotlong;AF;LS
+2256;LS-K;K;Thaba-Tseka;AF;LS
+2257;LS-U-A;U-A;(unassigned);AF;LS
+2258;LT-AL;AL;Alytus County;EU;LT
+2259;LT-KL;KL;Klaip?da County;EU;LT
+2260;LT-KU;KU;Kaunas County;EU;LT
+2261;LT-MR;MR;Marijampol? County;EU;LT
+2262;LT-PN;PN;Panev?žys County;EU;LT
+2263;LT-SA;SA;Šiauliai County;EU;LT
+2264;LT-TA;TA;Taurag? County;EU;LT
+2265;LT-TE;TE;Telšiai County;EU;LT
+2266;LT-U-A;U-A;(unassigned);EU;LT
+2267;LT-UT;UT;Utena County;EU;LT
+2268;LT-VL;VL;Vilnius County;EU;LT
+2269;LU-D;D;Diekirch;EU;LU
+2270;LU-G;G;Grevenmacher;EU;LU
+4123;LU-L;L;Luxembourg;EU;LU
+2271;LU-U-A;U-A;(unassigned);EU;LU
+2272;LV-AI;AI;Aizkraukle District;EU;LV
+2273;LV-AL;AL;Al?ksne District;EU;LV
+2274;LV-BL;BL;Balvi District;EU;LV
+2275;LV-BU;BU;Bauska District;EU;LV
+2276;LV-CE;CE;C?sis District;EU;LV
+2277;LV-DA;DA;Daugavpils District;EU;LV
+2278;LV-DGV;DGV;Daugavpils (city);EU;LV
+2279;LV-DO;DO;Dobele District;EU;LV
+2280;LV-GU;GU;Gulbene District;EU;LV
+2281;LV-JEL;JEL;Jelgava (city);EU;LV
+2282;LV-JK;JK;J?kabpils District;EU;LV
+2283;LV-JL;JL;Jelgava District;EU;LV
+2284;LV-JUR;JUR;J?rmala (city);EU;LV
+2285;LV-KR;KR;Kr?slava District;EU;LV
+2286;LV-KU;KU;Kuld?ga District;EU;LV
+2287;LV-LE;LE;Liep?ja District;EU;LV
+2288;LV-LM;LM;Limbaži District;EU;LV
+2289;LV-LPX;LPX;Liep?ja (city);EU;LV
+2290;LV-LU;LU;Ludza District;EU;LV
+2291;LV-MA;MA;Madona District;EU;LV
+2292;LV-OG;OG;Ogre District;EU;LV
+2293;LV-PR;PR;Prei?i District;EU;LV
+2294;LV-RE;RE;R?zekne District;EU;LV
+2295;LV-REZ;REZ;R?zekne (city);EU;LV
+2296;LV-RI;RI;Riga District;EU;LV
+2297;LV-RIX;RIX;Riga (city);EU;LV
+2298;LV-SA;SA;Saldus District;EU;LV
+2299;LV-TA;TA;Talsi District;EU;LV
+2300;LV-TU;TU;Tukums District;EU;LV
+2301;LV-U-A;U-A;(unassigned);EU;LV
+2302;LV-VE;VE;Ventspils;EU;LV
+2303;LV-VEN;VEN;Ventspils (city);EU;LV
+2304;LV-VK;VK;Valka District;EU;LV
+2305;LV-VM;VM;Valmiera District;EU;LV
+2307;LY-BA;BA;Benghazi District;AF;LY
+2308;LY-BU;BU;Al Butnan District;AF;LY
+2310;LY-DR;DR;Darnah District;AF;LY
+2313;LY-GT;GT;Ghat District;AF;LY
+2315;LY-JA;JA;Al Jabal al Akhdar District;AF;LY
+4768;LY-JG;JG;Al Jabal al Gharbi District;AF;LY
+2317;LY-JI;JI;Al Jfara District;AF;LY
+2318;LY-JU;JU;Al Jufrah District;AF;LY
+2319;LY-KF;KF;Al Kufrah District;AF;LY
+2320;LY-MB;MB;Al Murgub District;AF;LY
+2321;LY-MI;MI;Misurata District;AF;LY
+2322;LY-MJ;MJ;Al Marj District;AF;LY
+2323;LY-MQ;MQ;Murzuq District;AF;LY
+2325;LY-NL;NL;Nalut District;AF;LY
+2326;LY-NQ;NQ;An Nuqat al Khams District;AF;LY
+2329;LY-SB;SB;Sabha District;AF;LY
+2330;LY-SH;SH;Wadi Al Shatii District;AF;LY
+2331;LY-SR;SR;Surt District;AF;LY
+2333;LY-TB;TB;Tripoli District;AF;LY
+2336;LY-U-A;U-A;(unassigned);AF;LY
+2337;LY-WA;WA;Al Wahat District;AF;LY
+2338;LY-WD;WD;Wadi Al Hayaa District;AF;LY
+2340;LY-ZA;ZA;Az Zawiyah District;AF;LY
+2341;MA-AGD;AGD;Agadir;AF;MA
+2342;MA-ASZ;ASZ;Assa-Zag;AF;MA
+2343;MA-AZI;AZI;Azilal;AF;MA
+2344;MA-BAH;BAH;Aït Baha;AF;MA
+2345;MA-BEM;BEM;Beni Mellal;AF;MA
+2346;MA-BER;BER;Berkane;AF;MA
+2347;MA-BES;BES;Ben Sllmane;AF;MA
+2348;MA-BOD;BOD;Boujdour;AF;MA
+2349;MA-BOM;BOM;Boulemane;AF;MA
+2350;MA-CAS;CAS;Casablanca;AF;MA
+2351;MA-CHE;CHE;Chefchaouene;AF;MA
+2352;MA-CHI;CHI;Chichaoua;AF;MA
+2353;MA-ERR;ERR;Errachidia;AF;MA
+2354;MA-ESI;ESI;Essaouira;AF;MA
+2355;MA-ESM;ESM;Es Smara;AF;MA
+2356;MA-FES;FES;Fès;AF;MA
+2357;MA-FIG;FIG;Figuig;AF;MA
+2358;MA-GUE;GUE;Guelmim;AF;MA
+2359;MA-HAJ;HAJ;El Hajeb;AF;MA
+2360;MA-HAO;HAO;Al Haouz;AF;MA
+2361;MA-HOC;HOC;Al Hoceïma;AF;MA
+2362;MA-IFR;IFR;Ifrane;AF;MA
+2363;MA-JDI;JDI;El Jadida;AF;MA
+2364;MA-JRA;JRA;Jerada;AF;MA
+2365;MA-KEN;KEN;Kénitra;AF;MA
+2366;MA-KES;KES;Kelaat Sraghna;AF;MA
+2367;MA-KHE;KHE;Khemisaet;AF;MA
+2368;MA-KHN;KHN;Khenifra;AF;MA
+2369;MA-KHO;KHO;Khouribga;AF;MA
+2370;MA-LAA;LAA;Laâyoune (EH);AF;MA
+2371;MA-LAP;LAP;Larache;AF;MA
+2372;MA-MAR;MAR;Marrakech;AF;MA
+2373;MA-MEK;MEK;Meknsès;AF;MA
+2374;MA-MEL;MEL;Aït Melloul;AF;MA
+2375;MA-NAD;NAD;Nador;AF;MA
+2376;MA-OUA;OUA;Ouarzazate;AF;MA
+2377;MA-OUD;OUD;Oued ed Dahab (EH);AF;MA
+2378;MA-OUJ;OUJ;Oujda;AF;MA
+2379;MA-RBA;RBA;Rabat-Salé;AF;MA
+2380;MA-SAF;SAF;Safi;AF;MA
+2381;MA-SEF;SEF;Sefrou;AF;MA
+2382;MA-SET;SET;Settat;AF;MA
+2383;MA-SIK;SIK;Sidl Kacem;AF;MA
+2384;MA-TAO;TAO;Taounate;AF;MA
+2385;MA-TAR;TAR;Taroudannt;AF;MA
+2386;MA-TAT;TAT;Tata;AF;MA
+2387;MA-TAZ;TAZ;Taza;AF;MA
+2388;MA-TET;TET;Tétouan;AF;MA
+2389;MA-TIZ;TIZ;Tiznit;AF;MA
+2390;MA-TNG;TNG;Tanger;AF;MA
+2391;MA-TNT;TNT;Tan-Tan;AF;MA
+2392;MA-U-A;U-A;(unassigned);AF;MA
+2393;MC-U-A;U-A;(unassigned);EU;MC
+4246;MD-AN;AN;Anenii Noi;EU;MD
+4247;MD-BE;BE;Bender;EU;MD
+4248;MD-BL;BL;B?l?i;EU;MD
+4249;MD-BR;BR;Briceni;EU;MD
+4250;MD-BS;BS;Basarabeanca;EU;MD
+4251;MD-C;C;Chi?in?u;EU;MD
+4252;MD-CC;CC;Cameanca;EU;MD
+4253;MD-CG;CG;Ceadîr-Lunga;EU;MD
+4254;MD-CH;CH;Cahul;EU;MD
+4255;MD-CL;CL;C?l?ra?i;EU;MD
+4256;MD-CM;CM;Cimi?lia;EU;MD
+4257;MD-CN;CN;Cainari;EU;MD
+4258;MD-CO;CO;Comrat;EU;MD
+4259;MD-CR;CR;Criuleni;EU;MD
+4260;MD-CS;CS;C?u?eni/C?u?ani;EU;MD
+4261;MD-CT;CT;Cantemir;EU;MD
+4262;MD-DB;DB;Dub?sari;EU;MD
+4263;MD-DN;DN;Dondu?eni;EU;MD
+4264;MD-DR;DR;Drochia;EU;MD
+2397;MD-ED;ED;Edine?;EU;MD
+4265;MD-FL;FL;F?le?ti;EU;MD
+4266;MD-FR;FR;Flore?ti;EU;MD
+4267;MD-GL;GL;Glodeni;EU;MD
+4268;MD-HN;HN;Hînce?ti;EU;MD
+4269;MD-IL;IL;Ialoveni;EU;MD
+4270;MD-LV;LV;Leova;EU;MD
+4271;MD-NS;NS;Nisporeni;EU;MD
+4272;MD-OC;OC;Ocni?a;EU;MD
+2400;MD-OR;OR;Orhei;EU;MD
+4273;MD-RB;RB;Rîbni?a;EU;MD
+4274;MD-RS;RS;Rî?cani;EU;MD
+4275;MD-RZ;RZ;Rezina;EU;MD
+4276;MD-SG;SG;Sîngerei;EU;MD
+4277;MD-SL;SL;Slobozia;EU;MD
+4278;MD-SR;SR;Soroca;EU;MD
+4279;MD-ST;ST;Str??eni;EU;MD
+4280;MD-SV;SV;?tefan-Vod?;EU;MD
+2403;MD-TA;TA;Taraclia;EU;MD
+4281;MD-TL;TL;Telene?ti;EU;MD
+4282;MD-TR;TR;Tiraspol;EU;MD
+2405;MD-U-A;U-A;(unassigned);EU;MD
+2406;MD-UN;UN;Ungheni;EU;MD
+4283;MD-VL;VL;Vulc?ne?ti;EU;MD
+4412;ME-01;1;Andrijevica Municipality;EU;ME
+4413;ME-02;2;Bar Municipality;EU;ME
+4414;ME-03;3;Berane Municipality;EU;ME
+4415;ME-04;4;Bijelo Polje Municipality;EU;ME
+4416;ME-05;5;Budva Municipality;EU;ME
+4417;ME-06;6;Cetinje Municipality;EU;ME
+4418;ME-07;7;Danilovgrad Municipality;EU;ME
+4419;ME-08;8;Herceg-Novi Municipality;EU;ME
+4420;ME-09;9;Kolašin Municipality;EU;ME
+4421;ME-10;10;Kotor Municipality;EU;ME
+4422;ME-11;11;Mojkovac Municipality;EU;ME
+4423;ME-12;12;Nikši? Municipality;EU;ME
+4424;ME-13;13;Plav Municipality;EU;ME
+4425;ME-14;14;Pljevlja Municipality;EU;ME
+4426;ME-15;15;Plužine Municipality;EU;ME
+4427;ME-16;16;Podgorica Municipality;EU;ME
+4428;ME-17;17;Rožaje Municipality;EU;ME
+4429;ME-18;18;Šavnik Municipality;EU;ME
+4430;ME-19;19;Tivat Municipality;EU;ME
+4431;ME-20;20;Ulcinj Municipality;EU;ME
+4432;ME-21;21;Žabljak Municipality;EU;ME
+2407;ME-U-A;U-A;(unassigned);EU;ME
+4728;MF-U-A;U-A;(unassigned);NA;MF
+2408;MG-A;A;Toamasina;AF;MG
+2409;MG-D;D;Antsiranana;AF;MG
+2410;MG-F;F;Fianarantsoa;AF;MG
+2411;MG-M;M;Mahajanga;AF;MG
+2412;MG-T;T;Antananarivo;AF;MG
+2413;MG-U;U;Toliara;AF;MG
+2414;MG-U-A;U-A;(unassigned);AF;MG
+2415;MH-ALK;ALK;Ailuk;OC;MH
+2416;MH-ALL;ALL;Ailinglapalap;OC;MH
+2417;MH-ARN;ARN;Arno;OC;MH
+2418;MH-AUR;AUR;Aur;OC;MH
+4411;MH-BIK;BIK;Bikini;OC;MH
+2419;MH-EBO;EBO;Ebon;OC;MH
+2420;MH-ENI;ENI;Eniwetok;OC;MH
+2421;MH-JAL;JAL;Jaluit;OC;MH
+2422;MH-KIL;KIL;Kili;OC;MH
+2423;MH-KWA;KWA;Kwajalein;OC;MH
+2424;MH-LAE;LAE;Lae;OC;MH
+2425;MH-LIB;LIB;Lib;OC;MH
+2426;MH-LIK;LIK;Likiep;OC;MH
+2427;MH-MAJ;MAJ;Majuro;OC;MH
+2428;MH-MAL;MAL;Maloelap;OC;MH
+2429;MH-MEJ;MEJ;Mejit;OC;MH
+2430;MH-MIL;MIL;Mili;OC;MH
+2431;MH-NMK;NMK;Namorik;OC;MH
+2432;MH-NMU;NMU;Namu;OC;MH
+2433;MH-RON;RON;Rongelap;OC;MH
+2434;MH-U-A;U-A;(unassigned);OC;MH
+2435;MH-UJA;UJA;Ujae;OC;MH
+2436;MH-UJL;UJL;Ujelang;OC;MH
+2437;MH-UTI;UTI;Utirik;OC;MH
+2438;MH-WTJ;WTJ;Wotje;OC;MH
+2439;MH-WTN;WTN;Wotho;OC;MH
+4326;MK-01;1;Aerodrom municipality;EU;MK
+4327;MK-02;2;Ara?inovo;EU;MK
+4328;MK-03;3;Berovo;EU;MK
+4329;MK-04;4;Bitola;EU;MK
+4330;MK-05;5;Bogdanci;EU;MK
+4331;MK-06;6;Bogovinje;EU;MK
+4332;MK-07;7;Bosilovo;EU;MK
+4333;MK-08;8;Brvenica;EU;MK
+4334;MK-09;9;Butel;EU;MK
+4335;MK-10;10;Valandovo;EU;MK
+4336;MK-11;11;Vasilevo;EU;MK
+4337;MK-12;12;Vev?ani;EU;MK
+4338;MK-13;13;Veles;EU;MK
+4339;MK-14;14;Vinica;EU;MK
+4340;MK-15;15;Vraneštica;EU;MK
+4341;MK-16;16;Vrap?ište;EU;MK
+4342;MK-17;17;Gazi Baba;EU;MK
+4343;MK-18;18;Gevgelija;EU;MK
+4344;MK-19;19;Gostivar;EU;MK
+4345;MK-20;20;Gradsko;EU;MK
+4346;MK-21;21;Debar;EU;MK
+4347;MK-22;22;Debarca;EU;MK
+4348;MK-23;23;Del?evo;EU;MK
+4349;MK-24;24;Demir Kapija;EU;MK
+4350;MK-25;25;Demir Hisar;EU;MK
+4351;MK-26;26;Dojran;EU;MK
+4352;MK-27;27;Dolneni;EU;MK
+4353;MK-28;28;Drugovo;EU;MK
+4354;MK-29;29;Gjor?e Petrov;EU;MK
+4355;MK-30;30;Želino;EU;MK
+4356;MK-31;31;Zajas;EU;MK
+4357;MK-32;32;Zelenikovo;EU;MK
+4358;MK-33;33;Zrnovci;EU;MK
+4359;MK-34;34;Ilinden;EU;MK
+4360;MK-35;35;Jegunovce;EU;MK
+4361;MK-36;36;Kavadarci;EU;MK
+4362;MK-37;37;Karbinci;EU;MK
+4363;MK-38;38;Karpoš;EU;MK
+4364;MK-39;39;Kisela Voda;EU;MK
+4365;MK-40;40;Ki?evo;EU;MK
+4366;MK-41;41;Kon?e;EU;MK
+4367;MK-42;42;Ko?ani;EU;MK
+4368;MK-43;43;Kratovo;EU;MK
+4369;MK-44;44;Kriva Palanka;EU;MK
+4370;MK-45;45;Krivogaštani;EU;MK
+4371;MK-46;46;Kruševo;EU;MK
+4372;MK-47;47;Kumanovo;EU;MK
+4373;MK-48;48;Lipkovo;EU;MK
+4374;MK-49;49;Lozovo;EU;MK
+4375;MK-50;50;Mavrovo-i-Rostuša;EU;MK
+4376;MK-51;51;Makedonska Kamenica;EU;MK
+4377;MK-52;52;Makedonski Brod;EU;MK
+4378;MK-53;53;Mogila;EU;MK
+4379;MK-54;54;Negotino;EU;MK
+4380;MK-55;55;Novaci;EU;MK
+4381;MK-56;56;Novo Selo;EU;MK
+4382;MK-57;57;Oslomej;EU;MK
+4383;MK-58;58;Ohrid;EU;MK
+4384;MK-59;59;Petrovec;EU;MK
+4385;MK-60;60;Peh?evo;EU;MK
+4386;MK-61;61;Plasnica;EU;MK
+4387;MK-62;62;Prilep;EU;MK
+4388;MK-63;63;Probištip;EU;MK
+4389;MK-64;64;Radoviš;EU;MK
+4390;MK-65;65;Rankovce;EU;MK
+4391;MK-66;66;Resen;EU;MK
+4392;MK-67;67;Rosoman;EU;MK
+4393;MK-68;68;Saraj;EU;MK
+4394;MK-69;69;Sveti Nikole;EU;MK
+4395;MK-70;70;Sopište;EU;MK
+4396;MK-71;71;Staro Nagori?ane;EU;MK
+4397;MK-72;72;Struga;EU;MK
+4398;MK-73;73;Strumica;EU;MK
+4399;MK-74;74;Studeni?ani;EU;MK
+4400;MK-75;75;Tearce;EU;MK
+4401;MK-76;76;Tetovo;EU;MK
+4402;MK-77;77;Centar;EU;MK
+4403;MK-78;78;Centar Župa;EU;MK
+4404;MK-79;79;?air;EU;MK
+4405;MK-80;80;?aška;EU;MK
+4406;MK-81;81;?ešinovo-Obleševo;EU;MK
+4407;MK-82;82;?u?er Sandevo;EU;MK
+4408;MK-83;83;Štip;EU;MK
+4409;MK-84;84;Šuto Orizari;EU;MK
+2440;MK-U-A;U-A;(unassigned);EU;MK
+2441;ML-1;1;Kayes;AF;ML
+2442;ML-2;2;Koulikoro;AF;ML
+2443;ML-3;3;Sikasso;AF;ML
+2444;ML-4;4;Ségou;AF;ML
+2445;ML-5;5;Mopti;AF;ML
+2446;ML-6;6;Tombouctou;AF;ML
+2447;ML-7;7;Gao;AF;ML
+2448;ML-8;8;Kidal;AF;ML
+2449;ML-BK0;BK0;Bamako;AF;ML
+2450;ML-U-A;U-A;(unassigned);AF;ML
+2451;MM-01;1;Sagaing Division;AS;MM
+2452;MM-02;2;Bago Division;AS;MM
+2453;MM-03;3;Magway Division;AS;MM
+2454;MM-04;4;Mandalay Division;AS;MM
+2455;MM-05;5;Tanintharyi Division;AS;MM
+2456;MM-06;6;Yangon Division;AS;MM
+2457;MM-07;7;Ayeyarwady Division;AS;MM
+2458;MM-11;11;Kachin State;AS;MM
+2459;MM-12;12;Kayah State;AS;MM
+2460;MM-13;13;Kayin State;AS;MM
+2461;MM-14;14;Chin State;AS;MM
+2462;MM-15;15;Mon State;AS;MM
+2463;MM-16;16;Rakhine State;AS;MM
+2464;MM-17;17;Shan State;AS;MM
+2465;MM-U-A;U-A;(unassigned);AS;MM
+2466;MN-035;35;Orhon;AS;MN
+2467;MN-037;37;Darhan uul;AS;MN
+2468;MN-039;39;Hentiy;AS;MN
+2469;MN-041;41;Khövsgöl;AS;MN
+2470;MN-043;43;Khovd;AS;MN
+2471;MN-046;46;Uvs;AS;MN
+2472;MN-047;47;Tov;AS;MN
+2473;MN-049;49;Selenge;AS;MN
+2474;MN-051;51;Shbaatar;AS;MN
+2475;MN-053;53;Ömnögovi;AS;MN
+2476;MN-055;55;Övörkhangai;AS;MN
+2477;MN-057;57;Dzavhan;AS;MN
+2478;MN-059;59;DundgovL;AS;MN
+2479;MN-061;61;Dornod;AS;MN
+2480;MN-063;63;Dornogov,;AS;MN
+2481;MN-064;64;Govi-Smber;AS;MN
+2482;MN-065;65;Govi-Altay;AS;MN
+2483;MN-067;67;Bulgan;AS;MN
+2484;MN-069;69;Bayanhongor;AS;MN
+2485;MN-071;71;Bayan-Olgiy;AS;MN
+2486;MN-073;73;Arhangay;AS;MN
+2487;MN-1;1;Ulanbaatar;AS;MN
+2488;MN-U-A;U-A;(unassigned);AS;MN
+2489;MO-U-A;U-A;(unassigned);AS;MO
+2490;MP-U-A;U-A;(unassigned);OC;MP
+2491;MQ-U-A;U-A;(unassigned);NA;MQ
+2492;MR-01;1;Hodh ech Chargui;AF;MR
+2493;MR-02;2;Hodh el Charbi;AF;MR
+2494;MR-03;3;Assaba;AF;MR
+2495;MR-04;4;Gorgol;AF;MR
+2496;MR-05;5;Brakna;AF;MR
+2497;MR-06;6;Trarza;AF;MR
+2498;MR-07;7;Adrar;AF;MR
+2499;MR-08;8;Dakhlet Nouadhibou;AF;MR
+2500;MR-09;9;Tagant;AF;MR
+2501;MR-10;10;Guidimaka;AF;MR
+2502;MR-11;11;Tiris Zemmour;AF;MR
+2503;MR-12;12;Inchiri;AF;MR
+2504;MR-NKC;NKC;Nouakchott;AF;MR
+2505;MR-U-A;U-A;(unassigned);AF;MR
+2506;MS-U-A;U-A;(unassigned);NA;MS
+4799;MT-01;1;Attard;EU;MT
+4800;MT-02;2;Balzan;EU;MT
+4801;MT-03;3;Birgu;EU;MT
+4802;MT-04;4;Birkirkara;EU;MT
+4803;MT-05;5;Bir?ebbu?a;EU;MT
+4804;MT-06;6;Bormla;EU;MT
+4805;MT-07;7;Dingli;EU;MT
+4806;MT-08;8;Fgura;EU;MT
+4807;MT-09;9;Floriana;EU;MT
+4808;MT-10;10;Fontana;EU;MT
+4809;MT-11;11;Gudja;EU;MT
+4810;MT-12;12;Gzira;EU;MT
+4811;MT-13;13;G?ajnsielem;EU;MT
+4812;MT-14;14;G?arb;EU;MT
+4813;MT-15;15;G?arg?ur;EU;MT
+4814;MT-16;16;G?asri;EU;MT
+4815;MT-17;17;G?axaq;EU;MT
+4816;MT-18;18;Hamrun;EU;MT
+4817;MT-19;19;Iklin;EU;MT
+4818;MT-20;20;Isla;EU;MT
+4819;MT-21;21;Kalkara;EU;MT
+4820;MT-22;22;Ker?em;EU;MT
+4821;MT-23;23;Kirkop;EU;MT
+4822;MT-24;24;Lija;EU;MT
+4823;MT-25;25;Luqa;EU;MT
+4824;MT-26;26;Marsa;EU;MT
+4825;MT-27;27;Marsaskala;EU;MT
+4826;MT-28;28;Marsaxlokk;EU;MT
+4827;MT-29;29;Mdina;EU;MT
+4828;MT-30;30;Mellie?a;EU;MT
+4829;MT-31;31;Mgarr;EU;MT
+4830;MT-32;32;Mosta;EU;MT
+4831;MT-33;33;Mqabba;EU;MT
+4832;MT-34;34;Msida;EU;MT
+4833;MT-35;35;Mtarfa;EU;MT
+4834;MT-36;36;Munxar;EU;MT
+4835;MT-37;37;Nadur;EU;MT
+4836;MT-38;38;Naxxar;EU;MT
+4837;MT-39;39;Paola;EU;MT
+4838;MT-40;40;Pembroke;EU;MT
+4839;MT-41;41;Pietà;EU;MT
+4840;MT-42;42;Qala;EU;MT
+4841;MT-43;43;Qormi;EU;MT
+4842;MT-44;44;Qrendi;EU;MT
+4843;MT-45;45;Rabat Gozo;EU;MT
+4844;MT-46;46;Rabat Malta;EU;MT
+4845;MT-47;47;Safi;EU;MT
+4846;MT-48;48;Saint Julian's;EU;MT
+4847;MT-49;49;Saint John;EU;MT
+4848;MT-50;50;Saint Lawrence;EU;MT
+4849;MT-51;51;Saint Paul's Bay;EU;MT
+4850;MT-52;52;Sannat;EU;MT
+4851;MT-53;53;Saint Lucia's;EU;MT
+4852;MT-54;54;Santa Venera;EU;MT
+4853;MT-55;55;Si??iewi;EU;MT
+4854;MT-56;56;Sliema;EU;MT
+4855;MT-57;57;Swieqi;EU;MT
+4856;MT-58;58;Ta' Xbiex;EU;MT
+4857;MT-59;59;Tarxien;EU;MT
+4858;MT-60;60;Valletta;EU;MT
+4859;MT-61;61;Xag?ra;EU;MT
+4860;MT-62;62;Xewkija;EU;MT
+4861;MT-63;63;Xg?ajra;EU;MT
+4862;MT-64;64;?abbar;EU;MT
+4863;MT-65;65;?ebbu? Gozo;EU;MT
+4864;MT-66;66;?ebbu? Malta;EU;MT
+4865;MT-67;67;?ejtun;EU;MT
+4866;MT-68;68;?urrieq;EU;MT
+2507;MT-U-A;U-A;(unassigned);EU;MT
+2508;MU-AG;AG;Agalega Islands;AF;MU
+2509;MU-BL;BL;Black River;AF;MU
+2510;MU-BR;BR;Beau Bassin-Rose Hill;AF;MU
+2511;MU-CC;CC;Cargados Carajos Shoals;AF;MU
+2512;MU-CU;CU;Curepipe;AF;MU
+2513;MU-FL;FL;Flacq;AF;MU
+2514;MU-GP;GP;Grand Port;AF;MU
+2515;MU-MO;MO;Moka;AF;MU
+2516;MU-PA;PA;Pamplemousses;AF;MU
+2517;MU-PL;PL;Port Louis (district);AF;MU
+2518;MU-PU;PU;Port Louis;AF;MU
+2519;MU-PW;PW;Plaines Wilhems;AF;MU
+2520;MU-QB;QB;Quatre Bornes;AF;MU
+2521;MU-RO;RO;Rodrigues Island;AF;MU
+2522;MU-RP;RP;Riviere du Rempart;AF;MU
+2523;MU-SA;SA;Savanne;AF;MU
+2524;MU-U-A;U-A;(unassigned);AF;MU
+2525;MU-VP;VP;Vacosa-Phoenix;AF;MU
+2526;MV-01;1;Seenu Atoll;AS;MV
+2527;MV-02;2;Alif Alif Atoll;AS;MV
+2528;MV-03;3;Lhaviyani;AS;MV
+2529;MV-04;4;Vaavu;AS;MV
+2530;MV-05;5;Laamu Atoll;AS;MV
+2531;MV-07;7;Haa Alif;AS;MV
+2532;MV-08;8;Thaa;AS;MV
+2533;MV-12;12;Meemu;AS;MV
+2534;MV-13;13;Raa;AS;MV
+2535;MV-14;14;Faafu;AS;MV
+2536;MV-17;17;Dhaalu;AS;MV
+2537;MV-20;20;Baa;AS;MV
+2538;MV-23;23;Haa Dhaalu Atoll;AS;MV
+2539;MV-24;24;Shaviyani;AS;MV
+2540;MV-25;25;Noonu;AS;MV
+2541;MV-26;26;Kaafu;AS;MV
+2542;MV-27;27;Gaaf Alif;AS;MV
+2543;MV-28;28;Gaafu Dhaalu Atoll;AS;MV
+2544;MV-29;29;Gnaviyani;AS;MV
+2545;MV-MLE;MLE;Malé Capital;AS;MV
+2546;MV-U-A;U-A;(unassigned);AS;MV
+2547;MW-BA;BA;Balaka;AF;MW
+2548;MW-BL;BL;Blantyre;AF;MW
+2549;MW-CK;CK;Chikwawa;AF;MW
+2550;MW-CR;CR;Chiradzulu;AF;MW
+2551;MW-CT;CT;Chitipa;AF;MW
+2552;MW-DE;DE;Dedza;AF;MW
+2553;MW-DO;DO;Dowa;AF;MW
+2554;MW-KR;KR;Karonga;AF;MW
+2555;MW-KS;KS;Kasungu;AF;MW
+2556;MW-LI;LI;Lilongwe;AF;MW
+2557;MW-LK;LK;Likoma Island;AF;MW
+2558;MW-MC;MC;Mchinji;AF;MW
+2559;MW-MG;MG;Mangochi;AF;MW
+2560;MW-MH;MH;Machinga;AF;MW
+2561;MW-MU;MU;Mulanje;AF;MW
+2562;MW-MW;MW;Mwanza;AF;MW
+2563;MW-MZ;MZ;Mzimba;AF;MW
+2564;MW-NB;NB;Nkhata Bay;AF;MW
+2565;MW-NI;NI;Ntchisi;AF;MW
+2566;MW-NK;NK;Nkhotakota;AF;MW
+2567;MW-NS;NS;Nsanje;AF;MW
+2568;MW-NU;NU;Ntcheu;AF;MW
+2569;MW-PH;PH;Phalomba;AF;MW
+2570;MW-RU;RU;Rumphi;AF;MW
+2571;MW-SA;SA;Salima;AF;MW
+2572;MW-TH;TH;Thyolo;AF;MW
+2573;MW-U-A;U-A;(unassigned);AF;MW
+2574;MW-ZO;ZO;Zomba;AF;MW
+2575;MX-AGU;AGU;Aguascalientes;NA;MX
+2576;MX-BCN;BCN;Baja California;NA;MX
+2577;MX-BCS;BCS;Baja California Sur;NA;MX
+2578;MX-CAM;CAM;Campeche;NA;MX
+2579;MX-CHH;CHH;Chihushua;NA;MX
+2580;MX-CHP;CHP;Chiapas;NA;MX
+2581;MX-COA;COA;Coahuila;NA;MX
+2582;MX-COL;COL;Col ima;NA;MX
+2583;MX-DIF;DIF;Distrito Federal;NA;MX
+2584;MX-DUR;DUR;Durango;NA;MX
+2585;MX-GRO;GRO;Guerrero;NA;MX
+2586;MX-GUA;GUA;Guanajuato;NA;MX
+2587;MX-HID;HID;Hidalgo;NA;MX
+2588;MX-JAL;JAL;Jalisco;NA;MX
+2589;MX-MEX;MEX;Mexico;NA;MX
+2590;MX-MIC;MIC;Michoacin;NA;MX
+2591;MX-MOR;MOR;Moreloa;NA;MX
+2592;MX-NAY;NAY;Nayarit;NA;MX
+2593;MX-NLE;NLE;Nuevo Leon;NA;MX
+2594;MX-OAX;OAX;Oaxaca;NA;MX
+2595;MX-PUE;PUE;Puebla;NA;MX
+2596;MX-QUE;QUE;Queretaro;NA;MX
+2597;MX-ROO;ROO;Quintana Roo;NA;MX
+2598;MX-SIN;SIN;Sinaloa;NA;MX
+2599;MX-SLP;SLP;San Luis Potosi;NA;MX
+2600;MX-SON;SON;Sonora;NA;MX
+2601;MX-TAB;TAB;Tabasco;NA;MX
+2602;MX-TAM;TAM;Tamaulipas;NA;MX
+2603;MX-TLA;TLA;Tlaxcala;NA;MX
+2604;MX-U-A;U-A;(unassigned);NA;MX
+2605;MX-VER;VER;Veracruz;NA;MX
+2606;MX-YUC;YUC;Yucatan;NA;MX
+2607;MX-ZAC;ZAC;Zacatecas;NA;MX
+2608;MY-01;1;Johor;AS;MY
+2609;MY-02;2;Kedah;AS;MY
+2610;MY-03;3;Kelantan;AS;MY
+2611;MY-04;4;Melaka;AS;MY
+2612;MY-05;5;Negeri Sembilan;AS;MY
+2613;MY-06;6;Pahang;AS;MY
+2614;MY-07;7;Pulau Pinang;AS;MY
+2615;MY-08;8;Perak;AS;MY
+2616;MY-09;9;Perlis;AS;MY
+2617;MY-10;10;Selangor;AS;MY
+2618;MY-11;11;Terengganu;AS;MY
+2619;MY-12;12;Sabah;AS;MY
+2620;MY-13;13;Sarawak;AS;MY
+2621;MY-14;14;Wilayah Persekutuan Kuala Lumpur;AS;MY
+2622;MY-15;15;Wilayah Persekutuan Labuan;AS;MY
+2623;MY-16;16;Wilayah Persekutuan Putrajaya;AS;MY
+2624;MY-U-A;U-A;(unassigned);AS;MY
+2625;MZ-A;A;Niassa Province;AF;MZ
+2626;MZ-B;B;Manica Province;AF;MZ
+2627;MZ-G;G;Gaza Province;AF;MZ
+2628;MZ-I;I;Inhambane Province;AF;MZ
+4410;MZ-L;L;Maputo Province;AF;MZ
+2629;MZ-MPM;MPM;Maputo (city);AF;MZ
+2630;MZ-N;N;Nampula Province;AF;MZ
+2631;MZ-P;P;Cabo Delgado Province;AF;MZ
+2632;MZ-Q;Q;Zambezia Province;AF;MZ
+2633;MZ-S;S;Sofala Province;AF;MZ
+2634;MZ-T;T;Tete Province;AF;MZ
+2635;MZ-U-A;U-A;(unassigned);AF;MZ
+2636;NA-CA;CA;Caprivi;AF;NA
+2637;NA-ER;ER;Erongo;AF;NA
+2638;NA-HA;HA;Hardap;AF;NA
+2639;NA-KA;KA;Karas;AF;NA
+2640;NA-KH;KH;Khomae;AF;NA
+2641;NA-KU;KU;Kunene;AF;NA
+2642;NA-OD;OD;Otjozondjupa;AF;NA
+2643;NA-OH;OH;Omaheke;AF;NA
+2644;NA-OK;OK;Okavango;AF;NA
+2645;NA-ON;ON;Oshana;AF;NA
+2646;NA-OS;OS;Omusati;AF;NA
+2647;NA-OT;OT;Oshikoto;AF;NA
+2648;NA-OW;OW;Ohangwena;AF;NA
+2649;NA-U-A;U-A;(unassigned);AF;NA
+2650;NC-U-A;U-A;(unassigned);OC;NC
+2651;NE-1;1;Agadez Region;AF;NE
+2652;NE-2;2;Diffa Region;AF;NE
+2653;NE-3;3;Dosso Region;AF;NE
+2654;NE-4;4;Maradi Region;AF;NE
+2658;NE-5;5;Tahoua Region;AF;NE
+2655;NE-6;6;Tillabéri Region;AF;NE
+2656;NE-7;7;Zinder Region;AF;NE
+2657;NE-8;8;Niamey Capital District;AF;NE
+2659;NE-U-A;U-A;(unassigned);AF;NE
+2660;NF-U-A;U-A;(unassigned);OC;NF
+2661;NG-AB;AB;Abia;AF;NG
+2662;NG-AD;AD;Adamawa;AF;NG
+2663;NG-AK;AK;Akwa Ibom;AF;NG
+2664;NG-AN;AN;Anambra;AF;NG
+2665;NG-BA;BA;Bauchi;AF;NG
+2666;NG-BE;BE;Benue;AF;NG
+2667;NG-BO;BO;Borno;AF;NG
+2668;NG-BY;BY;Bayelsa;AF;NG
+2669;NG-CR;CR;Cross River;AF;NG
+2670;NG-DE;DE;Delta;AF;NG
+2671;NG-EB;EB;Ebonyi;AF;NG
+2672;NG-ED;ED;Edo;AF;NG
+2673;NG-EK;EK;Ekiti;AF;NG
+2674;NG-EN;EN;Enugu;AF;NG
+2675;NG-FC;FC;Abuja Capital Territory;AF;NG
+2676;NG-GO;GO;Gombe;AF;NG
+2677;NG-IM;IM;Imo;AF;NG
+2678;NG-JI;JI;Jigawa;AF;NG
+2679;NG-KD;KD;Kaduna;AF;NG
+2680;NG-KE;KE;Kebbi;AF;NG
+2681;NG-KN;KN;Kano;AF;NG
+2682;NG-KO;KO;Kogi;AF;NG
+2683;NG-KT;KT;Katsina;AF;NG
+2684;NG-KW;KW;Kwara;AF;NG
+2685;NG-LA;LA;Lagos;AF;NG
+2686;NG-NA;NA;Nassarawa;AF;NG
+2687;NG-NI;NI;Niger;AF;NG
+2688;NG-OG;OG;Ogun;AF;NG
+2689;NG-ON;ON;Ondo;AF;NG
+2690;NG-OS;OS;Osun;AF;NG
+2691;NG-OY;OY;Oyo;AF;NG
+2692;NG-PL;PL;Plateau;AF;NG
+2693;NG-RI;RI;Rivers;AF;NG
+2694;NG-SO;SO;Sokoto;AF;NG
+2695;NG-TA;TA;Taraba;AF;NG
+2696;NG-U-A;U-A;(unassigned);AF;NG
+2697;NG-YO;YO;Yobe;AF;NG
+2698;NG-ZA;ZA;Zamfara;AF;NG
+2699;NI-AN;AN;Atlantico Norte;NA;NI
+2700;NI-AS;AS;Atlantico Sur;NA;NI
+2701;NI-BO;BO;Boaco;NA;NI
+2702;NI-CA;CA;Carazo;NA;NI
+2703;NI-CI;CI;Chinandega;NA;NI
+2704;NI-CO;CO;Chontales;NA;NI
+2705;NI-ES;ES;Esteli;NA;NI
+2706;NI-GR;GR;Grenada;NA;NI
+2707;NI-JI;JI;Jinotega;NA;NI
+2708;NI-LE;LE;Leon;NA;NI
+2709;NI-MD;MD;Madriz;NA;NI
+2710;NI-MN;MN;Managua;NA;NI
+2711;NI-MS;MS;Masaya;NA;NI
+2712;NI-MT;MT;Matagalpa;NA;NI
+2713;NI-NS;NS;Nueva Segovia;NA;NI
+2714;NI-RI;RI;Rivas;NA;NI
+2715;NI-SJ;SJ;Rio San Juan;NA;NI
+2716;NI-U-A;U-A;(unassigned);NA;NI
+2717;NL-DR;DR;Drente;EU;NL
+2718;NL-FL;FL;Flevoland;EU;NL
+2719;NL-FR;FR;Friesland;EU;NL
+2720;NL-GE;GE;Gelderland;EU;NL
+2721;NL-GR;GR;Groningen;EU;NL
+2722;NL-LI;LI;Limburg;EU;NL
+2723;NL-NB;NB;Noord-Brabant;EU;NL
+2724;NL-NH;NH;Noord-Holland;EU;NL
+2725;NL-OV;OV;Overijssel;EU;NL
+2726;NL-U-A;U-A;(unassigned);EU;NL
+2727;NL-UT;UT;Utrecht;EU;NL
+2728;NL-ZH;ZH;Zuid-Holland;EU;NL
+2729;NL-ZL;ZL;Zeeland;EU;NL
+2730;NO-01;1;Østfold;EU;NO
+2731;NO-02;2;Akershus;EU;NO
+2732;NO-03;3;Oslo;EU;NO
+2733;NO-04;4;Hedmark;EU;NO
+2734;NO-05;5;Oppland;EU;NO
+2735;NO-06;6;Buskerud;EU;NO
+2736;NO-07;7;Vestfold;EU;NO
+2737;NO-08;8;Telemark;EU;NO
+2738;NO-09;9;Aust-Agder;EU;NO
+2739;NO-10;10;Vest-Agder;EU;NO
+2740;NO-11;11;Rogaland;EU;NO
+2741;NO-12;12;Hordaland;EU;NO
+2742;NO-14;14;Sogn og Fjordane;EU;NO
+2743;NO-15;15;Møre og Romsdal;EU;NO
+2744;NO-16;16;Sør-Trøndelag;EU;NO
+2745;NO-17;17;Nord-Trøndelag;EU;NO
+2746;NO-18;18;Nordland;EU;NO
+2747;NO-19;19;Troms;EU;NO
+2748;NO-20;20;Finnmark;EU;NO
+2749;NO-21;21;Svalbard;EU;NO
+2750;NO-22;22;Jan Mayen;EU;NO
+2751;NO-U-A;U-A;(unassigned);EU;NO
+4245;NP-BA;BA;Bagmati;AS;NP
+4244;NP-BH;BH;Bheri;AS;NP
+4243;NP-DH;DH;Dhawalagiri;AS;NP
+4242;NP-GA;GA;Gandaki;AS;NP
+4241;NP-JA;JA;Janakpur;AS;NP
+4240;NP-KA;KA;Karnali;AS;NP
+4239;NP-KO;KO;Kosi;AS;NP
+4238;NP-LU;LU;Lumbini;AS;NP
+4237;NP-MA;MA;Mahakali;AS;NP
+4236;NP-ME;ME;Mechi;AS;NP
+4235;NP-NA;NA;Narayani;AS;NP
+4234;NP-RA;RA;Rapti;AS;NP
+4233;NP-SA;SA;Sagarmatha;AS;NP
+4232;NP-SE;SE;Seti;AS;NP
+2752;NP-U-A;U-A;(unassigned);AS;NP
+4867;NR-01;1;Aiwo;OC;NR
+4868;NR-02;2;Anabar;OC;NR
+4869;NR-03;3;Anetan;OC;NR
+4870;NR-04;4;Anibare;OC;NR
+4871;NR-05;5;Baiti;OC;NR
+4872;NR-06;6;Boe;OC;NR
+4873;NR-07;7;Buada;OC;NR
+4874;NR-08;8;Denigomodu;OC;NR
+4875;NR-09;9;Ewa;OC;NR
+4876;NR-10;10;Ijuw;OC;NR
+4877;NR-11;11;Meneng;OC;NR
+4878;NR-12;12;Nibok;OC;NR
+4879;NR-13;13;Uaboe;OC;NR
+4880;NR-14;14;Yaren;OC;NR
+2753;NR-U-A;U-A;(unassigned);OC;NR
+2754;NU-U-A;U-A;(unassigned);OC;NU
+2755;NZ-AUK;AUK;Auckland Region;OC;NZ
+2756;NZ-BOP;BOP;Bay of Plenty Region;OC;NZ
+2757;NZ-CAN;CAN;Canterbury Region;OC;NZ
+2758;NZ-GIS;GIS;Gisborne Region;OC;NZ
+2759;NZ-HKB;HKB;Hawke's Bay Region;OC;NZ
+2760;NZ-MBH;MBH;Marlborough Region;OC;NZ
+2761;NZ-MWT;MWT;Manawatu-Wanganui Region;OC;NZ
+2762;NZ-NSN;NSN;Nelson Region;OC;NZ
+2763;NZ-NTL;NTL;Northland Region;OC;NZ
+2764;NZ-OTA;OTA;Otago Region;OC;NZ
+2765;NZ-STL;STL;Southland Region;OC;NZ
+2766;NZ-TAS;TAS;Tasman Region;OC;NZ
+2767;NZ-TKI;TKI;Taranaki Region;OC;NZ
+2768;NZ-U-A;U-A;(unassigned);OC;NZ
+2769;NZ-WGN;WGN;Wellington Region;OC;NZ
+2770;NZ-WKO;WKO;Waikato Region;OC;NZ
+2771;NZ-WTC;WTC;West Coast Region;OC;NZ
+2772;OM-BA;BA;Al Batinah;AS;OM
+2773;OM-DA;DA;Ad Dakhillyah;AS;OM
+2774;OM-JA;JA;Al Janblyah;AS;OM
+2775;OM-MA;MA;Masqat;AS;OM
+2776;OM-MU;MU;Musandam;AS;OM
+2777;OM-SH;SH;Ash Sharqlyah;AS;OM
+2778;OM-U-A;U-A;(unassigned);AS;OM
+2779;OM-WU;WU;Al Wusta;AS;OM
+2780;OM-ZA;ZA;Az Zahirah;AS;OM
+2781;PA-1;1;Bocas del Toro;NA;PA
+2782;PA-2;2;Cocle;NA;PA
+2783;PA-3;3;Colón;NA;PA
+2784;PA-4;4;Chiriqui;NA;PA
+2785;PA-5;5;Darien;NA;PA
+2786;PA-6;6;Herrera;NA;PA
+2787;PA-7;7;Loa Santoa;NA;PA
+2788;PA-8;8;Panama;NA;PA
+2789;PA-9;9;Veraguas;NA;PA
+2790;PA-Q;Q;Comarca de San Blas;NA;PA
+2791;PA-U-A;U-A;(unassigned);NA;PA
+2792;PE-AMA;AMA;Amazonas Region;SA;PE
+2793;PE-ANC;ANC;Ancash Region;SA;PE
+2794;PE-APU;APU;Apurímac Region;SA;PE
+2795;PE-ARE;ARE;Arequipa Region;SA;PE
+2796;PE-AYA;AYA;Ayacucho Region;SA;PE
+2797;PE-CAJ;CAJ;Cajamarca Region;SA;PE
+2798;PE-CAL;CAL;El Callao Region;SA;PE
+2799;PE-CUS;CUS;Cuzco Region;SA;PE
+2800;PE-HUC;HUC;Huánuco Region;SA;PE
+2801;PE-HUV;HUV;Huancavelica Region;SA;PE
+2802;PE-ICA;ICA;Ica Region;SA;PE
+2803;PE-JUN;JUN;Junín Region;SA;PE
+2804;PE-LAL;LAL;La Libertad Region;SA;PE
+2805;PE-LAM;LAM;Lambayeque Region;SA;PE
+2806;PE-LIM;LIM;Lima Region;SA;PE
+2807;PE-LOR;LOR;Loreto Region;SA;PE
+2808;PE-MDD;MDD;Madre de Dios Region;SA;PE
+2809;PE-MOQ;MOQ;Moquegua Region;SA;PE
+2810;PE-PAS;PAS;Pasco Region;SA;PE
+2811;PE-PIU;PIU;Piura Region;SA;PE
+2812;PE-PUN;PUN;Puno Region;SA;PE
+2813;PE-SAM;SAM;San Martín Region;SA;PE
+2814;PE-TAC;TAC;Tacna Region;SA;PE
+2815;PE-TUM;TUM;Tumbes Region;SA;PE
+2816;PE-U-A;U-A;(unassigned);SA;PE
+2817;PE-UCA;UCA;Ucayali Region;SA;PE
+2818;PF-U-A;U-A;(unassigned);OC;PF
+2819;PG-CPK;CPK;Chimbu;OC;PG
+2820;PG-CPM;CPM;Central;OC;PG
+2821;PG-EBR;EBR;East New Britain;OC;PG
+2822;PG-EHG;EHG;Eastern Highlands;OC;PG
+2823;PG-EPW;EPW;Enga;OC;PG
+2824;PG-ESW;ESW;East Sepik;OC;PG
+2825;PG-GPK;GPK;Gulf;OC;PG
+2826;PG-MBA;MBA;Milne Bay;OC;PG
+2827;PG-MPL;MPL;Morobe;OC;PG
+2828;PG-MPM;MPM;Madang;OC;PG
+2829;PG-MRL;MRL;Manus;OC;PG
+2830;PG-NCD;NCD;National Capital District (Port Moresby);OC;PG
+2831;PG-NIK;NIK;New Ireland;OC;PG
+2832;PG-NPP;NPP;Northern (Oro);OC;PG
+2833;PG-NSA;NSA;North Solomons;OC;PG
+2834;PG-SAN;SAN;Santaun;OC;PG
+2835;PG-SHM;SHM;Southern Highlands;OC;PG
+2836;PG-U-A;U-A;(unassigned);OC;PG
+2837;PG-WBK;WBK;West New Britain;OC;PG
+2838;PG-WHM;WHM;Western Highlands;OC;PG
+2839;PG-WPD;WPD;Western (Fly River);OC;PG
+2840;PH-ABR;ABR;Abra;AS;PH
+2841;PH-AGN;AGN;Agusan del Norte;AS;PH
+2842;PH-AGS;AGS;Agusan del Sur;AS;PH
+2843;PH-AKL;AKL;Aklan;AS;PH
+2844;PH-ALB;ALB;Albay;AS;PH
+2845;PH-ANT;ANT;Antique;AS;PH
+2846;PH-APA;APA;Apayao;AS;PH
+2847;PH-AUR;AUR;Aurora;AS;PH
+2848;PH-BAN;BAN;Batasn;AS;PH
+2849;PH-BAS;BAS;Basilan;AS;PH
+2850;PH-BEN;BEN;Benguet;AS;PH
+2851;PH-BIL;BIL;Biliran;AS;PH
+2852;PH-BOH;BOH;Bohol;AS;PH
+2853;PH-BTG;BTG;Batangas;AS;PH
+2854;PH-BTN;BTN;Batanes;AS;PH
+2855;PH-BUK;BUK;Bukidnon;AS;PH
+2856;PH-BUL;BUL;Bulacan;AS;PH
+2857;PH-CAG;CAG;Cagayan;AS;PH
+2858;PH-CAM;CAM;Camiguin;AS;PH
+2859;PH-CAN;CAN;Camarines Norte;AS;PH
+2860;PH-CAP;CAP;Capiz;AS;PH
+2861;PH-CAS;CAS;Camarines Sur;AS;PH
+2862;PH-CAT;CAT;Catanduanes;AS;PH
+2863;PH-CAV;CAV;Cavite;AS;PH
+2864;PH-CEB;CEB;Cebu;AS;PH
+2865;PH-COM;COM;Compostela Valley;AS;PH
+2866;PH-DAO;DAO;Davao Oriental;AS;PH
+2867;PH-DAS;DAS;Davao del Sur;AS;PH
+2868;PH-DAV;DAV;Davao;AS;PH
+2869;PH-EAS;EAS;Eastern Samar;AS;PH
+2870;PH-GUI;GUI;Guimaras;AS;PH
+2871;PH-IFU;IFU;Ifugao;AS;PH
+2872;PH-ILI;ILI;Iloilo;AS;PH
+2873;PH-ILN;ILN;Ilocos Norte;AS;PH
+2874;PH-ILS;ILS;Ilocos Sur;AS;PH
+2875;PH-ISA;ISA;Isabela;AS;PH
+2876;PH-KAL;KAL;Kalinga-Apayso;AS;PH
+2877;PH-LAG;LAG;Laguna;AS;PH
+2878;PH-LAN;LAN;Lanao del Norte;AS;PH
+2879;PH-LAS;LAS;Lanao del Sur;AS;PH
+2880;PH-LEY;LEY;Leyte;AS;PH
+2881;PH-LUN;LUN;La Union;AS;PH
+2882;PH-MAD;MAD;Marinduque;AS;PH
+2883;PH-MAG;MAG;Maguindanao;AS;PH
+2884;PH-MAS;MAS;Masbate;AS;PH
+2885;PH-MDC;MDC;Mindoro Occidental;AS;PH
+2886;PH-MDR;MDR;Mindoro Oriental;AS;PH
+2887;PH-MOU;MOU;Mountain Province;AS;PH
+2888;PH-MSC;MSC;Misamis Occidental;AS;PH
+2889;PH-MSR;MSR;Misamis Oriental;AS;PH
+2890;PH-NCO;NCO;North Cotabato;AS;PH
+2891;PH-NEC;NEC;Negroe Occidental;AS;PH
+2892;PH-NER;NER;Negros Oriental;AS;PH
+2893;PH-NSA;NSA;Northern Samar;AS;PH
+2894;PH-NUE;NUE;Nueva Ecija;AS;PH
+2895;PH-NUV;NUV;Nueva Vizcaya;AS;PH
+2896;PH-PAM;PAM;Pampanga;AS;PH
+2897;PH-PAN;PAN;Pangasinan;AS;PH
+2898;PH-PLW;PLW;Palawan;AS;PH
+2899;PH-QUE;QUE;Quezon;AS;PH
+2900;PH-QUI;QUI;Quirino;AS;PH
+2901;PH-RIZ;RIZ;Rizal;AS;PH
+2902;PH-ROM;ROM;Romblon;AS;PH
+2903;PH-SAR;SAR;Sarangani;AS;PH
+2904;PH-SCO;SCO;South Cotabato;AS;PH
+2905;PH-SIG;SIG;Siquijor;AS;PH
+2906;PH-SLE;SLE;Southern Leyte;AS;PH
+2907;PH-SLU;SLU;Sulu;AS;PH
+2908;PH-SOR;SOR;Sorsogon;AS;PH
+2909;PH-SUK;SUK;Sultan Kudarat;AS;PH
+2910;PH-SUN;SUN;Surigao del Norte;AS;PH
+2911;PH-SUR;SUR;Surigao del Sur;AS;PH
+2912;PH-TAR;TAR;Tarlac;AS;PH
+2913;PH-TAW;TAW;Tawi-Tawi;AS;PH
+2914;PH-U-A;U-A;(unassigned);AS;PH
+2915;PH-WSA;WSA;Western Samar;AS;PH
+2916;PH-ZAN;ZAN;Zamboanga del Norte;AS;PH
+2917;PH-ZAS;ZAS;Zamboanga del Sur;AS;PH
+2918;PH-ZMB;ZMB;Zambales;AS;PH
+2919;PH-ZSI;ZSI;Zamboanga Sibiguey;AS;PH
+2920;PK-BA;BA;Balochistan;AS;PK
+2921;PK-IS;IS;Islamabad Capital Territory;AS;PK
+2922;PK-JK;JK;Azad Kashmir;AS;PK
+2923;PK-NA;NA;Northern Areas;AS;PK
+2924;PK-NW;NW;North-West Frontier;AS;PK
+2925;PK-PB;PB;Punjab;AS;PK
+2926;PK-SD;SD;Sindh;AS;PK
+2927;PK-TA;TA;Federally Administered Tribal Areas;AS;PK
+2928;PK-U-A;U-A;(unassigned);AS;PK
+2929;PL-DS;DS;Lower Silesia;EU;PL
+2930;PL-KP;KP;Kuyavia-Pomerania;EU;PL
+2931;PL-LB;LB;Lubusz;EU;PL
+2932;PL-LD;LD;Lodz;EU;PL
+2933;PL-LU;LU;Lublin;EU;PL
+2934;PL-MA;MA;Lesser Poland;EU;PL
+2935;PL-MZ;MZ;Masovia;EU;PL
+2936;PL-OP;OP;Opole;EU;PL
+2937;PL-PD;PD;Podlachia;EU;PL
+2938;PL-PK;PK;Subcarpathia;EU;PL
+2939;PL-PM;PM;Pomerania;EU;PL
+2940;PL-SK;SK;Swietokrzyskie;EU;PL
+2941;PL-SL;SL;Silesia;EU;PL
+2942;PL-U-A;U-A;(unassigned);EU;PL
+2943;PL-WN;WN;Warmia-Masuria;EU;PL
+2944;PL-WP;WP;Greater Poland;EU;PL
+2945;PL-ZP;ZP;West Pomerania;EU;PL
+2946;PM-ML;ML;Miquelon-Longlade;NA;PM
+2947;PM-SP;SP;Saint-Pierre;NA;PM
+2948;PM-U-A;U-A;(unassigned);NA;PM
+2949;PN-U-A;U-A;(unassigned);OC;PN
+2950;PR-U-A;U-A;(unassigned);NA;PR
+2951;PS-U-A;U-A;(unassigned);AS;PS
+2952;PT-01;1;Aveiro District;EU;PT
+2953;PT-02;2;Beja District;EU;PT
+2954;PT-03;3;Braga District;EU;PT
+2955;PT-04;4;Bragança District;EU;PT
+2956;PT-05;5;Castelo Branco District;EU;PT
+2957;PT-06;6;Coimbra District;EU;PT
+2958;PT-07;7;Évora District;EU;PT
+2959;PT-08;8;Faro District;EU;PT
+2960;PT-09;9;Guarda District;EU;PT
+2961;PT-10;10;Leiria District;EU;PT
+2962;PT-11;11;Lisbon District;EU;PT
+2963;PT-12;12;Portalegre District;EU;PT
+2964;PT-13;13;Oporto District;EU;PT
+2965;PT-14;14;Santarém District;EU;PT
+2966;PT-15;15;Setúbal District;EU;PT
+2967;PT-16;16;Viana do Castelo District;EU;PT
+2968;PT-17;17;Vila Real District;EU;PT
+2969;PT-18;18;Viseu District;EU;PT
+2970;PT-20;20;Autonomous Region of Azores;EU;PT
+2971;PT-30;30;Autonomous Region of Madeira;EU;PT
+2972;PT-U-A;U-A;(unassigned);EU;PT
+4231;PW-002;2;Aimeliik;OC;PW
+4230;PW-004;4;Airai;OC;PW
+4229;PW-010;10;Angaur;OC;PW
+4228;PW-050;50;Hatobohei;OC;PW
+4227;PW-100;100;Kayangel;OC;PW
+4226;PW-150;150;Koror;OC;PW
+4225;PW-212;212;Melekeok;OC;PW
+4224;PW-214;214;Ngaraard;OC;PW
+4223;PW-218;218;Ngarchelong;OC;PW
+4221;PW-222;222;Ngardmau;OC;PW
+4222;PW-224;224;Ngatpang;OC;PW
+4220;PW-226;226;Ngchesar;OC;PW
+4219;PW-227;227;Ngeremlengui;OC;PW
+4218;PW-228;228;Ngiwal;OC;PW
+4217;PW-350;350;Peleliu;OC;PW
+4216;PW-370;370;Sonsorol;OC;PW
+2973;PW-U-A;U-A;(unassigned);OC;PW
+2974;PY-1;1;Concepción Department;SA;PY
+2975;PY-10;10;Alto Paraná Department;SA;PY
+2976;PY-11;11;Central Department;SA;PY
+2977;PY-12;12;Ñeembucú Department;SA;PY
+2978;PY-13;13;Amambay Department;SA;PY
+2979;PY-14;14;Canindeyú Department;SA;PY
+2980;PY-15;15;Presidente Hayes Department;SA;PY
+2981;PY-16;16;Alto Paraguay Department;SA;PY
+2982;PY-19;19;Boquerón Department;SA;PY
+2983;PY-2;2;San Pedro Department;SA;PY
+2984;PY-3;3;Cordillera Department;SA;PY
+2985;PY-4;4;Guairá Department;SA;PY
+2986;PY-5;5;Caaguazú Department;SA;PY
+2987;PY-6;6;Caazapá Department;SA;PY
+2988;PY-7;7;Itapúa Department;SA;PY
+2989;PY-8;8;Misiones Department;SA;PY
+2990;PY-9;9;Paraguarí Department;SA;PY
+4131;PY-ASU;ASU;Asunción Capital District;SA;PY
+2992;PY-U-A;U-A;(unassigned);SA;PY
+2993;QA-DA;DA;Ad Dawhah Municipality;AS;QA
+2994;QA-GH;GH;Al Ghuwayriyah Municipality;AS;QA
+2995;QA-JB;JB;Jariyan al Batnah Municipality;AS;QA
+2996;QA-JU;JU;Al Jumayliyah Municipality;AS;QA
+2997;QA-KH;KH;Al Khawr Municipality;AS;QA
+2998;QA-MS;MS;Madinat ash Shamal Municipality;AS;QA
+2999;QA-RA;RA;Ar Rayyan Municipality;AS;QA
+3000;QA-U-A;U-A;(unassigned);AS;QA
+3001;QA-US;US;Umm Salal Municipality;AS;QA
+3002;QA-WA;WA;Al Wakrah Municipality;AS;QA
+3003;RE-U-A;U-A;(unassigned);AF;RE
+3004;RO-AB;AB;Alba;EU;RO
+3005;RO-AG;AG;Arge?;EU;RO
+3006;RO-AR;AR;Arad;EU;RO
+3007;RO-B;B;Bucure?ti;EU;RO
+3008;RO-BC;BC;Bac?u;EU;RO
+3009;RO-BH;BH;Bihor;EU;RO
+3010;RO-BN;BN;Bistri?a-N?s?ud;EU;RO
+3011;RO-BR;BR;Br?ila;EU;RO
+3012;RO-BT;BT;Boto?ani;EU;RO
+3013;RO-BV;BV;Bra?ov;EU;RO
+3014;RO-BZ;BZ;Buz?u;EU;RO
+3015;RO-CJ;CJ;Cluj;EU;RO
+3016;RO-CL;CL;C?l?ra?i;EU;RO
+3017;RO-CS;CS;Caras-Severin;EU;RO
+3018;RO-CT;CT;Constan?a;EU;RO
+3019;RO-CV;CV;Covasna;EU;RO
+3020;RO-DB;DB;Dâmbovi?a;EU;RO
+3021;RO-DJ;DJ;Dolj;EU;RO
+3022;RO-GJ;GJ;Gorj;EU;RO
+3023;RO-GL;GL;Gala?i;EU;RO
+3024;RO-GR;GR;Giurgiu;EU;RO
+3025;RO-HD;HD;Hunedoara;EU;RO
+3026;RO-HR;HR;Harghita;EU;RO
+3027;RO-IF;IF;Ilfov;EU;RO
+3028;RO-IL;IL;Ialomi?a;EU;RO
+3029;RO-IS;IS;Ia?i;EU;RO
+3030;RO-MH;MH;Mehedin?i;EU;RO
+3031;RO-MM;MM;Maramure?;EU;RO
+3032;RO-MS;MS;Mure?;EU;RO
+3033;RO-NT;NT;Neam?;EU;RO
+3034;RO-OT;OT;Olt;EU;RO
+3035;RO-PH;PH;Prahova;EU;RO
+3036;RO-SB;SB;Sibiu;EU;RO
+3037;RO-SJ;SJ;S?laj;EU;RO
+3038;RO-SM;SM;Satu Mare;EU;RO
+3039;RO-SV;SV;Suceava;EU;RO
+3040;RO-TL;TL;Tulcea;EU;RO
+3041;RO-TM;TM;Timi?;EU;RO
+3042;RO-TR;TR;Teleorman;EU;RO
+3043;RO-U-A;U-A;(unassigned);EU;RO
+3044;RO-VL;VL;Vâlcea;EU;RO
+3045;RO-VN;VN;Vrancea;EU;RO
+3046;RO-VS;VS;Vaslui;EU;RO
+4433;RS-00;0;Beograd (city);EU;RS
+4434;RS-01;1;Northern Ba?ka;EU;RS
+4435;RS-02;2;Central Banat;EU;RS
+4436;RS-03;3;North Banat;EU;RS
+4437;RS-04;4;South Banat;EU;RS
+4438;RS-05;5;West Ba?ka;EU;RS
+4439;RS-06;6;South Ba?ka;EU;RS
+4440;RS-07;7;Srem;EU;RS
+4441;RS-08;8;Ma?va;EU;RS
+4442;RS-09;9;Kolubara;EU;RS
+4443;RS-10;10;Podunavlje;EU;RS
+4444;RS-11;11;Brani?evo;EU;RS
+4445;RS-12;12;Šumadija;EU;RS
+4446;RS-13;13;Pomoravlje;EU;RS
+4447;RS-14;14;Bor;EU;RS
+4448;RS-15;15;Zaje?ar;EU;RS
+4449;RS-16;16;Zlatibor;EU;RS
+4450;RS-17;17;Moravica;EU;RS
+4451;RS-18;18;Raška;EU;RS
+4452;RS-19;19;Rasina;EU;RS
+4453;RS-20;20;Nišava;EU;RS
+4454;RS-21;21;Toplica;EU;RS
+4455;RS-22;22;Pirot;EU;RS
+4456;RS-23;23;Jablanica;EU;RS
+4457;RS-24;24;P?inja;EU;RS
+4458;RS-25;25;Kosovo;EU;RS
+4459;RS-26;26;Pe?;EU;RS
+4460;RS-27;27;Prizren;EU;RS
+4461;RS-28;28;Kosovska Mitrovica;EU;RS
+4462;RS-29;29;Kosovo-Pomoravlje;EU;RS
+3047;RS-U-A;U-A;(unassigned);EU;RS
+3048;RU-AD;AD;Republic of Adygea;EU;RU
+3050;RU-AL;AL;Altai Republic;EU;RU
+3051;RU-ALT;ALT;Altai Krai;EU;RU
+3052;RU-AMU;AMU;Amur Oblast;EU;RU
+3053;RU-ARK;ARK;Arkhangelsk Oblast;EU;RU
+3054;RU-AST;AST;Astrakhan Oblast;EU;RU
+3055;RU-BA;BA;Republic of Bashkortostan;EU;RU
+3056;RU-BEL;BEL;Belgorod Oblast;EU;RU
+3057;RU-BRY;BRY;Bryansk Oblast;EU;RU
+3058;RU-BU;BU;Republic of Buryat;EU;RU
+3059;RU-CE;CE;Chechen Republic;EU;RU
+3060;RU-CHE;CHE;Chelyabinsk Oblast;EU;RU
+3061;RU-CHI;CHI;Zabaykalsky Krai;EU;RU
+3062;RU-CHU;CHU;Chukotka Autonomous Okrug;EU;RU
+3063;RU-CU;CU;Chuvash Republic;EU;RU
+3064;RU-DA;DA;Republic of Dagestan;EU;RU
+3066;RU-IN;IN;Republic of Ingushetia;EU;RU
+3067;RU-IRK;IRK;Irkutsk Oblast;EU;RU
+3068;RU-IVA;IVA;Ivanovo Oblast;EU;RU
+3069;RU-KAM;KAM;Kamchatka Krai;EU;RU
+3070;RU-KB;KB;Kabardino-Balkar Republic;EU;RU
+3071;RU-KC;KC;Karachay-Cherkess Republic;EU;RU
+3072;RU-KDA;KDA;Krasnodar Krai;EU;RU
+3073;RU-KEM;KEM;Kemerovo Oblast;EU;RU
+3074;RU-KGD;KGD;Kaliningrad Oblast;EU;RU
+3075;RU-KGN;KGN;Kurgan Oblast;EU;RU
+3076;RU-KHA;KHA;Khabarovsk Krai;EU;RU
+3077;RU-KHM;KHM;Khanty-Mansi Autonomous Okrug;EU;RU
+3078;RU-KIR;KIR;Kirov Oblast;EU;RU
+3079;RU-KK;KK;Republic of Khakassia;EU;RU
+3080;RU-KL;KL;Republic of Kalmykia;EU;RU
+3081;RU-KLU;KLU;Kaluga Oblast;EU;RU
+3082;RU-KO;KO;Komi Republic;EU;RU
+3085;RU-KOS;KOS;Kostroma Oblast;EU;RU
+3086;RU-KR;KR;Republic of Karelia;EU;RU
+3087;RU-KRS;KRS;Kursk Oblast;EU;RU
+3088;RU-KYA;KYA;Krasnoyarsk Krai;EU;RU
+3089;RU-LEN;LEN;Leningrad Oblast;EU;RU
+3090;RU-LIP;LIP;Lipetsk Oblast;EU;RU
+3091;RU-MAG;MAG;Magadan Oblast;EU;RU
+3092;RU-ME;ME;Mari El Republic;EU;RU
+3093;RU-MO;MO;Republic of Mordovia;EU;RU
+3094;RU-MOS;MOS;Moscow Oblast;EU;RU
+3095;RU-MOW;MOW;Moscow (city);EU;RU
+3096;RU-MUR;MUR;Murmansk Oblast;EU;RU
+3097;RU-NEN;NEN;Nenets Autonomous Okrug;EU;RU
+3098;RU-NGR;NGR;Novgorod Oblast;EU;RU
+3099;RU-NIZ;NIZ;Nizhny Novgorod Oblast;EU;RU
+3100;RU-NVS;NVS;Novosibirsk Oblast;EU;RU
+3101;RU-OMS;OMS;Omsk Oblast;EU;RU
+3102;RU-ORE;ORE;Orenburg Oblast;EU;RU
+3103;RU-ORL;ORL;Oryol Oblast;EU;RU
+3104;RU-PER;PER;Perm Krai;EU;RU
+3105;RU-PNZ;PNZ;Penza Oblast;EU;RU
+3106;RU-PRI;PRI;Primorsky Krai;EU;RU
+3107;RU-PSK;PSK;Pskov Oblast;EU;RU
+3108;RU-ROS;ROS;Rostov Oblast;EU;RU
+3109;RU-RYA;RYA;Ryazan Oblast;EU;RU
+3110;RU-SA;SA;Sakha (Yakutia) Republic;EU;RU
+3111;RU-SAK;SAK;Sakhalin Oblast;EU;RU
+3112;RU-SAM;SAM;Samara Oblast;EU;RU
+3113;RU-SAR;SAR;Saratov Oblast;EU;RU
+3114;RU-SE;SE;Republic of North Ossetia-Alania;EU;RU
+3115;RU-SMO;SMO;Smolensk Oblast;EU;RU
+3116;RU-SPE;SPE;Saint Petersburg (city);EU;RU
+3117;RU-STA;STA;Stavropol Krai;EU;RU
+3118;RU-SVE;SVE;Sverdlovsk Oblast;EU;RU
+3119;RU-TA;TA;Republic of Tatarstan;EU;RU
+3120;RU-TAM;TAM;Tambov Oblast;EU;RU
+3122;RU-TOM;TOM;Tomsk Oblast;EU;RU
+3123;RU-TUL;TUL;Tula Oblast;EU;RU
+3124;RU-TVE;TVE;Tver Oblast;EU;RU
+3125;RU-TY;TY;Tuva Republic;EU;RU
+3126;RU-TYU;TYU;Tyumen Oblast;EU;RU
+3127;RU-U-A;U-A;(unassigned);EU;RU
+3128;RU-UD;UD;Udmurt Republic;EU;RU
+3129;RU-ULY;ULY;Ulyanovsk Oblast;EU;RU
+3130;RU-UOB;UOB;Ust-Orda Buryat Autonomous Okrug;EU;RU
+3131;RU-VGG;VGG;Volgograd Oblast;EU;RU
+3132;RU-VLA;VLA;Vladimir Oblast;EU;RU
+3133;RU-VLG;VLG;Vologda Oblast;EU;RU
+3134;RU-VOR;VOR;Voronezh Oblast;EU;RU
+3135;RU-YAN;YAN;Yamalo-Nenets Autonomous Okrug;EU;RU
+3136;RU-YAR;YAR;Yaroslavl Oblast;EU;RU
+3137;RU-YEV;YEV;Jewish Autonomous Oblast;EU;RU
+4463;RW-01;1;Ville de Kigali;AF;RW
+4464;RW-02;2;East;AF;RW
+4465;RW-03;3;North;AF;RW
+4466;RW-04;4;West;AF;RW
+4467;RW-05;5;South;AF;RW
+3138;RW-B;B;Gitarama;AF;RW
+3139;RW-C;C;Butare;AF;RW
+3140;RW-D;D;Gikongoro;AF;RW
+3141;RW-E;E;Cyangugu;AF;RW
+3142;RW-F;F;Kibuye;AF;RW
+3143;RW-G;G;Gisenyi;AF;RW
+3144;RW-H;H;Ruhengeri;AF;RW
+3145;RW-I;I;Byumba;AF;RW
+3146;RW-J;J;Kibungo;AF;RW
+3147;RW-K;K;Kigali-Rural Kigali y' Icyaro;AF;RW
+3148;RW-L;L;Kigali-Ville Kigali Ngari;AF;RW
+3149;RW-M;M;Mutara;AF;RW
+3150;RW-U-A;U-A;(unassigned);AF;RW
+3151;SA-01;1;Riyadh;AS;SA
+3152;SA-02;2;Makkah;AS;SA
+3153;SA-03;3;Al Madinah;AS;SA
+3154;SA-04;4;Ash Sharqiyah;AS;SA
+3155;SA-05;5;Al Qasim;AS;SA
+3156;SA-06;6;Ha'il;AS;SA
+3157;SA-07;7;Tabuk;AS;SA
+3158;SA-08;8;The Northern Border;AS;SA
+3159;SA-09;9;Jlzan;AS;SA
+3160;SA-10;10;Najran;AS;SA
+3161;SA-11;11;Al Batah;AS;SA
+3162;SA-12;12;Al Jawf;AS;SA
+3163;SA-14;14;Asir;AS;SA
+3164;SA-U-A;U-A;(unassigned);AS;SA
+3165;SB-CE;CE;Central;OC;SB
+4468;SB-CH;CH;Choiseul;OC;SB
+3166;SB-CT;CT;Capital Territory (Honiara);OC;SB
+3167;SB-GU;GU;Guadalcanal;OC;SB
+3168;SB-IS;IS;Isabel;OC;SB
+3169;SB-MK;MK;Makira;OC;SB
+3170;SB-ML;ML;Malaita;OC;SB
+4469;SB-RB;RB;Rennell and Bellona;OC;SB
+3171;SB-TE;TE;Temotu;OC;SB
+3172;SB-U-A;U-A;(unassigned);OC;SB
+3173;SB-WE;WE;Western;OC;SB
+4470;SC-01;1;Anse aux Pins;AF;SC
+4471;SC-02;2;Anse Boileau;AF;SC
+4472;SC-03;3;Anse Étoile;AF;SC
+4473;SC-04;4;Anse Louis;AF;SC
+4474;SC-05;5;Anse Royale;AF;SC
+4475;SC-06;6;Baie Lazare;AF;SC
+4476;SC-07;7;Baie Sainte Anne;AF;SC
+4477;SC-08;8;Beau Vallon;AF;SC
+4478;SC-09;9;Bel Air;AF;SC
+4479;SC-10;10;Bel Ombre;AF;SC
+4480;SC-11;11;Cascade;AF;SC
+4481;SC-12;12;Glacis;AF;SC
+4482;SC-13;13;Grand' Anse (Mahé);AF;SC
+4483;SC-14;14;Grand' Anse (Praslin);AF;SC
+4484;SC-15;15;La Digue;AF;SC
+4485;SC-16;16;La Rivière Anglaise;AF;SC
+4486;SC-17;17;Mont Buxton;AF;SC
+4487;SC-18;18;Mont Fleuri;AF;SC
+4488;SC-19;19;Plaisance;AF;SC
+4489;SC-20;20;Pointe La Rue;AF;SC
+4490;SC-21;21;Port Glaud;AF;SC
+4491;SC-22;22;Saint Louis;AF;SC
+4492;SC-23;23;Takamaka;AF;SC
+3174;SC-U-A;U-A;(unassigned);AF;SC
+3175;SD-01;1;Northern;AF;SD
+3176;SD-02;2;North Darfur;AF;SD
+3177;SD-03;3;Khartoum State;AF;SD
+3178;SD-04;4;River Nile;AF;SD
+3179;SD-05;5;Kassala State;AF;SD
+3180;SD-06;6;Al Qadarif;AF;SD
+3181;SD-07;7;Al Jazirah;AF;SD
+3182;SD-08;8;White Nile;AF;SD
+3183;SD-09;9;North Kurdufan;AF;SD
+3184;SD-10;10;Western Kurdufan;AF;SD
+3185;SD-11;11;South Darfur;AF;SD
+3186;SD-12;12;West Darfur;AF;SD
+3187;SD-13;13;South Kurdufan;AF;SD
+3198;SD-24;24;Blue Nile;AF;SD
+3199;SD-25;25;Sennar;AF;SD
+3200;SD-26;26;Red Sea;AF;SD
+3201;SD-U-A;U-A;(unassigned);AF;SD
+3202;SE-AB;AB;Stockholms län;EU;SE
+3203;SE-AC;AC;Västerbottens län;EU;SE
+3204;SE-BD;BD;Norrbottena län;EU;SE
+3205;SE-C;C;Uppsala län;EU;SE
+3206;SE-D;D;Södermanlands län;EU;SE
+3207;SE-E;E;Östergötlands län;EU;SE
+3208;SE-F;F;Jönköpings län;EU;SE
+3209;SE-G;G;Kronoberge län;EU;SE
+3210;SE-H;H;Kalmar län;EU;SE
+3211;SE-I;I;Gotlands län;EU;SE
+3212;SE-K;K;Blekinge län;EU;SE
+3213;SE-M;M;Skåne län;EU;SE
+3214;SE-N;N;Hallands län;EU;SE
+3215;SE-Q;Q;Västra Götalands län;EU;SE
+3216;SE-S;S;Värmlanda län;EU;SE
+3217;SE-T;T;Örebro län;EU;SE
+3218;SE-U;U;Västmanlanda län;EU;SE
+3219;SE-U-A;U-A;(unassigned);EU;SE
+3220;SE-W;W;Dalarnas län;EU;SE
+3221;SE-X;X;Gävleborge län;EU;SE
+3222;SE-Y;Y;Västernorrlands län;EU;SE
+3223;SE-Z;Z;Jämtlande län;EU;SE
+4493;SG-01;1;Central Singapore;AS;SG
+4494;SG-02;2;North East;AS;SG
+4495;SG-03;3;North West;AS;SG
+4496;SG-04;4;South East;AS;SG
+4497;SG-05;5;South West;AS;SG
+3224;SG-U-A;U-A;(unassigned);AS;SG
+3225;SH-AC;AC;Ascension;AF;SH
+3226;SH-SH;SH;Saint Helena;AF;SH
+3227;SH-TA;TA;Tristan da Cunha;AF;SH
+3228;SH-U-A;U-A;(unassigned);AF;SH
+3229;SI-001;1;Ajdovscina;EU;SI
+3230;SI-002;2;Beltinci;EU;SI
+3231;SI-003;3;Bled;EU;SI
+3232;SI-004;4;Bohinj;EU;SI
+3233;SI-005;5;Borovnica;EU;SI
+3234;SI-006;6;Bovec;EU;SI
+3235;SI-007;7;Brda;EU;SI
+3236;SI-008;8;Brezovica;EU;SI
+3237;SI-009;9;Brezica;EU;SI
+3238;SI-010;10;Tisina;EU;SI
+3239;SI-011;11;Celje;EU;SI
+3240;SI-012;12;Cerklje na Gorenjskem;EU;SI
+3241;SI-013;13;Cerknica;EU;SI
+3242;SI-014;14;Cerkno;EU;SI
+3243;SI-015;15;Crensovci;EU;SI
+3244;SI-016;16;Crna na Koroskem;EU;SI
+3245;SI-017;17;Crnomelj;EU;SI
+3246;SI-018;18;Destrnik;EU;SI
+3247;SI-019;19;Divaca;EU;SI
+3248;SI-020;20;Dobrepolje;EU;SI
+3249;SI-021;21;Dobrova-Polhov Gradec;EU;SI
+3250;SI-022;22;Dol pri Ljubljani;EU;SI
+3251;SI-023;23;Domzale;EU;SI
+3252;SI-024;24;Dornava;EU;SI
+3253;SI-025;25;Dravograd;EU;SI
+3254;SI-026;26;Duplek;EU;SI
+3255;SI-027;27;Gorenja vas-Poljane;EU;SI
+3256;SI-028;28;Gorsnica;EU;SI
+3257;SI-029;29;Gornja Radgona;EU;SI
+3258;SI-030;30;Gornji Grad;EU;SI
+3259;SI-031;31;Gornji Petrovci;EU;SI
+3260;SI-032;32;Grosuplje;EU;SI
+3261;SI-033;33;Salovci;EU;SI
+3262;SI-034;34;Hrastnik;EU;SI
+3263;SI-035;35;Hrpelje-Kozina;EU;SI
+3264;SI-036;36;Idrija;EU;SI
+3265;SI-037;37;Ig;EU;SI
+3266;SI-038;38;IIrska Bistrica;EU;SI
+3267;SI-039;39;Ivancna Gorica;EU;SI
+3268;SI-040;40;Izola;EU;SI
+3269;SI-041;41;Jesenice;EU;SI
+3270;SI-042;42;Jursinci;EU;SI
+3271;SI-043;43;Kamnik;EU;SI
+3272;SI-044;44;Kanal;EU;SI
+3273;SI-045;45;Kidricevo;EU;SI
+3274;SI-046;46;Kobarid;EU;SI
+3275;SI-047;47;Kobilje;EU;SI
+3276;SI-048;48;Jovevje;EU;SI
+3277;SI-049;49;Komen;EU;SI
+3278;SI-050;50;Koper;EU;SI
+3279;SI-051;51;Kozje;EU;SI
+3280;SI-052;52;Kranj;EU;SI
+3281;SI-053;53;Kranjska Gora;EU;SI
+3282;SI-054;54;Krsko;EU;SI
+3283;SI-055;55;Kungota;EU;SI
+3284;SI-056;56;Kuzma;EU;SI
+3285;SI-057;57;Lasko;EU;SI
+3286;SI-058;58;Lenart;EU;SI
+3287;SI-059;59;Lendava;EU;SI
+3288;SI-060;60;Litija;EU;SI
+3289;SI-061;61;Ljubljana;EU;SI
+3290;SI-062;62;Ljubno;EU;SI
+3291;SI-063;63;Ljutomer;EU;SI
+3292;SI-064;64;Logatec;EU;SI
+3293;SI-065;65;Loska dolina;EU;SI
+3294;SI-066;66;Loski Potok;EU;SI
+3295;SI-067;67;Luce;EU;SI
+3296;SI-068;68;Lukovica;EU;SI
+3297;SI-069;69;Majsperk;EU;SI
+3298;SI-070;70;Maribor;EU;SI
+3299;SI-071;71;Medvode;EU;SI
+3300;SI-072;72;Menges;EU;SI
+3301;SI-073;73;Metlika;EU;SI
+3302;SI-074;74;Mezica;EU;SI
+3303;SI-075;75;Miren-Kostanjevica;EU;SI
+3304;SI-076;76;Mislinja;EU;SI
+3305;SI-077;77;Moravce;EU;SI
+3306;SI-078;78;Moravske Toplice;EU;SI
+3307;SI-079;79;Mozirje;EU;SI
+3308;SI-080;80;Murska Sobota;EU;SI
+3309;SI-081;81;Muta;EU;SI
+3310;SI-082;82;Naklo;EU;SI
+3311;SI-083;83;Nazarje;EU;SI
+3312;SI-084;84;Nova Gorica;EU;SI
+3313;SI-085;85;Nova mesto;EU;SI
+4498;SI-086;86;Odranci;EU;SI
+4499;SI-087;87;Ormož;EU;SI
+4500;SI-088;88;Osilnica;EU;SI
+4501;SI-089;89;Pesnica;EU;SI
+4502;SI-090;90;Piran;EU;SI
+4503;SI-091;91;Pivka;EU;SI
+4504;SI-092;92;Pod?etrtek;EU;SI
+4505;SI-093;93;Podvelka;EU;SI
+4506;SI-094;94;Postojna;EU;SI
+4507;SI-095;95;Preddvor;EU;SI
+4508;SI-096;96;Ptuj;EU;SI
+4509;SI-097;97;Puconci;EU;SI
+4510;SI-098;98;Ra?e-Fram;EU;SI
+4511;SI-099;99;Rade?e;EU;SI
+4512;SI-100;100;Radenci;EU;SI
+4513;SI-101;101;Radlje ob Dravi;EU;SI
+4514;SI-102;102;Radovljica;EU;SI
+4515;SI-103;103;Ravne na Koroškem;EU;SI
+4516;SI-104;104;Ribnica;EU;SI
+4517;SI-105;105;Rogašovci;EU;SI
+4518;SI-106;106;Rogaška Slatina;EU;SI
+4519;SI-107;107;Rogatec;EU;SI
+4520;SI-108;108;Ruše;EU;SI
+4521;SI-109;109;Semi?;EU;SI
+4522;SI-110;110;Sevnica;EU;SI
+4523;SI-111;111;Sežana;EU;SI
+4524;SI-112;112;Slovenj Gradec;EU;SI
+4525;SI-113;113;Slovenska Bistrica;EU;SI
+4526;SI-114;114;Slovenske Konjice;EU;SI
+4527;SI-115;115;Starše;EU;SI
+3314;SI-116;116;Sveti Jurij;EU;SI
+3315;SI-117;117;Sencur;EU;SI
+3316;SI-118;118;Sentilj;EU;SI
+3317;SI-119;119;Sentjernej;EU;SI
+3318;SI-120;120;Sentjur pri Celju;EU;SI
+3319;SI-121;121;Skocjan;EU;SI
+3320;SI-122;122;Skofja Loka;EU;SI
+3321;SI-123;123;Skoftjica;EU;SI
+3322;SI-124;124;Smarje pri Jelsah;EU;SI
+3323;SI-125;125;Smartno ob Paki;EU;SI
+3324;SI-126;126;Sostanj;EU;SI
+3325;SI-127;127;Store;EU;SI
+3326;SI-128;128;Tolmin;EU;SI
+3327;SI-129;129;Trbovje;EU;SI
+3328;SI-130;130;Trebnje;EU;SI
+3329;SI-131;131;Trzic;EU;SI
+3330;SI-132;132;Turnisce;EU;SI
+3331;SI-133;133;Velenje;EU;SI
+3332;SI-134;134;Velika Lasce;EU;SI
+3333;SI-135;135;Videm;EU;SI
+3334;SI-136;136;Vipava;EU;SI
+3335;SI-137;137;Vitanje;EU;SI
+3336;SI-138;138;Vojnik;EU;SI
+4528;SI-139;139;Vojnik;EU;SI
+3337;SI-140;140;Vrhnika;EU;SI
+3338;SI-141;141;Vuzenica;EU;SI
+3339;SI-142;142;Zagorje ob Savi;EU;SI
+3340;SI-143;143;Zavrc;EU;SI
+3341;SI-144;144;Zrece;EU;SI
+3342;SI-146;146;Zelezniki;EU;SI
+3343;SI-147;147;Ziri;EU;SI
+3344;SI-148;148;Benedikt;EU;SI
+3345;SI-149;149;Bistrica ob Sotli;EU;SI
+3346;SI-150;150;Bloke;EU;SI
+3347;SI-151;151;Braslovce;EU;SI
+3348;SI-152;152;Cankova;EU;SI
+3349;SI-153;153;Cerkvenjak;EU;SI
+3350;SI-154;154;Dobje;EU;SI
+3351;SI-155;155;Dobrna;EU;SI
+3352;SI-156;156;Dobrovnik;EU;SI
+3353;SI-157;157;Dolenjske Toplice;EU;SI
+3354;SI-158;158;Grad;EU;SI
+3355;SI-159;159;Hajdina;EU;SI
+3356;SI-160;160;Hoce-Slivnica;EU;SI
+3357;SI-161;161;Hodos;EU;SI
+3358;SI-162;162;Jorjul;EU;SI
+3359;SI-163;163;Jezersko;EU;SI
+3360;SI-164;164;Komenda;EU;SI
+3361;SI-165;165;Kostel;EU;SI
+3362;SI-166;166;Krizevci;EU;SI
+3363;SI-167;167;Lovrenc na Pohorju;EU;SI
+3364;SI-168;168;Markovci;EU;SI
+3365;SI-169;169;Miklavz na Dravskern polju;EU;SI
+3366;SI-170;170;Mirna Pec;EU;SI
+4529;SI-171;171;Oplotnica;EU;SI
+4530;SI-172;172;Podlehnik;EU;SI
+4531;SI-173;173;Polzela;EU;SI
+4532;SI-174;174;Prebold;EU;SI
+4533;SI-175;175;Prevalje;EU;SI
+4534;SI-176;176;Razkrižje;EU;SI
+4535;SI-177;177;Ribnica na Pohorju;EU;SI
+4536;SI-178;178;Selnica ob Dravi;EU;SI
+4537;SI-179;179;Sodražica;EU;SI
+4538;SI-180;180;Sol?ava;EU;SI
+3367;SI-181;181;Sveta Ana;EU;SI
+3368;SI-182;182;Sveti Andraz v Slovenskih goricah;EU;SI
+3369;SI-183;183;Sempeter-Vrtojba;EU;SI
+3370;SI-184;184;Tabor;EU;SI
+3371;SI-185;185;Trnovska vas;EU;SI
+3372;SI-186;186;Trzin;EU;SI
+3373;SI-187;187;Velika Polana;EU;SI
+3374;SI-188;188;Verzej;EU;SI
+3375;SI-189;189;Vransko;EU;SI
+3376;SI-190;190;Zalec;EU;SI
+3377;SI-191;191;Zetale;EU;SI
+3378;SI-192;192;Zirovnica;EU;SI
+3379;SI-193;193;Zuzemberk;EU;SI
+3380;SI-194;194;Smartno pri Litiji;EU;SI
+3381;SI-U-A;U-A;(unassigned);EU;SI
+3383;SK-BC;BC;Banská Bystrica;EU;SK
+3384;SK-BL;BL;Bratislava;EU;SK
+3385;SK-KI;KI;Košice;EU;SK
+3386;SK-NJ;NJ;Nitra;EU;SK
+3387;SK-PV;PV;Prešov;EU;SK
+3388;SK-TA;TA;Trnava;EU;SK
+3389;SK-TC;TC;Tren?ín;EU;SK
+3390;SK-U-A;U-A;(unassigned);EU;SK
+3391;SK-ZI;ZI;Žilina;EU;SK
+3392;SL-E;E;Eastern Province;AF;SL
+3393;SL-N;N;Northern Province;AF;SL
+3394;SL-S;S;Southern Province;AF;SL
+3395;SL-U-A;U-A;(unassigned);AF;SL
+3396;SL-W;W;Western Area;AF;SL
+4881;SM-01;1;Acquaviva;EU;SM
+4882;SM-02;2;Chiesanuova;EU;SM
+4883;SM-03;3;Domagnano;EU;SM
+4884;SM-04;4;Faetano;EU;SM
+4885;SM-05;5;Fiorentino;EU;SM
+4886;SM-06;6;Borgo Maggiore;EU;SM
+4887;SM-07;7;San Marino;EU;SM
+4888;SM-08;8;Montegiardino;EU;SM
+4889;SM-09;9;Serravalle;EU;SM
+3397;SM-U-A;U-A;(unassigned);EU;SM
+3398;SN-DB;DB;Diourbel;AF;SN
+3399;SN-DK;DK;Dakar;AF;SN
+3400;SN-FK;FK;Fatick;AF;SN
+3401;SN-KD;KD;Kolda;AF;SN
+3402;SN-KL;KL;Kaolack;AF;SN
+3403;SN-LG;LG;Louga;AF;SN
+3404;SN-MT;MT;Matam;AF;SN
+3405;SN-SL;SL;Saint-Louis;AF;SN
+3406;SN-TC;TC;Tambacounda;AF;SN
+3407;SN-TH;TH;Thies;AF;SN
+3408;SN-U-A;U-A;(unassigned);AF;SN
+3409;SN-ZG;ZG;Ziguinchor;AF;SN
+3410;SO-AW;AW;Awdal;AF;SO
+3411;SO-BK;BK;Bakool;AF;SO
+3412;SO-BN;BN;Banaadir;AF;SO
+3413;SO-BR;BR;Bari;AF;SO
+3414;SO-BY;BY;Bay;AF;SO
+3415;SO-GA;GA;Galguduud;AF;SO
+3416;SO-GE;GE;Gedo;AF;SO
+3417;SO-HI;HI;Hiirsan;AF;SO
+3418;SO-JD;JD;Jubbada Dhexe;AF;SO
+3419;SO-JH;JH;Jubbada Hoose;AF;SO
+3420;SO-MU;MU;Mudug;AF;SO
+3421;SO-NU;NU;Nugaal;AF;SO
+3422;SO-SA;SA;Saneag;AF;SO
+3423;SO-SD;SD;Shabeellaha Dhexe;AF;SO
+3424;SO-SH;SH;Shabeellaha Hoose;AF;SO
+3425;SO-SO;SO;Sool;AF;SO
+3426;SO-TO;TO;Togdheer;AF;SO
+3427;SO-U-A;U-A;(unassigned);AF;SO
+3428;SO-WO;WO;Woqooyi Galbeed;AF;SO
+3429;SR-BR;BR;Brokopondo;SA;SR
+3430;SR-CM;CM;Commewijne;SA;SR
+3431;SR-CR;CR;Coronie;SA;SR
+3432;SR-MA;MA;Marowijne;SA;SR
+3433;SR-NI;NI;Nickerie;SA;SR
+3434;SR-PM;PM;Paramaribo;SA;SR
+3435;SR-PR;PR;Para;SA;SR
+3436;SR-SA;SA;Saramacca;SA;SR
+3437;SR-SI;SI;Sipaliwini;SA;SR
+3438;SR-U-A;U-A;(unassigned);SA;SR
+3439;SR-WA;WA;Wanica;SA;SR
+3188;SS-14;14;Western Bahr el Ghazal;AF;SS
+3189;SS-15;15;Northern Bahr el Ghazal;AF;SS
+3190;SS-16;16;Western Equatoria;AF;SS
+3191;SS-17;17;Central Equatoria;AF;SS
+3192;SS-18;18;Lakes;AF;SS
+3193;SS-19;19;Eastern Equatoria;AF;SS
+3194;SS-20;20;Jonglei;AF;SS
+3195;SS-21;21;Warrap;AF;SS
+3196;SS-22;22;Unity;AF;SS
+3197;SS-23;23;Upper Nile;AF;SS
+4900;SS-U-A;U-A;(unassigned);AF;SS
+3440;ST-P;P;Principe;AF;ST
+3441;ST-S;S;São Tomé;AF;ST
+3442;ST-U-A;U-A;(unassigned);AF;ST
+3443;SV-AH;AH;Ahuachapan;NA;SV
+3444;SV-CA;CA;Cabanas;NA;SV
+3445;SV-CH;CH;Chalatenango;NA;SV
+3446;SV-CU;CU;Cuscatlan;NA;SV
+3447;SV-LI;LI;La Libertad;NA;SV
+3448;SV-MO;MO;Morazan;NA;SV
+3449;SV-PA;PA;La Paz;NA;SV
+3450;SV-SA;SA;Santa Ana;NA;SV
+3451;SV-SM;SM;San Miguel;NA;SV
+3452;SV-SO;SO;Sonsonate;NA;SV
+3453;SV-SS;SS;San Salvador;NA;SV
+3454;SV-SV;SV;San Vicente;NA;SV
+3455;SV-U-A;U-A;(unassigned);NA;SV
+3456;SV-UN;UN;La Unión;NA;SV
+3457;SV-US;US;Usulutan;NA;SV
+3458;SY-DI;DI;Damascus Governorate;AS;SY
+3459;SY-DR;DR;Daraa Governorate;AS;SY
+3460;SY-DY;DY;Deir ez-Zor Governorate;AS;SY
+3461;SY-HA;HA;Al-Hasakah Governorate;AS;SY
+3462;SY-HI;HI;Homs Governorate;AS;SY
+3463;SY-HL;HL;Aleppo Governorate;AS;SY
+3464;SY-HM;HM;Hama Governorate;AS;SY
+3465;SY-ID;ID;Idlib Governorate;AS;SY
+3466;SY-LA;LA;Latakia Governorate;AS;SY
+3467;SY-QU;QU;Quneitra Governorate;AS;SY
+3468;SY-RA;RA;Ar-Raqqah Governorate;AS;SY
+3469;SY-RD;RD;Rif Dimashq Governorate;AS;SY
+3470;SY-SU;SU;As-Suwayda Governorate;AS;SY
+3471;SY-TA;TA;Tartus Governorate;AS;SY
+3472;SY-U-A;U-A;(unassigned);AS;SY
+3473;SZ-HH;HH;Hhohho;AF;SZ
+3474;SZ-LU;LU;Lubombo;AF;SZ
+3475;SZ-MA;MA;Manzini;AF;SZ
+3476;SZ-SH;SH;Shiselweni;AF;SZ
+3477;SZ-U-A;U-A;(unassigned);AF;SZ
+4539;TC-AC;AC;Ambergris Cays;NA;TC
+4540;TC-DC;DC;Dellis Cay;NA;TC
+4541;TC-EC;EC;East Caicos;NA;TC
+4542;TC-FC;FC;French Cay;NA;TC
+4543;TC-GT;GT;Grand Turk;NA;TC
+4544;TC-LW;LW;Little Water Cay;NA;TC
+4545;TC-MC;MC;Middle Caicos;NA;TC
+4546;TC-NC;NC;North Caicos;NA;TC
+4547;TC-PN;PN;Pine Cay;NA;TC
+4548;TC-PR;PR;Providenciales;NA;TC
+4549;TC-RC;RC;Parrot Cay;NA;TC
+4550;TC-SC;SC;South Caicos;NA;TC
+4551;TC-SL;SL;Salt Cay;NA;TC
+3478;TC-U-A;U-A;(unassigned);NA;TC
+4552;TC-WC;WC;West Caicos;NA;TC
+3479;TD-BA;BA;Batha;AF;TD
+3480;TD-BET;BET;Borkou-Ennedi-Tibesti;AF;TD
+3481;TD-BI;BI;Biltine;AF;TD
+3482;TD-CB;CB;Chari-Baguirmi;AF;TD
+3483;TD-GR;GR;Guera;AF;TD
+3484;TD-KA;KA;Kanem;AF;TD
+3485;TD-LC;LC;Lac;AF;TD
+3486;TD-LO;LO;Logone-Occidental;AF;TD
+3487;TD-LR;LR;Logone-Oriental;AF;TD
+3488;TD-MC;MC;Moyen-Chari;AF;TD
+3489;TD-MK;MK;Mayo-Kebbi;AF;TD
+3490;TD-OD;OD;Ouaddai;AF;TD
+3491;TD-SA;SA;Salamat;AF;TD
+3492;TD-TA;TA;Tandjile;AF;TD
+3493;TD-U-A;U-A;(unassigned);AF;TD
+3494;TF-U-A;U-A;(unassigned);AN;TF
+4553;TG-C;C;Centrale Region;AF;TG
+3495;TG-K;K;Kara Region;AF;TG
+3496;TG-M;M;Maritime Region;AF;TG
+4554;TG-P;P;Plateaux Region;AF;TG
+3497;TG-S;S;Savanes Region;AF;TG
+3498;TG-U-A;U-A;(unassigned);AF;TG
+3499;TH-10;10;Bangkok Province;AS;TH
+3500;TH-11;11;Samut Prakan Province;AS;TH
+3501;TH-12;12;Nonthaburi Province;AS;TH
+3502;TH-13;13;Pathum Thani Province;AS;TH
+3503;TH-14;14;Phra Nakhon Si Ayutthaya Province;AS;TH
+3504;TH-15;15;Ang Thong Province;AS;TH
+3505;TH-16;16;Lop Buri Province;AS;TH
+3506;TH-17;17;Sing Buri Province;AS;TH
+3507;TH-18;18;Chai Nat Province;AS;TH
+3508;TH-19;19;Saraburi Province;AS;TH
+3509;TH-20;20;Chon Buri Province;AS;TH
+3510;TH-21;21;Rayong Province;AS;TH
+3511;TH-22;22;Chanthaburi Province;AS;TH
+3512;TH-23;23;Trat Province;AS;TH
+3513;TH-24;24;Chachoengsao Province;AS;TH
+3514;TH-25;25;Prachin Buri Province;AS;TH
+3515;TH-26;26;Nakhon Nayok Province;AS;TH
+3516;TH-27;27;Sa Kaeo Province;AS;TH
+3517;TH-30;30;Nakhon Ratchasima Province;AS;TH
+3518;TH-31;31;Buri Ram Province;AS;TH
+3519;TH-32;32;Surin Province;AS;TH
+3520;TH-33;33;Si Sa Ket Province;AS;TH
+3521;TH-34;34;Ubon Ratchathani Province;AS;TH
+3522;TH-35;35;Yasothon Province;AS;TH
+3523;TH-36;36;Chaiyaphum Province;AS;TH
+3524;TH-37;37;Amnat Charoen Province;AS;TH
+3525;TH-39;39;Nong Bua Lam Phu Province;AS;TH
+3526;TH-40;40;Khon Kaen Province;AS;TH
+3527;TH-41;41;Udon Thani Province;AS;TH
+3528;TH-42;42;Loei Province;AS;TH
+3529;TH-43;43;Nong Khai Province;AS;TH
+3530;TH-44;44;Maha Sarakham Province;AS;TH
+3531;TH-45;45;Roi Et Province;AS;TH
+3532;TH-46;46;Kalasin Province;AS;TH
+3533;TH-47;47;Sakon Nakhon Province;AS;TH
+3534;TH-48;48;Nakhon Phanom Province;AS;TH
+3535;TH-49;49;Mukdahan Province;AS;TH
+3536;TH-50;50;Chiang Mai Province;AS;TH
+3537;TH-51;51;Lamphun Province;AS;TH
+3538;TH-52;52;Lampang Province;AS;TH
+3539;TH-53;53;Uttaradit Province;AS;TH
+3540;TH-54;54;Phrae Province;AS;TH
+3541;TH-55;55;Nan Province;AS;TH
+3542;TH-56;56;Phayao Province;AS;TH
+3543;TH-57;57;Chiang Rai Province;AS;TH
+3544;TH-58;58;Mae Hong Son Province;AS;TH
+3545;TH-60;60;Nakhon Sawan Province;AS;TH
+3546;TH-61;61;Uthai Thani Province;AS;TH
+3547;TH-62;62;Kamphaeng Phet Province;AS;TH
+3548;TH-63;63;Tak Province;AS;TH
+3549;TH-64;64;Sukhothai Province;AS;TH
+3550;TH-65;65;Phitsanulok Province;AS;TH
+3551;TH-66;66;Phichit Province;AS;TH
+3552;TH-67;67;Phetchabun Province;AS;TH
+3553;TH-70;70;Ratchaburi Province;AS;TH
+3554;TH-71;71;Kanchanaburi Province;AS;TH
+3555;TH-72;72;Suphan Buri Province;AS;TH
+3556;TH-73;73;Nakhon Pathom Province;AS;TH
+3557;TH-74;74;Samut Sakhon Province;AS;TH
+3558;TH-75;75;Samut Songkhram Province;AS;TH
+3559;TH-76;76;Phetchaburi Province;AS;TH
+3560;TH-77;77;Prachuap Khiri Khan Province;AS;TH
+3561;TH-80;80;Nakhon Si Thammarat Province;AS;TH
+3562;TH-81;81;Krabi Province;AS;TH
+3563;TH-82;82;Phang Nga Province;AS;TH
+3564;TH-83;83;Phuket Province;AS;TH
+3565;TH-84;84;Surat Thani Province;AS;TH
+3566;TH-85;85;Ranong Province;AS;TH
+3567;TH-86;86;Chumphon Province;AS;TH
+3568;TH-90;90;Songkhla Province;AS;TH
+3569;TH-91;91;Satun Province;AS;TH
+3570;TH-92;92;Trang Province;AS;TH
+3571;TH-93;93;Phattalung Province;AS;TH
+3572;TH-94;94;Pattani Province;AS;TH
+3573;TH-95;95;Yala Province;AS;TH
+3574;TH-96;96;Narathiwat Province;AS;TH
+3575;TH-S;S;Pattaya Province;AS;TH
+3576;TH-U-A;U-A;(unassigned);AS;TH
+3577;TJ-GB;GB;Gorno-Badakhshan Autonomous Province;AS;TJ
+3578;TJ-KT;KT;Khatlon Province;AS;TJ
+4738;TJ-RR;RR;Region of Republican Subordination;AS;TJ
+3579;TJ-SU;SU;Sughd Province;AS;TJ
+3580;TJ-U-A;U-A;(unassigned);AS;TJ
+3581;TK-U-A;U-A;(unassigned);OC;TK
+3582;TL-AL;AL;Aileu;AS;TL
+3583;TL-AN;AN;Ainaro;AS;TL
+3584;TL-BA;BA;Baucau;AS;TL
+3585;TL-BO;BO;Bobonaro;AS;TL
+3586;TL-CO;CO;Cova Lima;AS;TL
+3587;TL-DI;DI;Dili;AS;TL
+3588;TL-ER;ER;Ermera;AS;TL
+3589;TL-LA;LA;Lautém;AS;TL
+3590;TL-LI;LI;Liquica;AS;TL
+3591;TL-MF;MF;Manafahi;AS;TL
+3592;TL-MT;MT;Manatuto;AS;TL
+3593;TL-OE;OE;Oecussi;AS;TL
+3594;TL-U-A;U-A;(unassigned);AS;TL
+3595;TL-VI;VI;Viqueque;AS;TL
+3596;TM-A;A;Ahal;AS;TM
+3597;TM-B;B;Balkan;AS;TM
+3598;TM-D;D;Da?oguz;AS;TM
+3599;TM-L;L;Lebap;AS;TM
+3600;TM-M;M;Mary;AS;TM
+3601;TM-U-A;U-A;(unassigned);AS;TM
+3602;TN-11;11;Tunis Governorate;AF;TN
+3603;TN-12;12;Ariana Governorate;AF;TN
+3604;TN-13;13;Ben Arous Governorate;AF;TN
+3605;TN-14;14;Manouba Governorate;AF;TN
+3606;TN-21;21;Nabeul Governorate;AF;TN
+3607;TN-22;22;Zaghouan Governorate;AF;TN
+3608;TN-23;23;Bizerte Governorate;AF;TN
+3609;TN-31;31;Béja Governorate;AF;TN
+3610;TN-32;32;Jendouba Governorate;AF;TN
+3611;TN-33;33;Kef Governorate;AF;TN
+3612;TN-34;34;Siliana Governorate;AF;TN
+3613;TN-41;41;Kairouan Governorate;AF;TN
+3614;TN-42;42;Kasserine Governorate;AF;TN
+3615;TN-43;43;Sidi Bou Zid Governorate;AF;TN
+3616;TN-51;51;Sousse Governorate;AF;TN
+3617;TN-52;52;Monastir Governorate;AF;TN
+3618;TN-53;53;Mahdia Governorate;AF;TN
+3619;TN-61;61;Sfax Governorate;AF;TN
+3620;TN-71;71;Gafsa Governorate;AF;TN
+3621;TN-72;72;Tozeur Governorate;AF;TN
+3622;TN-73;73;Kebili Governorate;AF;TN
+3623;TN-81;81;Gabès Governorate;AF;TN
+3624;TN-82;82;Medenine Governorate;AF;TN
+3625;TN-83;83;Tataouine Governorate;AF;TN
+3626;TN-U-A;U-A;(unassigned);AF;TN
+4555;TO-01;1;Eua;OC;TO
+4556;TO-02;2;Ha'apai;OC;TO
+4557;TO-03;3;Niuas;OC;TO
+4558;TO-04;4;Tongatapu;OC;TO
+4559;TO-05;5;Vava';OC;TO
+3627;TO-U-A;U-A;(unassigned);OC;TO
+3628;TR-01;1;Adana;AS;TR
+3629;TR-02;2;Ad?yaman;AS;TR
+3630;TR-03;3;Afyonkarahisar;AS;TR
+3631;TR-04;4;A?r?;AS;TR
+3632;TR-05;5;Amasya;AS;TR
+3633;TR-06;6;Ankara;AS;TR
+3634;TR-07;7;Antalya;AS;TR
+3635;TR-08;8;Artvin;AS;TR
+3636;TR-09;9;Aydin;AS;TR
+3637;TR-10;10;Bal?kesir;AS;TR
+3638;TR-11;11;Bilecik;AS;TR
+3639;TR-12;12;Bingöl;AS;TR
+3640;TR-13;13;Bitlis;AS;TR
+3641;TR-14;14;Bolu;AS;TR
+3642;TR-15;15;Burdur;AS;TR
+3643;TR-16;16;Bursa;AS;TR
+3644;TR-17;17;Çanakkale;AS;TR
+3645;TR-18;18;Çank?r?;AS;TR
+3646;TR-19;19;Çorum;AS;TR
+3647;TR-20;20;Denizli;AS;TR
+3648;TR-21;21;Diyarbakir;AS;TR
+3649;TR-22;22;Edirne;AS;TR
+3650;TR-23;23;Elaz??;AS;TR
+3651;TR-24;24;Erzincan;AS;TR
+3652;TR-25;25;Erzurum;AS;TR
+3653;TR-26;26;Eski?ehir;AS;TR
+3654;TR-27;27;Gaziantep;AS;TR
+3655;TR-28;28;Giresun;AS;TR
+3656;TR-29;29;Gümü?hane;AS;TR
+3657;TR-30;30;Hakkâri;AS;TR
+3658;TR-31;31;Hatay;AS;TR
+3659;TR-32;32;Isparta;AS;TR
+3660;TR-33;33;Icel;AS;TR
+3661;TR-34;34;?stanbul;AS;TR
+3662;TR-35;35;?zmir;AS;TR
+3663;TR-36;36;Kars;AS;TR
+3664;TR-37;37;Kastamonu;AS;TR
+3665;TR-38;38;Kayseri;AS;TR
+3666;TR-39;39;Kirklareli;AS;TR
+3667;TR-40;40;K?r?ehir;AS;TR
+3668;TR-41;41;Kocaeli;AS;TR
+3669;TR-42;42;Konya;AS;TR
+3670;TR-43;43;Kütahya;AS;TR
+3671;TR-44;44;Malatya;AS;TR
+3672;TR-45;45;Manisa;AS;TR
+3673;TR-46;46;Kahramanmara?;AS;TR
+3674;TR-47;47;Mardin;AS;TR
+3675;TR-48;48;Mu?la;AS;TR
+3676;TR-49;49;Mu?;AS;TR
+3677;TR-50;50;Nev?ehir;AS;TR
+3678;TR-51;51;Ni?de;AS;TR
+3679;TR-52;52;Ordu;AS;TR
+3680;TR-53;53;Rize;AS;TR
+3681;TR-54;54;Sakarya;AS;TR
+3682;TR-55;55;Samsun;AS;TR
+3683;TR-56;56;Siirt;AS;TR
+3684;TR-57;57;Sinop;AS;TR
+3685;TR-58;58;Sivas;AS;TR
+3686;TR-59;59;Tekirda?;AS;TR
+3687;TR-60;60;Tokat;AS;TR
+3688;TR-61;61;Trabzon;AS;TR
+3689;TR-62;62;Tunceli;AS;TR
+3690;TR-63;63;?anl?urfa;AS;TR
+3691;TR-64;64;U?ak;AS;TR
+3692;TR-65;65;Van;AS;TR
+3693;TR-66;66;Yozgat;AS;TR
+3694;TR-67;67;Zonguldak;AS;TR
+3695;TR-68;68;Aksaray;AS;TR
+3696;TR-69;69;Bayburt;AS;TR
+3697;TR-70;70;Karaman;AS;TR
+3698;TR-71;71;Kirikkale;AS;TR
+3699;TR-72;72;Batman;AS;TR
+3700;TR-73;73;??rnak;AS;TR
+3701;TR-74;74;Bartin;AS;TR
+3702;TR-75;75;Ardahan;AS;TR
+3703;TR-76;76;I?d?r;AS;TR
+3704;TR-77;77;Yalova;AS;TR
+3705;TR-78;78;Karabük;AS;TR
+3706;TR-79;79;Kilis;AS;TR
+3707;TR-80;80;Osmaniye;AS;TR
+3708;TR-81;81;Düzce;AS;TR
+3709;TR-U-A;U-A;(unassigned);AS;TR
+3710;TT-ARI;ARI;Arima;NA;TT
+3711;TT-CHA;CHA;Chaguanas;NA;TT
+3712;TT-CTT;CTT;Couva-Tabaquite-Talparo;NA;TT
+3713;TT-DMN;DMN;Diego Martin;NA;TT
+3714;TT-ETO;ETO;Eastern Tobago;NA;TT
+3715;TT-PED;PED;Penal-Debe;NA;TT
+3716;TT-POS;POS;Port of Spain;NA;TT
+3717;TT-PRT;PRT;Princes Town;NA;TT
+3718;TT-PTF;PTF;Point Fortin;NA;TT
+3719;TT-RCM;RCM;Rio Claro-Mayaro;NA;TT
+3720;TT-SFO;SFO;San Fernando;NA;TT
+3721;TT-SGE;SGE;Sangre Grande;NA;TT
+3722;TT-SIP;SIP;Siparia;NA;TT
+3723;TT-SJL;SJL;San Juan-Laventille;NA;TT
+3724;TT-TUP;TUP;Tunapuna-Piarco;NA;TT
+3725;TT-U-A;U-A;(unassigned);NA;TT
+3726;TT-WTO;WTO;Western Tobago;NA;TT
+4890;TV-FUN;FUN;Funafuti;OC;TV
+4891;TV-NIT;NIT;Niutao;OC;TV
+4892;TV-NIU;NIU;Nui;OC;TV
+4893;TV-NKF;NKF;Nukufetau;OC;TV
+4894;TV-NKL;NKL;Nukulaelae;OC;TV
+4895;TV-NMA;NMA;Nanumea;OC;TV
+4896;TV-NMG;NMG;Nanumanga;OC;TV
+3727;TV-U-A;U-A;(unassigned);OC;TV
+4897;TV-VAI;VAI;Vaitupu;OC;TV
+3728;TW-CHA;CHA;Changhua County;AS;TW
+4752;TW-CYI;CYI;Chiayi (city);AS;TW
+3729;TW-CYQ;CYQ;Chiayi County;AS;TW
+3730;TW-HSQ;HSQ;Hsinchu County;AS;TW
+4751;TW-HSZ;HSZ;Hsinchu (city);AS;TW
+3731;TW-HUA;HUA;Hualien County;AS;TW
+3732;TW-ILA;ILA;Ilan County;AS;TW
+3733;TW-KEE;KEE;Keelung (city);AS;TW
+4750;TW-KHH;KHH;Kaohsiung (municipality);AS;TW
+3734;TW-KHQ;KHQ;Kaohsiung County;AS;TW
+3735;TW-MIA;MIA;Miaoli County;AS;TW
+3736;TW-NAN;NAN;Nantou County;AS;TW
+3737;TW-PEN;PEN;Penghu County;AS;TW
+3738;TW-PIF;PIF;Pingtung County;AS;TW
+3739;TW-TAO;TAO;Taoyuan County;AS;TW
+4749;TW-TNN;TNN;Tainan City;AS;TW
+3740;TW-TNQ;TNQ;Tainan County;AS;TW
+4748;TW-TPE;TPE;Taipei (municipality);AS;TW
+3741;TW-TPQ;TPQ;Taipei County;AS;TW
+3742;TW-TTT;TTT;Taitung County;AS;TW
+4755;TW-TXG;TXG;Taichung (city);AS;TW
+3743;TW-TXQ;TXQ;Taichung County;AS;TW
+3744;TW-U-A;U-A;(unassigned);AS;TW
+4754;TW-X-KM;X-KM;Kinmen County;AS;TW
+4753;TW-X-LK;X-LK;Lienchiang County;AS;TW
+3745;TW-YUN;YUN;Yunlin County;AS;TW
+3746;TZ-01;1;Arusha;AF;TZ
+3747;TZ-02;2;Dar-es-Salaam;AF;TZ
+3748;TZ-03;3;Dodoma;AF;TZ
+3749;TZ-04;4;Iringa;AF;TZ
+3750;TZ-05;5;Kagera;AF;TZ
+3751;TZ-06;6;Kaskazini Pemba;AF;TZ
+3752;TZ-07;7;Kaskazini Unguja;AF;TZ
+3753;TZ-08;8;Xigoma;AF;TZ
+3754;TZ-09;9;Kilimanjaro;AF;TZ
+3755;TZ-10;10;Rusini Pemba;AF;TZ
+3756;TZ-11;11;Kusini Unguja;AF;TZ
+3757;TZ-12;12;Lindi;AF;TZ
+3758;TZ-13;13;Mara;AF;TZ
+3759;TZ-14;14;Mbeya;AF;TZ
+3760;TZ-15;15;Mjini Magharibi;AF;TZ
+3761;TZ-16;16;Morogoro;AF;TZ
+3762;TZ-17;17;Mtwara;AF;TZ
+3763;TZ-18;18;Mwanza;AF;TZ
+3764;TZ-19;19;Pwani;AF;TZ
+3765;TZ-20;20;Rukwa;AF;TZ
+3766;TZ-21;21;Ruvuma;AF;TZ
+3767;TZ-22;22;Shinyanga;AF;TZ
+3768;TZ-23;23;Singida;AF;TZ
+3769;TZ-24;24;Tabora;AF;TZ
+3770;TZ-25;25;Tanga;AF;TZ
+3771;TZ-26;26;Manyara;AF;TZ
+3772;TZ-U-A;U-A;(unassigned);AF;TZ
+3773;UA-05;5;Vinnytsia;EU;UA
+3774;UA-07;7;Volyn;EU;UA
+3775;UA-09;9;Luhansk;EU;UA
+3776;UA-12;12;Dnipropetrovsk;EU;UA
+3777;UA-14;14;Donetsk;EU;UA
+3778;UA-18;18;Zhytomyr;EU;UA
+4560;UA-19;19;Rivne;EU;UA
+3779;UA-21;21;Zakarpattia;EU;UA
+3780;UA-23;23;Zaporizhia;EU;UA
+3781;UA-26;26;Ivano-Frankivsk;EU;UA
+3782;UA-30;30;Kiev (city);EU;UA
+3783;UA-32;32;Kiev;EU;UA
+3784;UA-35;35;Kirovohrad;EU;UA
+3785;UA-40;40;Sevastopol (city);EU;UA
+3786;UA-43;43;Crimea;EU;UA
+3787;UA-46;46;Lviv;EU;UA
+3788;UA-48;48;Mykolaiv;EU;UA
+3789;UA-51;51;Odessa;EU;UA
+3790;UA-53;53;Poltava;EU;UA
+3791;UA-56;56;Rivnens'ka Oblast';EU;UA
+3792;UA-59;59;Sumy;EU;UA
+3793;UA-61;61;Ternopil;EU;UA
+3794;UA-63;63;Kharkiv;EU;UA
+3795;UA-65;65;Kherson;EU;UA
+3796;UA-68;68;Khmelnytskyi;EU;UA
+3797;UA-71;71;Cherkasy;EU;UA
+3798;UA-74;74;Chernihiv;EU;UA
+3799;UA-77;77;Chernivtsi;EU;UA
+3800;UA-U-A;U-A;(unassigned);EU;UA
+3801;UG-101;101;Kalangala District;AF;UG
+3802;UG-102;102;Kampala District;AF;UG
+3803;UG-103;103;Kiboga District;AF;UG
+3804;UG-104;104;Luwero District;AF;UG
+3805;UG-105;105;Masaka District;AF;UG
+3806;UG-106;106;Mpigi District;AF;UG
+3807;UG-107;107;Mubende District;AF;UG
+3808;UG-108;108;Mukono District;AF;UG
+3809;UG-109;109;Nakasongola District;AF;UG
+3810;UG-110;110;Rakai District;AF;UG
+3811;UG-111;111;Sembabule District;AF;UG
+3812;UG-112;112;Kayunga District;AF;UG
+3813;UG-113;113;Wakiso District;AF;UG
+3814;UG-201;201;Bugiri District;AF;UG
+3815;UG-202;202;Busia District;AF;UG
+3816;UG-203;203;Iganga District;AF;UG
+3817;UG-204;204;Jinja District;AF;UG
+3818;UG-205;205;Kamuli District;AF;UG
+3819;UG-206;206;Kapchorwa District;AF;UG
+3820;UG-207;207;Katakwi District;AF;UG
+3821;UG-208;208;Kumi District;AF;UG
+3822;UG-209;209;Mbale District;AF;UG
+3823;UG-210;210;Pallisa District;AF;UG
+3824;UG-211;211;Soroti District;AF;UG
+3825;UG-212;212;Tororo District;AF;UG
+3826;UG-213;213;Kaberamaido District;AF;UG
+3827;UG-214;214;Mayuge District;AF;UG
+3828;UG-215;215;Sironko District;AF;UG
+3829;UG-301;301;Adjumani District;AF;UG
+3830;UG-302;302;Apac District;AF;UG
+3831;UG-303;303;Arua District;AF;UG
+3832;UG-304;304;Gulu District;AF;UG
+3833;UG-305;305;Kitgum District;AF;UG
+3834;UG-306;306;Kotido District;AF;UG
+3835;UG-307;307;Lira District;AF;UG
+3836;UG-308;308;Moroto District;AF;UG
+3837;UG-309;309;Moyo District;AF;UG
+3838;UG-310;310;Nebbi District;AF;UG
+3839;UG-311;311;Nakapiripirit District;AF;UG
+3840;UG-312;312;Pader District;AF;UG
+3841;UG-313;313;Yumbe District;AF;UG
+3842;UG-401;401;Bundibugyo District;AF;UG
+3843;UG-402;402;Bushenyi District;AF;UG
+3844;UG-403;403;Hoima District;AF;UG
+3845;UG-404;404;Kabale District;AF;UG
+3846;UG-405;405;Kabarole District;AF;UG
+3847;UG-406;406;Kasese District;AF;UG
+3848;UG-407;407;Kibaale District;AF;UG
+3849;UG-408;408;Kisoro District;AF;UG
+3850;UG-409;409;Masindi District;AF;UG
+3851;UG-410;410;Mbarara District;AF;UG
+3852;UG-411;411;Ntungamo District;AF;UG
+3853;UG-412;412;Rukungiri District;AF;UG
+3854;UG-413;413;Kamwenge District;AF;UG
+3855;UG-414;414;Kanungu District;AF;UG
+3856;UG-415;415;Kyenjojo District;AF;UG
+3857;UG-U-A;U-A;(unassigned);AF;UG
+3858;UM-67;67;Johnston Atoll;OC;UM
+3859;UM-71;71;Midway Islands;OC;UM
+3860;UM-76;76;Navassa Island;OC;UM
+3861;UM-79;79;Wake Island;OC;UM
+3862;UM-81;81;Baker Island;OC;UM
+3863;UM-84;84;Howland Island;OC;UM
+3864;UM-86;86;Jarvis Island;OC;UM
+3865;UM-89;89;Kingman Reef;OC;UM
+3866;UM-95;95;Palmyra Atoll;OC;UM
+3867;UM-U-A;U-A;(unassigned);OC;UM
+3870;US-AK;AK;Alaska;NA;US
+3871;US-AL;AL;Alabama;NA;US
+3873;US-AR;AR;Arkansas;NA;US
+3875;US-AZ;AZ;Arizona;NA;US
+3876;US-CA;CA;California;NA;US
+3877;US-CO;CO;Colorado;NA;US
+3878;US-CT;CT;Connecticut;NA;US
+3879;US-DC;DC;District of Columbia;NA;US
+3880;US-DE;DE;Delaware;NA;US
+3881;US-FL;FL;Florida;NA;US
+3882;US-GA;GA;Georgia;NA;US
+3884;US-HI;HI;Hawaii;NA;US
+3885;US-IA;IA;Iowa;NA;US
+3886;US-ID;ID;Idaho;NA;US
+3887;US-IL;IL;Illinois;NA;US
+3888;US-IN;IN;Indiana;NA;US
+3889;US-KS;KS;Kansas;NA;US
+3890;US-KY;KY;Kentucky;NA;US
+3891;US-LA;LA;Louisiana;NA;US
+3892;US-MA;MA;Massachusetts;NA;US
+3893;US-MD;MD;Maryland;NA;US
+3894;US-ME;ME;Maine;NA;US
+3895;US-MI;MI;Michigan;NA;US
+3896;US-MN;MN;Minnesota;NA;US
+3897;US-MO;MO;Missouri;NA;US
+3899;US-MS;MS;Mississippi;NA;US
+3900;US-MT;MT;Montana;NA;US
+3901;US-NC;NC;North Carolina;NA;US
+3902;US-ND;ND;North Dakota;NA;US
+3903;US-NE;NE;Nebraska;NA;US
+3904;US-NH;NH;New Hampshire;NA;US
+3905;US-NJ;NJ;New Jersey;NA;US
+3906;US-NM;NM;New Mexico;NA;US
+3907;US-NV;NV;Nevada;NA;US
+3908;US-NY;NY;New York;NA;US
+3909;US-OH;OH;Ohio;NA;US
+3910;US-OK;OK;Oklahoma;NA;US
+3911;US-OR;OR;Oregon;NA;US
+3912;US-PA;PA;Pennsylvania;NA;US
+3914;US-RI;RI;Rhode Island;NA;US
+3915;US-SC;SC;South Carolina;NA;US
+3916;US-SD;SD;South Dakota;NA;US
+3917;US-TN;TN;Tennessee;NA;US
+3918;US-TX;TX;Texas;NA;US
+3919;US-U-A;U-A;(unassigned);NA;US
+3921;US-UT;UT;Utah;NA;US
+3922;US-VA;VA;Virginia;NA;US
+3924;US-VT;VT;Vermont;NA;US
+3925;US-WA;WA;Washington;NA;US
+3926;US-WI;WI;Wisconsin;NA;US
+3927;US-WV;WV;West Virginia;NA;US
+3928;US-WY;WY;Wyoming;NA;US
+3929;UY-AR;AR;Artigas;SA;UY
+3930;UY-CA;CA;Canelones;SA;UY
+3931;UY-CL;CL;Cerro Largo;SA;UY
+3932;UY-CO;CO;Colonia;SA;UY
+3933;UY-DU;DU;Durazno;SA;UY
+3934;UY-FD;FD;Florida;SA;UY
+3935;UY-FS;FS;Flores;SA;UY
+3936;UY-LA;LA;Lavalleja;SA;UY
+3937;UY-MA;MA;Maldonado;SA;UY
+3938;UY-MO;MO;Montevideo;SA;UY
+3939;UY-PA;PA;Paysandu;SA;UY
+3940;UY-RN;RN;Río Negro;SA;UY
+3941;UY-RO;RO;Rocha;SA;UY
+3942;UY-RV;RV;Rivera;SA;UY
+3943;UY-SA;SA;Salto;SA;UY
+3944;UY-SJ;SJ;San José;SA;UY
+3945;UY-SO;SO;Soriano;SA;UY
+3946;UY-TA;TA;Tacuarembo;SA;UY
+3947;UY-TT;TT;Treinta y Tres;SA;UY
+3948;UY-U-A;U-A;(unassigned);SA;UY
+3949;UZ-AN;AN;Andijon;AS;UZ
+3950;UZ-BU;BU;Buxoro;AS;UZ
+3951;UZ-FA;FA;Farg'ona;AS;UZ
+3952;UZ-JI;JI;Jizzax;AS;UZ
+3953;UZ-KH;KH;Khorazm;AS;UZ
+3954;UZ-NG;NG;Namangan;AS;UZ
+3955;UZ-NW;NW;Navoiy;AS;UZ
+3956;UZ-QA;QA;Qashqadaryo;AS;UZ
+3957;UZ-QR;QR;Qoraqalpogiston Respublikasi;AS;UZ
+3958;UZ-SA;SA;Samarqand;AS;UZ
+3959;UZ-SI;SI;Sirdaryo;AS;UZ
+3960;UZ-SU;SU;Surxondaryo;AS;UZ
+3961;UZ-TK;TK;Toshkent;AS;UZ
+3962;UZ-TO;TO;Toshkent;AS;UZ
+3963;UZ-U-A;U-A;(unassigned);AS;UZ
+3964;UZ-XO;XO;Xorazm;AS;UZ
+4745;VA-U-A;U-A;(unassigned);EU;VA
+4561;VC-01;1;Charlotte;NA;VC
+4562;VC-02;2;Saint Andrew;NA;VC
+4563;VC-03;3;Saint David;NA;VC
+4564;VC-04;4;Saint George;NA;VC
+4565;VC-05;5;Saint Patrick;NA;VC
+4566;VC-06;6;Grenadines;NA;VC
+3965;VC-U-A;U-A;(unassigned);NA;VC
+3966;VE-A;A;Distrito Federal;SA;VE
+3967;VE-B;B;Anzoategui;SA;VE
+3968;VE-C;C;Apure;SA;VE
+3969;VE-D;D;Aragua;SA;VE
+3970;VE-E;E;Barinas;SA;VE
+3971;VE-F;F;Bolívar;SA;VE
+3972;VE-G;G;Carabobo;SA;VE
+3973;VE-H;H;Cojedes;SA;VE
+3974;VE-I;I;Falcon;SA;VE
+3975;VE-J;J;Guarico;SA;VE
+3976;VE-K;K;Lara;SA;VE
+3977;VE-L;L;Merida;SA;VE
+3978;VE-M;M;Miranda;SA;VE
+3979;VE-N;N;Monagas;SA;VE
+3980;VE-O;O;Nueva Esparta;SA;VE
+3981;VE-P;P;Portuguesa;SA;VE
+3982;VE-R;R;Sucre;SA;VE
+3983;VE-S;S;Tachira;SA;VE
+3984;VE-T;T;Trujillo;SA;VE
+3985;VE-U;U;Yaracuy;SA;VE
+3986;VE-U-A;U-A;(unassigned);SA;VE
+3987;VE-V;V;Zulia;SA;VE
+3988;VE-W;W;Dependencias Federales;SA;VE
+3989;VE-X;X;Vargas;SA;VE
+3990;VE-Y;Y;Delta Amacuro;SA;VE
+3991;VE-Z;Z;Amazonas;SA;VE
+3992;VG-U-A;U-A;(unassigned);NA;VG
+3993;VI-U-A;U-A;(unassigned);NA;VI
+3994;VN-01;1;Lai Chau;AS;VN
+3995;VN-02;2;Lao Cai;AS;VN
+3996;VN-03;3;Ha Giang;AS;VN
+3997;VN-04;4;Cao Bang;AS;VN
+3998;VN-05;5;Son La;AS;VN
+3999;VN-06;6;Yen Bai;AS;VN
+4000;VN-07;7;Tuyen Quang;AS;VN
+4001;VN-09;9;Lang Son;AS;VN
+4002;VN-13;13;Quang Ninh;AS;VN
+4003;VN-14;14;Hoa Binh;AS;VN
+4004;VN-15;15;Ha Tay;AS;VN
+4005;VN-18;18;Ninh Binh;AS;VN
+4006;VN-20;20;Thai Binh;AS;VN
+4007;VN-21;21;Thanh Hoa;AS;VN
+4008;VN-22;22;Nghe An;AS;VN
+4009;VN-23;23;Ha Tinh;AS;VN
+4010;VN-24;24;Quang Binh;AS;VN
+4011;VN-25;25;Quang Tri;AS;VN
+4012;VN-26;26;Thua Thien-Hue;AS;VN
+4013;VN-27;27;Quang Nam;AS;VN
+4014;VN-28;28;Kon Tum;AS;VN
+4015;VN-29;29;Quang Ngai;AS;VN
+4016;VN-30;30;Gia Lai;AS;VN
+4017;VN-31;31;Binh Dinh;AS;VN
+4018;VN-32;32;Phu Yen;AS;VN
+4019;VN-33;33;Dac Lac;AS;VN
+4020;VN-34;34;Khanh Hoa;AS;VN
+4021;VN-35;35;Lam Dong;AS;VN
+4022;VN-36;36;Ninh Thuan;AS;VN
+4023;VN-37;37;Tay Ninh;AS;VN
+4024;VN-39;39;Dong Nai;AS;VN
+4025;VN-40;40;Binh Thuan;AS;VN
+4026;VN-41;41;Long An;AS;VN
+4027;VN-43;43;Ba Ria - Vung Tau;AS;VN
+4028;VN-44;44;An Giang;AS;VN
+4029;VN-45;45;Dong Thap;AS;VN
+4030;VN-46;46;Tien Giang;AS;VN
+4031;VN-47;47;Kien Giang;AS;VN
+4032;VN-48;48;Can Tho;AS;VN
+4033;VN-49;49;Vinh Long;AS;VN
+4034;VN-50;50;Ben Tre;AS;VN
+4035;VN-51;51;Tra Vinh;AS;VN
+4036;VN-52;52;Soc Trang;AS;VN
+4037;VN-53;53;Bac Can;AS;VN
+4038;VN-54;54;Bac Giang;AS;VN
+4039;VN-55;55;Bac Lieu;AS;VN
+4040;VN-56;56;Bac Ninh;AS;VN
+4041;VN-57;57;Binh Duong;AS;VN
+4042;VN-58;58;Binh Phuoc;AS;VN
+4043;VN-59;59;Ca Mau;AS;VN
+4044;VN-60;60;Da Nang, thanh pho;AS;VN
+4045;VN-61;61;Hai Duong;AS;VN
+4046;VN-62;62;Hai Phong, thanh pho;AS;VN
+4047;VN-63;63;Ha Nam;AS;VN
+4048;VN-64;64;Ha Noi, thu do;AS;VN
+4049;VN-65;65;Ho Chi Minh, thanh pho;AS;VN
+4050;VN-66;66;Hung Yen;AS;VN
+4051;VN-67;67;Nam Dinh;AS;VN
+4052;VN-68;68;Phu Tho;AS;VN
+4053;VN-69;69;Thai Nguyen;AS;VN
+4054;VN-70;70;Vinh Phuc;AS;VN
+4055;VN-U-A;U-A;(unassigned);AS;VN
+4056;VU-MAP;MAP;Malampa;OC;VU
+4057;VU-PAM;PAM;Penama;OC;VU
+4058;VU-SAM;SAM;Sanma;OC;VU
+4059;VU-SEE;SEE;Shefa;OC;VU
+4060;VU-TAE;TAE;Tafea;OC;VU
+4061;VU-TOB;TOB;Torba;OC;VU
+4062;VU-U-A;U-A;(unassigned);OC;VU
+4063;WF-U-A;U-A;(unassigned);OC;WF
+4064;WS-AA;AA;A'ana District;OC;WS
+4065;WS-AL;AL;Aiga-i-le-Tai District;OC;WS
+4066;WS-AT;AT;Atua District;OC;WS
+4067;WS-FA;FA;Fa'aaaleleaga District;OC;WS
+4068;WS-GE;GE;Gaga'emauga District;OC;WS
+4069;WS-GI;GI;Gagaifomauga District;OC;WS
+4070;WS-PA;PA;Palauli District;OC;WS
+4071;WS-SA;SA;Satupa'itea District;OC;WS
+4072;WS-TU;TU;Tuamasaga District;OC;WS
+4073;WS-U-A;U-A;(unassigned);OC;WS
+4074;WS-VF;VF;Va'a-o-Fonoti District;OC;WS
+4075;WS-VS;VS;Vaisigano District;OC;WS
+4076;YE-AB;AB;Abyan Governorate;AS;YE
+4077;YE-AD;AD;Adan Governorate;AS;YE
+4078;YE-AM;AM;Amran Governorate;AS;YE
+4079;YE-BA;BA;Al Bayda' Governorate;AS;YE
+4080;YE-DA;DA;Ad Dali Governorate;AS;YE
+4081;YE-DH;DH;Dhamar Governorate;AS;YE
+4082;YE-HD;HD;Hadramawt Governorate;AS;YE
+4083;YE-HJ;HJ;Hajjah Governorate;AS;YE
+4567;YE-HU;HU;Al Hydaydah Governorate;AS;YE
+4084;YE-IB;IB;Ibb Governorate;AS;YE
+4568;YE-JA;JA;Al Jawf Governorate;AS;YE
+4085;YE-LA;LA;Lahij Governorate;AS;YE
+4086;YE-MA;MA;Ma'rib Governorate;AS;YE
+4087;YE-MR;MR;Al Mahrah Governorate;AS;YE
+4088;YE-MU;MU;Al Hudaydah Governorate;AS;YE
+4089;YE-MW;MW;Al Mahwit Governorate;AS;YE
+4090;YE-SD;SD;Sa'dah Governorate;AS;YE
+4091;YE-SH;SH;Shabwah Governorate;AS;YE
+4092;YE-SN;SN;San'a' Governorate;AS;YE
+4093;YE-TA;TA;Ta'izz Governorate;AS;YE
+4094;YE-U-A;U-A;(unassigned);AS;YE
+4095;YT-U-A;U-A;(unassigned);AF;YT
+4096;ZA-EC;EC;Eastern Cape;AF;ZA
+4097;ZA-FS;FS;Free State;AF;ZA
+4098;ZA-GT;GT;Gauteng;AF;ZA
+4099;ZA-MP;MP;Mpumalanga;AF;ZA
+4100;ZA-NC;NC;Northern Cape;AF;ZA
+4101;ZA-NL;NL;Kwazulu-Natal;AF;ZA
+4102;ZA-NP;NP;Limpopo;AF;ZA
+4103;ZA-NW;NW;North-West;AF;ZA
+4104;ZA-U-A;U-A;(unassigned);AF;ZA
+4105;ZA-WC;WC;Western Cape;AF;ZA
+4186;ZM-01;1;Western Province;AF;ZM
+4185;ZM-02;2;Central Province;AF;ZM
+4184;ZM-03;3;Eastern Province;AF;ZM
+4106;ZM-04;4;Luapula Province;AF;ZM
+4183;ZM-05;5;Northern Province;AF;ZM
+4107;ZM-06;6;North-Western Province;AF;ZM
+4187;ZM-07;7;Southern Province;AF;ZM
+4108;ZM-08;8;Copperbelt Province;AF;ZM
+4109;ZM-09;9;Lusaka Province;AF;ZM
+4110;ZM-U-A;U-A;(unassigned);AF;ZM
+4111;ZW-BU;BU;Bulawayo;AF;ZW
+4112;ZW-HA;HA;Harare;AF;ZW
+4113;ZW-MA;MA;Manicaland;AF;ZW
+4114;ZW-MC;MC;Mashonaland Central;AF;ZW
+4115;ZW-ME;ME;Mashonaland East;AF;ZW
+4116;ZW-MI;MI;Midlands;AF;ZW
+4117;ZW-MN;MN;Matabeleland North;AF;ZW
+4118;ZW-MS;MS;Matabeleland South;AF;ZW
+4119;ZW-MV;MV;Masvingo;AF;ZW
+4120;ZW-MW;MW;Mashonaland West;AF;ZW
+4121;ZW-U-A;U-A;(unassigned);AF;ZW
+4122;ZZ-U-A;U-A;(unassigned);AF;ZZ
