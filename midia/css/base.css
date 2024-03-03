@@ -1,0 +1,69 @@
+/*########################
+# IPis - ©2012           #
+# http://www.ipis.com.br #
+# Code by Fernando Lima  #
+# info@ipis.com.br       #
+# (55)(84) 8833-2668     #
+########################*/
+
+/*********
+ # GERAL #
+ *********/
+
+img {border:0;}
+br {height:10px; font-size:10px;}
+table {width:100%; height:100%;}
+tr {vertical-align:middle;}
+td {width:100%; text-align:center;}
+
+/********
+ # LINK #
+ ********/
+
+a {text-decoration:none;}
+a:link {color:black;}
+a:visited {color:black;}
+a:hover {color:blue;}
+a:active {color:black;}
+a#Vermelho:link {color:red;}
+a#Vermelho:visited {color:red;}
+a#Vermelho:hover {color:black;}
+a#Vermelho:active {color:red;}
+a#Azul:link {color:blue;}
+a#Azul:visited {color:blue;}
+a#Azul:hover {color:black;}
+a#Azul:active {color:blue;}
+
+/*********
+ # COMUM #
+ *********/
+
+.Cursor {cursor:pointer;}
+.Texto {font-family:Verdana; font-size:11px; color:black;}
+.Paragrafo {text-indent:30px; text-align:justify;}
+.Esq {text-align:left;}
+.Centro {text-align:center;}
+.Dir {text-align:right;}
+
+/*******
+ # DIV #
+ *******/
+
+.Div {width:100%; height:auto;}
+.DivTab {width:100%; height:100%; display:table;}
+.DivTab_Lin {width:auto; height:auto; display:table-row;}
+.DivTab_Cel {width:auto; height:inherit; display:table-cell; vertical-align:middle;}
+
+/********
+ # BODY #
+ ********/
+
+.Body {width:100%; height:100%; position:absolute; top:0px; left:0px; margin:0px; overflow-x:hidden; overflow-y:auto; background:#F8F8F8;}
+.Body_Carregando {width:inherit; height:inherit; margin:auto; display:table;}
+.Body_Carregado {width:inherit; height:inherit; margin:auto; display:none;}
+.Body_Conteudo {width:inherit; height:inherit; display:table-cell; vertical-align:middle; text-align:center;}
+
+/*** Boxes ***/
+
+.Body_PopUP {width:50%; height:30%; background:#FFFFFF; display:none; position:absolute; top:35%; left:25%; margin:0px; overflow-x:hidden; overflow-y:auto;}
+.Body_Box {width:50%; height:60%; background:#F8F8F8; display:block; position:absolute; top:20%; left:25%; margin:0px; overflow:hidden;}
