@@ -1,0 +1,31 @@
+# 
+# IPis® - http://www.ipis.com.br
+# Script by Fernando Lima (info@ipis.com.br)
+# 
+# IP.Base v3.0.3.0 (192.168.10.15) - Demonstração
+# Sistema de LOG's
+# 22/06/2012 - 23:10:49
+# 
+# Execução de backup automático (base_v3_0)
+# 
+22/06/2012 23:10:49 | Conectado ao servidor [ localhost ]
+22/06/2012 23:10:49 | A base [ base_v3_0 ] foi identificada e 7 tabelas foram coletadas para execução
+22/06/2012 23:10:49 | A tabela [ acoes ] foi identificada e 62 registro(s) foram coletados
+22/06/2012 23:10:49 | A tabela [ backup ] foi identificada e 0 registro(s) foram coletados
+22/06/2012 23:10:49 | A tabela [ base ] foi identificada e 1 registro(s) foram coletados
+22/06/2012 23:10:49 | A tabela [ log ] foi identificada e 2 registro(s) foram coletados
+22/06/2012 23:10:49 | A tabela [ log_eventos ] foi identificada e 3 registro(s) foram coletados
+22/06/2012 23:10:49 | A tabela [ sessao ] foi identificada e 1 registro(s) foram coletados
+22/06/2012 23:10:49 | A tabela [ tabela ] foi identificada e 0 registro(s) foram coletados
+22/06/2012 23:10:49 | O arquivo [ 20120622.231049.base_v3_0.auto.sql ] de backup foi criado e o processo foi iniciado
+22/06/2012 23:10:49 | A tabela [ sis_acoes ] foi copiada com sucesso
+22/06/2012 23:10:49 | A tabela [ sis_backup ] foi copiada com sucesso
+22/06/2012 23:10:49 | A tabela [ sis_base ] foi copiada com sucesso
+22/06/2012 23:10:49 | A tabela [ sis_log ] foi copiada com sucesso
+22/06/2012 23:10:49 | A tabela [ sis_log_eventos ] foi copiada com sucesso
+22/06/2012 23:10:49 | A tabela [ sis_sessao ] foi copiada com sucesso
+22/06/2012 23:10:49 | A tabela [ sis_tabela ] foi copiada com sucesso
+22/06/2012 23:10:49 | O backup foi concluído e o processo gerou um arquivo de 28.95 Kb
+22/06/2012 23:10:49 | O arquivo de backup foi compactado [ 20120622.231049.base_v3_0.auto.sql.gz ] para 7.33 Kb
+22/06/2012 23:10:49 | O Sistema alterou as permissões do arquivo de backup para 420
+22/06/2012 23:10:49 | Processo finalizado em menos de 1 segundo

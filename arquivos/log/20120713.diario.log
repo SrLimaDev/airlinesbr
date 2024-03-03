@@ -1,0 +1,33 @@
+# 
+# IPis® - http://www.ipis.com.br
+# Script by Fernando Lima (info@ipis.com.br)
+# 
+# IP.Voo v1.0.3.0 (192.168.10.15) - Demonstração
+# Sistema de LOG's
+# 13/07/2012 - 12:49:34
+# 
+# Diário de 13/07/2012
+# 
+13/07/2012 12:49:33 | Sessão iniciada
+13/07/2012 12:49:34 | O sistema encerrou uma sessão ainda ativa [ 192.168.10.15 - Firefox 11.0 ] do usuário e iniciou uma nova
+13/07/2012 12:49:34 | O Sistema criou o registro e o arquivo do log [ Diário de 13/07/2012 ]
+13/07/2012 12:49:37 | O Sistema criou o registro e o arquivo do log [ Execução de backup automático (voo_v1_0) ]
+13/07/2012 12:49:38 | O Sistema executou backup automático da base [ voo_v1_0 ] e gerou um arquivo (compactado) de 299.24 Kb
+13/07/2012 17:19:00 | Fernando Lima cadastrou o avião [  -  ]
+13/07/2012 17:22:54 | Sessão encerrada pelo sistema (usuário iniciou uma nova sessão)
+13/07/2012 17:22:54 | Sessão iniciada
+13/07/2012 17:22:54 | O sistema encerrou uma sessão ainda ativa [ 192.168.10.15 - Firefox 11.0 ] do usuário e iniciou uma nova
+13/07/2012 17:22:59 | Fernando Lima cadastrou o avião [  -  ]
+13/07/2012 17:23:25 | Fernando Lima cadastrou o avião [  -  ]
+13/07/2012 17:23:30 | Fernando Lima cadastrou o avião [  -  ]
+13/07/2012 17:23:36 | Fernando Lima cadastrou o avião [  -  ]
+13/07/2012 17:35:51 | Sessão encerrada pelo sistema (usuário iniciou uma nova sessão)
+13/07/2012 17:35:51 | Sessão iniciada
+13/07/2012 17:35:51 | O sistema encerrou uma sessão ainda ativa [ 192.168.10.15 - Internet Explorer 8.0 ] do usuário e iniciou uma nova
+13/07/2012 17:39:01 | Fernando Lima cadastrou o avião [  -  ]
+13/07/2012 18:57:56 | Fernando Lima cadastrou o avião [  -  ]
+13/07/2012 18:58:56 | Fernando Lima cadastrou o avião [  -  ]
+13/07/2012 23:50:09 | Sessão encerrada pelo sistema (Inatividade)
+13/07/2012 23:50:09 | Sessão iniciada
+13/07/2012 23:50:09 | O sistema permitiu, conforme configurações, a criação de uma nova sessão para [ Fernando Lima ] quando já existia sessão ativa para o mesmo
+14/07/2012 00:10:18 | Sessão encerrada pelo sistema (Inatividade)

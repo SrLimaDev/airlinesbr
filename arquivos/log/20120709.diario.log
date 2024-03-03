@@ -1,0 +1,16 @@
+# 
+# IPis® - http://www.ipis.com.br
+# Script by Fernando Lima (info@ipis.com.br)
+# 
+# IP.Voo v1.0.3.0 (192.168.10.15) - Demonstração
+# Sistema de LOG's
+# 09/07/2012 - 18:11:21
+# 
+# Diário de 09/07/2012
+# 
+09/07/2012 18:11:21 | Sessão iniciada
+09/07/2012 18:11:22 | O Sistema criou o registro e o arquivo do log [ Diário de 09/07/2012 ]
+09/07/2012 18:11:24 | O Sistema criou o registro e o arquivo do log [ Execução de backup automático (voo_v1_0) ]
+09/07/2012 18:11:25 | O Sistema executou backup automático da base [ voo_v1_0 ] e gerou um arquivo (compactado) de 295.39 Kb
+09/07/2012 20:02:00 | Fernando Lima cadastrou o aeroporto [ Natal - AET ]
+10/07/2012 11:13:40 | Sessão encerrada pelo sistema (usuário iniciou uma nova sessão)

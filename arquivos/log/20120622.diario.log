@@ -1,0 +1,15 @@
+# 
+# IPis® - http://www.ipis.com.br
+# Script by Fernando Lima (info@ipis.com.br)
+# 
+# IP.Base v3.0.3.0 (192.168.10.15) - Demonstração
+# Sistema de LOG's
+# 22/06/2012 - 23:10:46
+# 
+# Diário de 22/06/2012
+# 
+22/06/2012 23:10:46 | Sessão iniciada
+22/06/2012 23:10:46 | O Sistema criou o registro e o arquivo do log [ Diário de 22/06/2012 ]
+22/06/2012 23:10:49 | O Sistema criou o registro e o arquivo do log [ Execução de backup automático (base_v3_0) ]
+22/06/2012 23:10:49 | O Sistema executou backup automático da base [ base_v3_0 ] e gerou um arquivo (compactado) de 7.33 Kb
+22/06/2012 23:25:34 | Sessão encerrada por Fernando Lima

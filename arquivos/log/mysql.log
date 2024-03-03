@@ -1,0 +1,9 @@
+24/07/2012 15:50:46 | 1054 | Unknown column 'IATA_ID' in 'field list'  | SELECT Codigo, IATA_ID, Pais FROM avioes ORDER BY IATA_ID | voo_v1_0:localhost:Consulta
+24/07/2012 15:50:46 | 1054 | Unknown column 'IATA_ID' in 'field list'  | SELECT Codigo, IATA_ID, Pais FROM avioes ORDER BY IATA_ID | voo_v1_0:localhost:Registros
+21/08/2012 13:20:21 | 1054 | Unknown column 'IATA_ID' in 'field list'  | SELECT Codigo, IATA_ID, Pais FROM avioes ORDER BY IATA_ID | voo_v1_0:localhost:Consulta
+21/08/2012 13:20:21 | 1054 | Unknown column 'IATA_ID' in 'field list'  | SELECT Codigo, IATA_ID, Pais FROM avioes ORDER BY IATA_ID | voo_v1_0:localhost:Registros
+21/08/2012 13:38:43 | 1054 | Unknown column 'Tipo' in 'field list'  | SELECT Codigo, Nome, Tipo FROM empresas ORDER BY Nome ASC | voo_v1_0:localhost:Consulta
+21/08/2012 13:38:43 | 1054 | Unknown column 'Tipo' in 'field list'  | SELECT Codigo, Nome, Tipo FROM empresas ORDER BY Nome ASC | voo_v1_0:localhost:Registros
+21/08/2012 13:39:05 | 1054 | Unknown column 'Tipo' in 'field list'  | SELECT Codigo, Nome, Tipo FROM empresas ORDER BY Nome ASC | voo_v1_0:localhost:Consulta
+21/08/2012 13:39:05 | 1054 | Unknown column 'Tipo' in 'field list'  | SELECT Codigo, Nome, Tipo FROM empresas ORDER BY Nome ASC | voo_v1_0:localhost:Registros
+19/02/2013 16:23:54 | 1366 | Incorrect string value: '\xE1rio' for column 'Tipo' at row 1  | INSERT INTO sis_log                                   ( Tipo, Nome, DB, Diretorio, Arquivo, Arquivo_URL, Tamanho, Tamanho_Bytes, Data, Hora, Usuario )                            VALUES ( "Diário", "Diário de 19022013", 1, "arquivoslog", "20130219.diario.log", "arquivoslog20130219.diario.log", "215 Bytes", "215", "2013-02-19", "16:23:54", "TFdNek1PalU=" ) | voo_v1_0:localhost:Consulta

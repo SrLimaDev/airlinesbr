@@ -1,0 +1,21 @@
+# 
+# IPis® - http://www.ipis.com.br
+# Script by Fernando Lima (info@ipis.com.br)
+# 
+# IP.Voo v1.0.3.0 (192.168.10.15) - Demonstração
+# Sistema de LOG's
+# 14/07/2012 - 00:10:19
+# 
+# Diário de 14/07/2012
+# 
+14/07/2012 00:10:18 | Sessão iniciada
+14/07/2012 00:10:19 | O sistema permitiu, conforme configurações, a criação de uma nova sessão para [ Fernando Lima ] quando já existia sessão ativa para o mesmo
+14/07/2012 00:10:19 | O Sistema criou o registro e o arquivo do log [ Diário de 14/07/2012 ]
+14/07/2012 00:10:21 | O Sistema criou o registro e o arquivo do log [ Execução de backup automático (voo_v1_0) ]
+14/07/2012 00:10:22 | O Sistema executou backup automático da base [ voo_v1_0 ] e gerou um arquivo (compactado) de 300.33 Kb
+14/07/2012 00:12:14 | Sessão encerrada pelo sistema (Inatividade)
+14/07/2012 00:12:14 | Sessão iniciada
+14/07/2012 00:12:14 | O sistema permitiu, conforme configurações, a criação de uma nova sessão para [ Fernando Lima ] quando já existia sessão ativa para o mesmo
+14/07/2012 00:32:17 | Sessão encerrada por Fernando Lima
+14/07/2012 13:13:03 | Sessão iniciada
+14/07/2012 19:18:42 | Sessão encerrada por Fernando Lima

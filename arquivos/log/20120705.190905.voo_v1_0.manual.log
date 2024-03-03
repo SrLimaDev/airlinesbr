@@ -1,0 +1,61 @@
+# 
+# IPis® - http://www.ipis.com.br
+# Script by Fernando Lima (info@ipis.com.br)
+# 
+# IP.Voo v1.0.3.0 (192.168.10.15) - Demonstração
+# Sistema de LOG's
+# 05/07/2012 - 19:09:05
+# 
+# Execução de backup manual (voo_v1_0)
+# 
+05/07/2012 19:09:05 | Conectado ao servidor [ localhost ]
+05/07/2012 19:09:05 | A base [ voo_v1_0 ] foi identificada e 22 tabelas foram coletadas para execução
+05/07/2012 19:09:05 | A tabela [ _continents ] foi identificada e 7 registro(s) foram coletados
+05/07/2012 19:09:05 | A tabela [ _continents_br ] foi identificada e 7 registro(s) foram coletados
+05/07/2012 19:09:05 | A tabela [ _countries ] foi identificada e 245 registro(s) foram coletados
+05/07/2012 19:09:05 | A tabela [ _countries_br ] foi identificada e 245 registro(s) foram coletados
+05/07/2012 19:09:05 | A tabela [ _paises ] foi identificada e 244 registro(s) foram coletados
+05/07/2012 19:09:05 | A tabela [ _regions ] foi identificada e 4089 registro(s) foram coletados
+05/07/2012 19:09:05 | A tabela [ aeroportos ] foi identificada e 5914 registro(s) foram coletados
+05/07/2012 19:09:05 | A tabela [ aeroportos_bases ] foi identificada e 0 registro(s) foram coletados
+05/07/2012 19:09:05 | A tabela [ avioes ] foi identificada e 0 registro(s) foram coletados
+05/07/2012 19:09:05 | A tabela [ empresas ] foi identificada e 0 registro(s) foram coletados
+05/07/2012 19:09:05 | A tabela [ empresas_avioes ] foi identificada e 0 registro(s) foram coletados
+05/07/2012 19:09:05 | A tabela [ empresas_hubs ] foi identificada e 0 registro(s) foram coletados
+05/07/2012 19:09:05 | A tabela [ empresas_slots ] foi identificada e 0 registro(s) foram coletados
+05/07/2012 19:09:05 | A tabela [ fabricantes ] foi identificada e 0 registro(s) foram coletados
+05/07/2012 19:09:05 | A tabela [ jogadores ] foi identificada e 1 registro(s) foram coletados
+05/07/2012 19:09:05 | A tabela [ acoes ] foi identificada e 62 registro(s) foram coletados
+05/07/2012 19:09:05 | A tabela [ backup ] foi identificada e 1 registro(s) foram coletados
+05/07/2012 19:09:05 | A tabela [ base ] foi identificada e 1 registro(s) foram coletados
+05/07/2012 19:09:05 | A tabela [ log ] foi identificada e 6 registro(s) foram coletados
+05/07/2012 19:09:05 | A tabela [ log_eventos ] foi identificada e 65 registro(s) foram coletados
+05/07/2012 19:09:05 | A tabela [ sessao ] foi identificada e 13 registro(s) foram coletados
+05/07/2012 19:09:05 | A tabela [ tabela ] foi identificada e 0 registro(s) foram coletados
+05/07/2012 19:09:05 | O arquivo [ 20120705.190905.voo_v1_0.manual.sql ] de backup foi criado e o processo foi iniciado
+05/07/2012 19:09:05 | A tabela [ _continents ] foi copiada com sucesso
+05/07/2012 19:09:05 | A tabela [ _continents_br ] foi copiada com sucesso
+05/07/2012 19:09:05 | A tabela [ _countries ] foi copiada com sucesso
+05/07/2012 19:09:05 | A tabela [ _countries_br ] foi copiada com sucesso
+05/07/2012 19:09:05 | A tabela [ _paises ] foi copiada com sucesso
+05/07/2012 19:09:05 | A tabela [ _regions ] foi copiada com sucesso
+05/07/2012 19:09:06 | A tabela [ aeroportos ] foi copiada com sucesso
+05/07/2012 19:09:06 | A tabela [ aeroportos_bases ] foi copiada com sucesso
+05/07/2012 19:09:06 | A tabela [ avioes ] foi copiada com sucesso
+05/07/2012 19:09:06 | A tabela [ empresas ] foi copiada com sucesso
+05/07/2012 19:09:06 | A tabela [ empresas_avioes ] foi copiada com sucesso
+05/07/2012 19:09:06 | A tabela [ empresas_hubs ] foi copiada com sucesso
+05/07/2012 19:09:06 | A tabela [ empresas_slots ] foi copiada com sucesso
+05/07/2012 19:09:06 | A tabela [ fabricantes ] foi copiada com sucesso
+05/07/2012 19:09:06 | A tabela [ jogadores ] foi copiada com sucesso
+05/07/2012 19:09:06 | A tabela [ sis_acoes ] foi copiada com sucesso
+05/07/2012 19:09:06 | A tabela [ sis_backup ] foi copiada com sucesso
+05/07/2012 19:09:06 | A tabela [ sis_base ] foi copiada com sucesso
+05/07/2012 19:09:06 | A tabela [ sis_log ] foi copiada com sucesso
+05/07/2012 19:09:06 | A tabela [ sis_log_eventos ] foi copiada com sucesso
+05/07/2012 19:09:06 | A tabela [ sis_sessao ] foi copiada com sucesso
+05/07/2012 19:09:06 | A tabela [ sis_tabela ] foi copiada com sucesso
+05/07/2012 19:09:06 | O backup foi concluído e o processo gerou um arquivo de 2.07 Mb
+05/07/2012 19:09:06 | O arquivo de backup foi compactado [ 20120705.190905.voo_v1_0.manual.sql.gz ] para 359.91 Kb
+05/07/2012 19:09:06 | O Sistema alterou as permissões do arquivo de backup para 420
+05/07/2012 19:09:06 | Processo finalizado em 00:00:01
